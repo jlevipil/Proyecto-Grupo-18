@@ -1,0 +1,458 @@
+,id,imdb_id,title,primaryTitle,originalTitle,titleType,year,startYear,isAdult,runtimeMinutes,genres,averageRating,numVotes,directors,writers
+0,11035730,tt35922832,Ozzy: No Escape from Now,Ozzy Osbourne: No Escape from Now,Ozzy Osbourne: No Escape from Now,movie,2025,,0,,['Documentary'],,,['nm0018771'],[]
+1,1535445,tt9218128,Gladiator II,Gladiator II,Gladiator II,movie,2024,2024,0,148,"['Action', 'Adventure', 'Drama']",6.5,272412,['nm0000631'],"['nm0291905', 'nm0185976', 'nm0769227']"
+2,1437213,tt1745960,Top Gun: Maverick,Top Gun: Maverick,Top Gun: Maverick,movie,2022,2022,0,130,"['Action', 'Drama']",8.2,802254,['nm2676052'],"['nm0143596', 'nm0258390', 'nm0185976', 'nm1098479', 'nm0472567', 'nm2545235', 'nm0003160']"
+3,1856741,tt14260836,Better Man,Better Man,Better Man,movie,2024,2024,0,135,"['Biography', 'Fantasy', 'Music']",7.5,39052,['nm1243905'],"['nm0005560', 'nm2352568', 'nm2555314', 'nm1243905']"
+4,1583908,tt9764362,The Menu,The Menu,The Menu,movie,2022,2022,0,107,"['Comedy', 'Horror', 'Thriller']",7.2,469715,['nm0617042'],"['nm2219721', 'nm4301557']"
+5,1695539,tt3402138,The Naked Gun,The Naked Gun,The Naked Gun,movie,2025,2025,0,85,"['Action', 'Comedy', 'Crime']",6.7,51232,['nm1676223'],"['nm2287168', 'nm3096061', 'nm1676223', 'nm0000720', 'nm0001878', 'nm0958387']"
+6,1645477,tt15474916,Smile,Smile,Smile,movie,2022,2022,0,115,"['Horror', 'Mystery', 'Thriller']",6.5,224673,['nm6475689'],['nm6475689']
+7,1585258,tt10640346,Babylon,Babylon,Babylon,movie,2022,2022,0,189,"['Comedy', 'Drama']",7.1,198098,['nm3227090'],['nm3227090']
+8,1620816,tt13320622,The Lost City,The Lost City,The Lost City,movie,2022,2022,0,112,"['Action', 'Adventure', 'Comedy']",6.1,172341,"['nm1887480', 'nm1519639']","['nm3349927', 'nm1401416', 'nm1519639', 'nm1887480', 'nm1164861']"
+9,1607086,tt11245972,Scream,Scream,Scream,movie,2022,2022,0,114,"['Horror', 'Mystery', 'Thriller']",6.3,177975,"['nm2366012', 'nm2419470']","['nm0888743', 'nm2361509', 'nm0932078']"
+10,1616694,tt8864596,Transformers One,Transformers One,Transformers One,movie,2024,2024,0,104,"['Action', 'Adventure', 'Animation']",7.6,58052,['nm2155757'],"['nm3069408', 'nm3029372', 'nm2592245', 'nm1992327']"
+11,110429,tt6644200,A Quiet Place,A Quiet Place,A Quiet Place,movie,2018,2018,0,90,"['Drama', 'Horror', 'Sci-Fi']",7.5,638301,['nm1024677'],"['nm1456816', 'nm1399714', 'nm1024677']"
+12,1257215,tt4912910,Mission: Impossible - Fallout,Mission: Impossible - Fallout,Mission: Impossible - Fallout,movie,2018,2018,0,147,"['Action', 'Adventure', 'Thriller']",7.7,408861,['nm0003160'],"['nm0312367', 'nm0003160']"
+13,130381,tt2798920,Annihilation,Annihilation,Annihilation,movie,2018,2018,0,115,"['Adventure', 'Drama', 'Horror']",6.8,384695,['nm0307497'],"['nm0307497', 'nm4554159']"
+14,1884650,tt29603959,Novocaine,Novocaine,Novocaine,movie,2025,2025,0,110,"['Action', 'Comedy', 'Crime']",6.5,66556,"['nm3228270', 'nm1793586']",['nm2556052']
+15,1688039,tt18259086,Sonic the Hedgehog 3,Sonic the Hedgehog 3,Sonic the Hedgehog 3,movie,2024,2024,0,110,"['Action', 'Adventure', 'Comedy']",6.9,71049,['nm1733778'],"['nm1352459', 'nm1351254', 'nm4465847']"
+16,1616827,tt12412888,Sonic the Hedgehog 2,Sonic the Hedgehog 2,Sonic the Hedgehog 2,movie,2022,2022,0,122,"['Action', 'Adventure', 'Comedy']",6.5,110696,['nm1733778'],"['nm1352459', 'nm1351254', 'nm4465847']"
+17,1515637,tt8332922,A Quiet Place Part II,A Quiet Place Part II,A Quiet Place Part II,movie,2021,2020,0,97,"['Drama', 'Horror', 'Sci-Fi']",7.2,310226,['nm1024677'],"['nm1024677', 'nm1456816', 'nm1399714']"
+18,162771,tt4701182,Bumblebee,Bumblebee,Bumblebee,movie,2018,2018,0,114,"['Action', 'Adventure', 'Sci-Fi']",6.7,202453,['nm1325899'],['nm5429637']
+19,1451289,tt6450804,Terminator: Dark Fate,Terminator: Dark Fate,Terminator: Dark Fate,movie,2019,2019,0,128,"['Action', 'Adventure', 'Sci-Fi']",6.2,207286,['nm1783265'],"['nm0275286', 'nm1221634', 'nm0712753', 'nm0000116', 'nm0251050', 'nm0295264', 'nm0005036']"
+20,1354993,tt3794354,Sonic the Hedgehog,Sonic the Hedgehog,Sonic the Hedgehog,movie,2020,2020,0,99,"['Action', 'Adventure', 'Comedy']",6.5,185575,['nm1733778'],"['nm1352459', 'nm1351254', 'nm0619913', 'nm1398795', 'nm1432739']"
+21,1636699,tt13433802,A Quiet Place: Day One,A Quiet Place: Day One,A Quiet Place: Day One,movie,2024,2024,0,99,"['Drama', 'Horror', 'Sci-Fi']",6.3,160567,['nm3968825'],"['nm3968825', 'nm1024677', 'nm1456816', 'nm1399714']"
+22,1570233,tt2222042,Love and Monsters,Love and Monsters,Love and Monsters,movie,2020,2020,0,109,"['Action', 'Adventure', 'Comedy']",6.9,155201,['nm3462290'],"['nm3929259', 'nm2816668']"
+23,1566627,tt9603212,Mission: Impossible - Dead Reckoning Part One,Mission: Impossible - Dead Reckoning Part One,Mission: Impossible - Dead Reckoning Part One,movie,2023,2023,0,163,"['Action', 'Adventure', 'Thriller']",7.6,311264,['nm0003160'],"['nm0312367', 'nm0003160', 'nm0420701']"
+24,1112635,tt2906216,Dungeons & Dragons: Honor Among Thieves,Dungeons & Dragons: Honor Among Thieves,Dungeons & Dragons: Honor Among Thieves,movie,2023,2023,0,134,"['Action', 'Adventure', 'Comedy']",7.2,265423,"['nm0197855', 'nm0326246']","['nm0326246', 'nm0197855', 'nm0318580', 'nm0003021']"
+25,1870910,tt29268110,Smile 2,Smile 2,Smile 2,movie,2024,2024,0,127,"['Horror', 'Mystery', 'Thriller']",6.7,123146,['nm6475689'],['nm6475689']
+26,1767720,tt28082769,September 5,September 5,September 5,movie,2024,2024,0,95,"['Drama', 'History', 'Thriller']",7.1,30172,['nm2959497'],"['nm9415549', 'nm2959497', 'nm1017048']"
+27,1291905,tt4530422,Overlord,Overlord,Overlord,movie,2018,2018,0,110,"['Action', 'Horror', 'Sci-Fi']",6.6,112410,['nm1170339'],"['nm0712753', 'nm1872664']"
+28,1467276,tt2582802,Whiplash,Whiplash,Whiplash,movie,2014,2014,0,106,"['Drama', 'Music']",8.5,1098217,['nm3227090'],['nm3227090']
+29,183690,tt8364368,Crawl,Crawl,Crawl,movie,2019,2019,0,87,"['Action', 'Horror', 'Thriller']",6.1,100322,['nm0014960'],"['nm1726531', 'nm1726912']"
+30,1299858,tt0837563,Pet Sematary,Pet Sematary,Pet Sematary,movie,2019,2019,0,100,"['Horror', 'Mystery', 'Thriller']",5.7,102775,"['nm1556116', 'nm1552637']","['nm0000175', 'nm0338557', 'nm1161528']"
+31,1675416,tt17663992,Scream VI,Scream VI,Scream VI,movie,2023,2023,0,122,"['Horror', 'Mystery', 'Thriller']",6.4,142153,"['nm2366012', 'nm2419470']","['nm0888743', 'nm2361509', 'nm0932078']"
+32,1472159,tt0816711,World War Z,World War Z,World War Z,movie,2013,2013,0,116,"['Action', 'Adventure', 'Horror']",7.0,763357,['nm0286975'],"['nm1996352', 'nm1206844', 'nm0511541', 'nm0833089', 'nm0112150']"
+33,1274714,tt2872718,Nightcrawler,Nightcrawler,Nightcrawler,movie,2014,2014,0,117,"['Crime', 'Drama', 'Thriller']",7.8,647419,['nm0319659'],['nm0319659']
+34,1257216,tt1229238,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,movie,2011,2011,0,132,"['Action', 'Adventure', 'Thriller']",7.4,555906,['nm0083348'],"['nm0312367', 'nm0032227', 'nm0625858']"
+35,133851,tt2543164,Arrival,Arrival,Arrival,movie,2016,2016,0,116,"['Drama', 'Mystery', 'Sci-Fi']",7.9,832923,['nm0898288'],"['nm2104063', 'nm5384213']"
+36,1612693,tt5090568,Transformers: Rise of the Beasts,Transformers: Rise of the Beasts,Transformers: Rise of the Beasts,movie,2023,2023,0,127,"['Action', 'Adventure', 'Sci-Fi']",6.0,126120,['nm4023702'],"['nm1703612', 'nm10258983', 'nm8352716', 'nm0388375', 'nm0388377']"
+37,1439254,tt2109248,Transformers: Age of Extinction,Transformers: Age of Extinction,Transformers: Age of Extinction,movie,2014,2014,0,165,"['Action', 'Adventure', 'Comedy']",5.6,343816,['nm0000881'],['nm0472567']
+38,1391557,tt6133466,The First Purge,The First Purge,The First Purge,movie,2018,2018,0,97,"['Action', 'Horror', 'Sci-Fi']",5.2,76262,['nm2618764'],['nm0218621']
+39,1365314,tt1650062,Super 8,Super 8,Super 8,movie,2011,2011,0,112,"['Action', 'Sci-Fi', 'Thriller']",7.0,376329,['nm0009190'],['nm0009190']
+40,1359266,tt1408101,Star Trek Into Darkness,Star Trek Into Darkness,Star Trek Into Darkness,movie,2013,2013,0,132,"['Action', 'Adventure', 'Sci-Fi']",7.7,506055,['nm0009190'],"['nm0649460', 'nm0476064', 'nm0511541', 'nm0734472']"
+41,1257217,tt2381249,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,movie,2015,2015,0,131,"['Action', 'Adventure', 'Thriller']",7.4,437146,['nm0003160'],"['nm0312367', 'nm0003160', 'nm1510800']"
+42,1252064,tt1409024,Men in Black 3,Men in Black³,Men in Black³,movie,2012,2012,0,106,"['Action', 'Adventure', 'Comedy']",6.8,404229,['nm0001756'],"['nm1000113', 'nm0192384']"
+43,1188727,tt0790724,Jack Reacher,Jack Reacher,Jack Reacher,movie,2012,2012,0,130,"['Action', 'Thriller']",7.0,383217,['nm0003160'],"['nm1676193', 'nm0003160']"
+44,1479577,tt1790885,Zero Dark Thirty,Zero Dark Thirty,Zero Dark Thirty,movie,2012,2012,0,157,"['Drama', 'History', 'Thriller']",7.4,333658,['nm0000941'],['nm1676793']
+45,1374081,tt1340138,Terminator Genisys,Terminator Genisys,Terminator Genisys,movie,2015,2015,0,126,"['Action', 'Adventure', 'Sci-Fi']",6.3,302580,['nm0851930'],"['nm0436164', 'nm0527261', 'nm0000116', 'nm0005036']"
+46,1196005,tt1564367,Just Go with It,Just Go with It,Just Go with It,movie,2011,2011,0,117,"['Comedy', 'Romance']",6.4,282109,['nm0240797'],"['nm1615610', 'nm0000251', 'nm0224634', 'nm0123242', 'nm0054667', 'nm0344899']"
+47,1172027,tt0970179,Hugo,Hugo,Hugo,movie,2011,2011,0,126,"['Adventure', 'Drama', 'Family']",7.5,345125,['nm0000217'],"['nm0517589', 'nm2561765']"
+48,1558773,tt6079516,I See You,I See You,I See You,movie,2019,2019,0,98,"['Horror', 'Mystery', 'Thriller']",6.8,72853,['nm1726691'],['nm1984458']
+49,1372768,tt1291150,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,movie,2014,2014,0,101,"['Action', 'Adventure', 'Comedy']",5.8,226752,['nm0509448'],"['nm0032227', 'nm0625858', 'nm2489193', 'nm0481990', 'nm0247653']"
+50,1346477,tt1130884,Shutter Island,Shutter Island,Shutter Island,movie,2010,2010,0,138,"['Drama', 'Mystery', 'Thriller']",8.2,1578992,['nm0000217'],"['nm0436164', 'nm1212331']"
+51,1340523,tt1931533,Seven Psychopaths,Seven Psychopaths,Seven Psychopaths,movie,2012,2012,0,110,"['Comedy', 'Crime']",7.1,283592,['nm1732981'],['nm1732981']
+52,1276287,tt0477348,No Country for Old Men,No Country for Old Men,No Country for Old Men,movie,2007,2007,0,122,"['Crime', 'Drama', 'Thriller']",8.2,1145518,"['nm0001053', 'nm0001054']","['nm0001054', 'nm0001053', 'nm0565092']"
+53,1229054,tt5442430,Life,Life,Life,movie,2017,2017,0,104,"['Horror', 'Sci-Fi', 'Thriller']",6.6,270985,['nm1174251'],"['nm1014201', 'nm1116660']"
+54,1158270,tt1428538,Hansel & Gretel: Witch Hunters,Hansel & Gretel: Witch Hunters,Hansel & Gretel: Witch Hunters,movie,2013,2013,0,88,"['Action', 'Fantasy', 'Horror']",6.1,223884,['nm2482088'],"['nm2482088', 'nm0342278', 'nm0342303']"
+55,1608899,tt11466222,Jackass Forever,Jackass Forever,Jackass Forever,movie,2022,2022,0,96,"['Action', 'Comedy', 'Documentary']",6.8,53937,['nm0871860'],"['nm0010338', 'nm0960537', 'nm2207459', 'nm1079524', 'nm1029269', 'nm0257424', 'nm9301658', 'nm1030622', 'nm4953179', 'nm1035634', 'nm1029878', 'nm9265587', 'nm0546640', 'nm0569199', 'nm1719646', 'nm0690686', 'nm7567645', 'nm0828177', 'nm1017027', 'nm0871860', 'nm1336162', 'nm4926932', 'nm10559277']"
+56,1593270,tt11152168,IF,IF,If,movie,2024,2024,0,104,"['Animation', 'Comedy', 'Drama']",6.4,61379,['nm1024677'],['nm1024677']
+57,1480541,tt0443706,Zodiac,Zodiac,Zodiac,movie,2007,2007,0,157,"['Crime', 'Drama', 'Mystery']",7.7,647866,['nm0000399'],"['nm0888743', 'nm1172196']"
+58,1461996,tt0407304,War of the Worlds,War of the Worlds,War of the Worlds,movie,2005,2005,0,117,"['Action', 'Adventure', 'Sci-Fi']",6.6,497093,['nm0000229'],"['nm0295264', 'nm0462895', 'nm0920229']"
+59,1441124,tt0942385,Tropic Thunder,Tropic Thunder,Tropic Thunder,movie,2008,2008,0,107,"['Action', 'Comedy', 'War']",7.1,476340,['nm0001774'],"['nm0857620', 'nm0001774', 'nm1000113']"
+60,1439257,tt3371366,Transformers: The Last Knight,Transformers: The Last Knight,Transformers: The Last Knight,movie,2017,2017,0,154,"['Action', 'Adventure', 'Comedy']",5.2,180758,['nm0000881'],"['nm1436466', 'nm0391344', 'nm0634307', 'nm0326040']"
+61,1428531,tt1596365,The Woman in Black,The Woman in Black,The Woman in Black,movie,2012,2012,0,95,"['Drama', 'Fantasy', 'Horror']",6.4,197575,['nm1220140'],"['nm0384702', 'nm0963359']"
+62,1406951,tt0472399,The Mechanic,The Mechanic,The Mechanic,movie,2011,2011,0,93,"['Action', 'Crime', 'Thriller']",6.5,180000,['nm0922346'],"['nm0921013', 'nm0137573']"
+63,1359256,tt2660888,Star Trek Beyond,Star Trek Beyond,Star Trek Beyond,movie,2016,2016,0,122,"['Action', 'Adventure', 'Sci-Fi']",7.0,266501,['nm0510912'],"['nm0670408', 'nm1136647', 'nm0734472', 'nm0649460', 'nm4259881', 'nm4260438']"
+64,1359246,tt0796366,Star Trek,Star Trek,Star Trek,movie,2009,2009,0,127,"['Action', 'Adventure', 'Sci-Fi']",7.9,632341,['nm0009190'],"['nm0649460', 'nm0476064', 'nm0734472']"
+65,1348450,tt0401792,Sin City,Sin City,Sin City,movie,2005,2005,0,124,"['Crime', 'Thriller']",8.0,812547,"['nm0588340', 'nm0000233', 'nm0001675']","['nm0588340', 'nm0001675']"
+66,1336409,tt1262416,Scream 4,Scream 4,Scream 4,movie,2011,2011,0,111,"['Horror', 'Mystery']",6.2,182974,['nm0000127'],['nm0932078']
+67,1261298,tt5109784,mother!,Mother!,Mother!,movie,2017,2017,0,121,"['Drama', 'Horror', 'Mystery']",6.6,262270,['nm0004716'],['nm0004716']
+68,1255999,tt0181689,Minority Report,Minority Report,Minority Report,movie,2002,2002,0,145,"['Action', 'Crime', 'Mystery']",7.6,608956,['nm0000229'],"['nm0291082', 'nm0169509', 'nm0001140']"
+69,1250278,tt0377092,Mean Girls,Mean Girls,Mean Girls,movie,2004,2004,0,97,['Comedy'],7.1,470260,['nm0914132'],"['nm1577281', 'nm0275486']"
+70,1153878,tt2191701,Grown Ups 2,Grown Ups 2,Grown Ups 2,movie,2013,2013,0,101,['Comedy'],5.4,184565,['nm0240797'],"['nm0937748', 'nm0001191', 'nm0379056']"
+71,1105826,tt1136608,District 9,District 9,District 9,movie,2009,2009,0,112,"['Action', 'Sci-Fi', 'Thriller']",7.9,741097,['nm0088955'],"['nm0088955', 'nm2833612']"
+72,140772,tt1284575,Bad Teacher,Bad Teacher,Bad Teacher,movie,2011,2011,0,92,"['Comedy', 'Romance']",5.7,219235,['nm0440458'],"['nm1969144', 'nm1072409']"
+73,1142939,tt1583421,G.I. Joe: Retaliation,G.I. Joe: Retaliation,G.I. Joe: Retaliation,movie,2013,2013,0,110,"['Action', 'Adventure', 'Sci-Fi']",5.7,191139,['nm0160840'],"['nm1014201', 'nm1116660']"
+74,1399501,tt0317740,The Italian Job,The Italian Job,The Italian Job,movie,2003,2003,0,111,"['Action', 'Crime', 'Thriller']",7.0,401725,['nm0336620'],"['nm0448392', 'nm0694526', 'nm0694638']"
+75,1416013,tt0298130,The Ring,The Ring,The Ring,movie,2002,2002,0,115,"['Horror', 'Mystery']",7.1,393650,['nm0893659'],"['nm0472567', 'nm0840626', 'nm0847126']"
+76,1367127,tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street,movie,2007,2007,0,116,"['Drama', 'Horror', 'Musical']",7.3,400520,['nm0000318'],"['nm0517589', 'nm0923839', 'nm0093904']"
+77,1257219,tt0317919,Mission: Impossible III,Mission: Impossible III,Mission: Impossible III,movie,2006,2006,0,126,"['Action', 'Adventure', 'Thriller']",6.9,416488,['nm0009190'],"['nm0476064', 'nm0649460', 'nm0009190', 'nm0312367']"
+78,1252065,tt0120912,Men in Black II,Men in Black II,Men in Black II,movie,2002,2002,0,88,"['Action', 'Adventure', 'Comedy']",6.2,422966,['nm0001756'],"['nm0192384', 'nm0330565', 'nm0266673']"
+79,1162636,tt0167190,Hellboy,Hellboy,Hellboy,movie,2004,2004,0,122,"['Action', 'Adventure', 'Fantasy']",6.9,364285,['nm0868219'],"['nm0868219', 'nm1486009', 'nm0586005']"
+80,1144084,tt0217505,Gangs of New York,Gangs of New York,Gangs of New York,movie,2002,2002,0,167,"['Crime', 'Drama']",7.5,493208,['nm0000217'],"['nm0168379', 'nm0001873', 'nm0518836']"
+81,179136,tt0369339,Collateral,Collateral,Collateral,movie,2004,2004,0,120,"['Action', 'Crime', 'Drama']",7.5,456219,['nm0000520'],['nm0064181']
+82,178157,tt1060277,Cloverfield,Cloverfield,Cloverfield,movie,2008,2008,0,85,"['Action', 'Horror', 'Sci-Fi']",7.0,437314,['nm0716257'],['nm1206844']
+83,128081,tt1229340,Anchorman 2: The Legend Continues,Anchorman 2: The Legend Continues,Anchorman 2: The Legend Continues,movie,2013,2013,0,119,['Comedy'],6.3,198982,['nm0570912'],"['nm0002071', 'nm0570912']"
+84,123368,tt3640424,Allied,Allied,Allied,movie,2016,2016,0,124,"['Action', 'Drama', 'Romance']",7.1,177127,['nm0000709'],['nm1140275']
+85,113468,tt0212720,A.I. Artificial Intelligence,A.I. Artificial Intelligence,A.I. Artificial Intelligence,movie,2001,2001,0,146,"['Adventure', 'Drama', 'Sci-Fi']",7.2,333772,['nm0000229'],"['nm0000735', 'nm0914668', 'nm0000229']"
+86,1583803,tt8589698,Teenage Mutant Ninja Turtles: Mutant Mayhem,Teenage Mutant Ninja Turtles: Mutant Mayhem,Teenage Mutant Ninja Turtles: Mutant Mayhem,movie,2023,2023,0,99,"['Action', 'Adventure', 'Animation']",7.2,75317,"['nm6676487', 'nm5859016']","['nm0736622', 'nm1698571', 'nm6676487', 'nm2021624', 'nm1658012', 'nm1895993', 'nm0481990', 'nm0247653']"
+87,1454103,tt0259711,Vanilla Sky,Vanilla Sky,Vanilla Sky,movie,2001,2001,0,136,"['Fantasy', 'Mystery', 'Romance']",6.9,300582,['nm0001081'],"['nm0024622', 'nm0317834', 'nm0001081']"
+88,1439256,tt1055369,Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,movie,2009,2009,0,149,"['Action', 'Adventure', 'Sci-Fi']",6.0,446154,['nm0000881'],"['nm0472567', 'nm0649460', 'nm0476064']"
+89,1405145,tt0361862,The Machinist,The Machinist,The Machinist,movie,2004,2004,0,101,"['Drama', 'Thriller']",7.6,433533,['nm0026442'],['nm0466925']
+90,1399403,tt0399201,The Island,The Island,The Island,movie,2005,2005,0,136,"['Action', 'Sci-Fi', 'Thriller']",6.8,336197,['nm0000881'],"['nm0654100', 'nm0476064', 'nm0649460']"
+91,1347616,tt0490215,Silence,Silence,Silence,movie,2016,2016,0,161,"['Drama', 'History']",7.2,129646,['nm0000217'],"['nm0168379', 'nm0000217', 'nm0256870']"
+92,1335911,tt0332379,School of Rock,School of Rock,School of Rock,movie,2003,2003,0,109,"['Comedy', 'Music']",7.2,349424,['nm0000500'],['nm0925234']
+93,1323952,tt0257044,Road to Perdition,Road to Perdition,Road to Perdition,movie,2002,2002,0,117,"['Crime', 'Drama', 'Thriller']",7.6,295831,['nm0005222'],"['nm0172523', 'nm0713479', 'nm0783100']"
+94,1299264,tt0396171,Perfume: The Story of a Murderer,Perfume: The Story of a Murderer,Perfume: The Story of a Murderer,movie,2006,2006,0,147,"['Crime', 'Drama', 'Fantasy']",7.5,274968,['nm0878756'],"['nm0001949', 'nm0251536', 'nm0878756', 'nm0845752']"
+95,1153877,tt1375670,Grown Ups,Grown Ups,Grown Ups,movie,2010,2010,0,102,['Comedy'],6.0,302446,['nm0240797'],"['nm0001191', 'nm0937748']"
+96,1684218,tt8323668,Jerry & Marge Go Large,Jerry and Marge Go Large,Jerry & Marge Go Large,movie,2022,2022,0,96,"['Biography', 'Comedy', 'Drama']",6.9,31959,['nm0291205'],"['nm2321019', 'nm0178589']"
+97,1360238,tt0838283,Step Brothers,Step Brothers,Step Brothers,movie,2008,2008,0,98,['Comedy'],6.9,334219,['nm0570912'],"['nm0002071', 'nm0570912', 'nm0000604']"
+98,1295162,tt1179904,Paranormal Activity,Paranormal Activity,Paranormal Activity,movie,2007,2007,0,86,"['Horror', 'Mystery']",6.3,267256,['nm2305431'],['nm2305431']
+99,1294066,tt0258000,Panic Room,Panic Room,Panic Room,movie,2002,2002,0,112,"['Crime', 'Drama', 'Thriller']",6.8,309522,['nm0000399'],['nm0462895']
+100,1188732,tt1205537,Jack Ryan: Shadow Recruit,Jack Ryan: Shadow Recruit,Jack Ryan: Shadow Recruit,movie,2014,2014,0,105,"['Action', 'Drama', 'Thriller']",6.2,141460,['nm0000110'],"['nm3092414', 'nm0462895', 'nm0002007']"
+101,1153235,tt4062536,Green Room,Green Room,Green Room,movie,2016,2015,0,95,"['Crime', 'Horror', 'Music']",7.0,149647,['nm1099918'],['nm1099918']
+102,1150965,tt0452623,Gone Baby Gone,Gone Baby Gone,Gone Baby Gone,movie,2007,2007,0,114,"['Crime', 'Drama', 'Mystery']",7.6,304281,['nm0000255'],"['nm0000255', 'nm0830760', 'nm1212331']"
+103,1105842,tt0486822,Disturbia,Disturbia,Disturbia,movie,2007,2007,0,105,"['Crime', 'Drama', 'Mystery']",6.8,268831,['nm0142286'],"['nm0484907', 'nm0255296']"
+104,187566,tt1528854,Daddy's Home,Daddy's Home,Daddy's Home,movie,2015,2015,0,96,"['Comedy', 'Family']",6.2,135974,['nm1890845'],"['nm0122602', 'nm1890845', 'nm1898234']"
+105,11420,tt0337563,13 Going on 30,13 Going on 30,13 Going on 30,movie,2004,2004,0,98,"['Comedy', 'Fantasy', 'Romance']",6.3,238674,['nm0935095'],"['nm0326092', 'nm0951135']"
+106,1439251,tt0418279,Transformers,Transformers,Transformers,movie,2007,2007,0,144,"['Action', 'Adventure', 'Sci-Fi']",7.1,704052,['nm0000881'],"['nm0649460', 'nm0476064', 'nm0736966']"
+107,1419899,tt0472181,The Smurfs,The Smurfs,The Smurfs,movie,2011,2011,0,103,"['Adventure', 'Animation', 'Comedy']",5.4,102130,['nm0331532'],"['nm0826425', 'nm0918955', 'nm0771065', 'nm0740115', 'nm0678963']"
+108,1404875,tt0380510,The Lovely Bones,The Lovely Bones,The Lovely Bones,movie,2009,2009,0,135,"['Drama', 'Fantasy', 'Thriller']",6.6,188062,['nm0001392'],"['nm0909638', 'nm0101991', 'nm0001392', 'nm1451254']"
+109,1404304,tt0398165,The Longest Yard,The Longest Yard,The Longest Yard,movie,2005,2005,0,113,"['Comedy', 'Crime', 'Sport']",6.4,205998,['nm0781842'],"['nm0748665', 'nm0944003', 'nm1417242']"
+110,1372772,tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,movie,2016,2016,0,112,"['Action', 'Adventure', 'Comedy']",5.9,104352,['nm1757777'],"['nm0032227', 'nm0625858', 'nm0481990', 'nm0247653']"
+111,1169953,tt0450278,Hostel,Hostel,Hostel,movie,2006,2005,0,94,['Horror'],5.9,200324,['nm0744834'],['nm0744834']
+112,173068,tt0299658,Chicago,Chicago,Chicago,movie,2002,2002,0,113,"['Comedy', 'Crime', 'Musical']",7.2,252291,['nm0551128'],"['nm0174374', 'nm0002080', 'nm0247939', 'nm0914362']"
+113,13197,tt0389722,30 Days of Night,30 Days of Night,30 Days of Night,movie,2007,2007,0,113,"['Horror', 'Thriller']",6.6,197149,['nm1720541'],"['nm0632051', 'nm0064181', 'nm0625198', 'nm2615528']"
+114,1310542,tt0110912,Pulp Fiction,Pulp Fiction,Pulp Fiction,movie,1994,1994,0,154,"['Crime', 'Drama']",8.8,2367400,['nm0000233'],"['nm0000233', 'nm0000812']"
+115,1151385,tt0119217,Good Will Hunting,Good Will Hunting,Good Will Hunting,movie,1997,1997,0,126,"['Drama', 'Romance']",8.3,1160164,['nm0001814'],"['nm0000354', 'nm0000255']"
+116,1391084,tt0964517,The Fighter,The Fighter,The Fighter,movie,2010,2010,0,116,"['Action', 'Biography', 'Drama']",7.8,401919,['nm0751102'],"['nm2565612', 'nm0848496', 'nm2053216', 'nm0798788']"
+117,1481078,tt0196229,Zoolander,Zoolander,Zoolander,movie,2001,2001,0,90,['Comedy'],6.5,309639,['nm0001774'],"['nm0766153', 'nm0001774', 'nm0357453']"
+118,1374079,tt0103064,Terminator 2: Judgment Day,Terminator 2: Judgment Day,Terminator 2: Judgment Day,movie,1991,1991,0,137,"['Action', 'Adventure', 'Sci-Fi']",8.6,1249904,['nm0000116'],"['nm0000116', 'nm0936537']"
+119,1336805,tt0329575,Seabiscuit,Seabiscuit,Seabiscuit,movie,2003,2003,0,140,"['Drama', 'History', 'Sport']",7.3,79025,['nm0002657'],"['nm1227780', 'nm0002657']"
+120,1286007,tt0285823,Once Upon a Time in Mexico,Once Upon a Time in Mexico,Once Upon a Time in Mexico,movie,2003,2003,0,102,"['Action', 'Crime', 'Thriller']",6.3,174628,['nm0001675'],['nm0001675']
+121,1148809,tt0172495,Gladiator,Gladiator,Gladiator,movie,2000,2000,0,155,"['Action', 'Adventure', 'Drama']",8.5,1791883,['nm0000631'],"['nm0291905', 'nm0517589', 'nm0629933']"
+122,1133772,tt0308644,Finding Neverland,Finding Neverland,Finding Neverland,movie,2004,2004,0,106,"['Biography', 'Drama', 'Family']",7.6,215607,['nm0286975'],"['nm0460632', 'nm1341735']"
+123,1132806,tt0137523,Fight Club,Fight Club,Fight Club,movie,1999,1999,0,139,"['Crime', 'Drama', 'Thriller']",8.8,2512324,['nm0000399'],"['nm0657333', 'nm0880243']"
+124,178972,tt0159365,Cold Mountain,Cold Mountain,Cold Mountain,movie,2003,2003,0,154,"['Adventure', 'Drama', 'Romance']",7.2,161663,['nm0005237'],"['nm0292565', 'nm0005237']"
+125,128082,tt0357413,Anchorman: The Legend of Ron Burgundy,Anchorman: The Legend of Ron Burgundy,Anchorman: The Legend of Ron Burgundy,movie,2004,2004,0,94,['Comedy'],7.1,394122,['nm0570912'],"['nm0002071', 'nm0570912']"
+126,1620509,tt12718300,"Confess, Fletch","Confess, Fletch","Confess, Fletch",movie,2022,2022,0,98,"['Comedy', 'Crime', 'Mystery']",6.4,26351,['nm0609549'],"['nm0567780', 'nm0609549', 'nm2859316']"
+127,1381783,tt0355295,The Brothers Grimm,The Brothers Grimm,The Brothers Grimm,movie,2005,2005,0,118,"['Action', 'Adventure', 'Comedy']",5.9,129703,['nm0000416'],['nm0472567']
+128,1335438,tt0795461,Scary Movie 5,Scary Movie V,Scary Movie 5,movie,2013,2013,0,86,['Comedy'],3.6,81274,"['nm0002700', 'nm0001878']","['nm0001878', 'nm0698493', 'nm0915465', 'nm0005541', 'nm0424688', 'nm0064556', 'nm0294997', 'nm0783536']"
+129,1335437,tt0362120,Scary Movie 4,Scary Movie 4,Scary Movie 4,movie,2006,2006,0,83,['Comedy'],5.1,135453,['nm0001878'],"['nm0563301', 'nm0000720', 'nm0698493', 'nm0915465', 'nm0005541', 'nm0424688', 'nm0064556', 'nm0294997', 'nm0783536']"
+130,1318167,tt0421239,Red Eye,Red Eye,Red Eye,movie,2005,2005,0,85,['Thriller'],6.4,162124,['nm0000127'],"['nm0255296', 'nm1929257']"
+131,1295165,tt1778304,Paranormal Activity 3,Paranormal Activity 3,Paranormal Activity 3,movie,2011,2011,0,83,"['Horror', 'Mystery', 'Thriller']",5.8,102838,"['nm1160962', 'nm1413364']","['nm0484907', 'nm2305431']"
+132,1252063,tt0119654,Men in Black,Men in Black,Men in Black,movie,1997,1997,0,98,"['Action', 'Adventure', 'Comedy']",7.3,647795,['nm0001756'],"['nm0192384', 'nm0004412']"
+133,1161573,tt0113277,Heat,Heat,Heat,movie,1995,1995,0,170,"['Action', 'Crime', 'Drama']",8.3,772734,['nm0000520'],['nm0000520']
+134,147843,tt0442933,Beowulf,Beowulf,Beowulf,movie,2007,2007,0,115,"['Action', 'Adventure', 'Animation']",6.3,178165,['nm0000709'],"['nm0301274', 'nm0000812', 'nm1511619']"
+135,1257214,tt0117060,Mission: Impossible,Mission: Impossible,Mission: Impossible,movie,1996,1996,0,110,"['Action', 'Adventure', 'Thriller']",7.2,505958,['nm0000361'],"['nm0312367', 'nm0462895', 'nm0001873', 'nm0001801']"
+136,145380,tt1559547,Beautiful Creatures,Beautiful Creatures,Beautiful Creatures,movie,2013,2013,0,124,"['Drama', 'Fantasy', 'Romance']",6.1,92565,['nm0481418'],"['nm0481418', 'nm3721581', 'nm0831130']"
+137,125804,tt0144084,American Psycho,American Psycho,American Psycho,movie,2000,2000,0,102,"['Crime', 'Drama', 'Horror']",7.6,797694,['nm0366004'],"['nm0254735', 'nm0366004', 'nm0877587']"
+138,1144747,tt0119177,Gattaca,Gattaca,Gattaca,movie,1997,1997,0,106,"['Drama', 'Sci-Fi', 'Thriller']",7.7,339506,['nm0629272'],['nm0629272']
+139,1482795,tt0402022,Æon Flux,Æon Flux,Æon Flux,movie,2005,2005,0,93,"['Action', 'Adventure', 'Sci-Fi']",5.4,135709,['nm0476201'],"['nm0006534', 'nm0542062', 'nm0161285']"
+140,1439255,tt1399103,Transformers: Dark of the Moon,Transformers: Dark of the Moon,Transformers: Dark of the Moon,movie,2011,2011,0,154,"['Action', 'Adventure', 'Comedy']",6.2,448178,['nm0000881'],['nm0472567']
+141,1421902,tt0164184,The Sum of All Fears,The Sum of All Fears,The Sum of All Fears,movie,2002,2002,0,124,"['Action', 'Drama', 'Thriller']",6.5,131046,['nm0004675'],"['nm0002007', 'nm0001921', 'nm0002417']"
+142,1420688,tt0345950,The SpongeBob SquarePants Movie,The SpongeBob SquarePants Movie,The SpongeBob SquarePants Movie,movie,2004,2004,0,87,"['Adventure', 'Animation', 'Comedy']",7.2,109329,"['nm0384864', 'nm0651706']","['nm0238757', 'nm0384722', 'nm0384864', 'nm0651692', 'nm0819711', 'nm1196684']"
+143,1406327,tt0368008,The Manchurian Candidate,The Manchurian Candidate,The Manchurian Candidate,movie,2004,2004,0,129,"['Drama', 'Mystery', 'Sci-Fi']",6.6,121271,['nm0001129'],"['nm0174410', 'nm0043480', 'nm0002417', 'nm1212988']"
+144,1257218,tt0120755,Mission: Impossible II,Mission: Impossible II,Mission: Impossible II,movie,2000,2000,0,123,"['Action', 'Adventure', 'Thriller']",6.1,404769,['nm0000247'],"['nm0312367', 'nm0601822', 'nm0103804', 'nm0001801']"
+145,1384823,tt0298814,The Core,The Core,The Core,movie,2003,2003,0,135,"['Action', 'Adventure', 'Sci-Fi']",5.5,113042,['nm0000750'],"['nm0493548', 'nm0736966']"
+146,1351115,tt0162661,Sleepy Hollow,Sleepy Hollow,Sleepy Hollow,movie,1999,1999,0,105,"['Fantasy', 'Horror', 'Mystery']",7.3,403436,['nm0000318'],"['nm0410331', 'nm0944892', 'nm0001825']"
+147,1336403,tt0117571,Scream,Scream,Scream,movie,1996,1996,0,111,"['Horror', 'Mystery']",7.4,424747,['nm0000127'],['nm0932078']
+148,1128402,tt0119094,Face/Off,Face/Off,Face/Off,movie,1997,1997,0,138,"['Action', 'Crime', 'Sci-Fi']",7.3,418442,['nm0000247'],"['nm0108273', 'nm0171718']"
+149,187567,tt5657846,Daddy's Home 2,Daddy's Home 2,Daddy's Home 2,movie,2017,2017,0,100,['Comedy'],6.0,89449,['nm1890845'],"['nm1890845', 'nm1898234', 'nm0122602']"
+150,1140725,tt0116367,From Dusk Till Dawn,From Dusk Till Dawn,From Dusk Till Dawn,movie,1996,1996,0,108,"['Action', 'Crime', 'Horror']",7.2,360371,['nm0001675'],"['nm0476071', 'nm0000233']"
+151,1675841,tt8521778,Bob Marley: One Love,Bob Marley: One Love,Bob Marley: One Love,movie,2024,2024,0,107,"['Biography', 'Drama', 'Music']",6.2,36593,['nm3232264'],"['nm1010540', 'nm1248193', 'nm1598140', 'nm3232264']"
+152,157540,tt0118749,Boogie Nights,Boogie Nights,Boogie Nights,movie,1997,1997,0,155,['Drama'],7.9,294571,['nm0000759'],['nm0000759']
+153,1422547,tt0134119,The Talented Mr. Ripley,The Talented Mr. Ripley,The Talented Mr. Ripley,movie,1999,1999,0,139,"['Crime', 'Drama', 'Thriller']",7.4,264365,['nm0005237'],"['nm0383604', 'nm0005237']"
+154,1307873,tt0117381,Primal Fear,Primal Fear,Primal Fear,movie,1996,1996,0,129,"['Crime', 'Drama', 'Mystery']",7.7,269503,['nm0387706'],"['nm0225942', 'nm0787399', 'nm0081189']"
+155,1295166,tt2109184,Paranormal Activity 4,Paranormal Activity 4,Paranormal Activity 4,movie,2012,2012,0,88,"['Horror', 'Mystery']",4.7,72660,"['nm1160962', 'nm1413364']","['nm0484907', 'nm1739039', 'nm2305431']"
+156,1295163,tt1536044,Paranormal Activity 2,Paranormal Activity 2,Paranormal Activity 2,movie,2010,2010,0,91,"['Horror', 'Mystery']",5.7,113524,['nm0931095'],"['nm0675219', 'nm0484907', 'nm2317082', 'nm2305431']"
+157,1268394,tt0457510,Nacho Libre,Nacho Libre,Nacho Libre,movie,2006,2006,0,92,"['Comedy', 'Family', 'Sport']",5.9,99654,['nm0381478'],"['nm0381478', 'nm1415801', 'nm0925234']"
+158,123880,tt0164334,Along Came a Spider,Along Came a Spider,Along Came a Spider,movie,2001,2001,0,104,"['Crime', 'Drama', 'Mystery']",6.4,100308,['nm0848414'],"['nm0666248', 'nm0609031']"
+159,123615,tt0181875,Almost Famous,Almost Famous,Almost Famous,movie,2000,2000,0,122,"['Adventure', 'Comedy', 'Drama']",7.9,308026,['nm0001081'],['nm0001081']
+160,1420573,tt0416236,The Spiderwick Chronicles,The Spiderwick Chronicles,The Spiderwick Chronicles,movie,2008,2008,0,96,"['Action', 'Adventure', 'Drama']",6.5,107056,['nm0914132'],"['nm0456732', 'nm1183854', 'nm0000626', 'nm1650403', 'nm1649488']"
+161,1356151,tt0158983,"South Park: Bigger, Longer & Uncut","South Park: Bigger, Longer & Uncut","South Park: Bigger, Longer & Uncut",movie,1999,1999,0,81,"['Animation', 'Comedy', 'Fantasy']",7.7,222020,['nm0005295'],"['nm0005295', 'nm0001778', 'nm0103702']"
+162,1356695,tt0371246,Spanglish,Spanglish,Spanglish,movie,2004,2004,0,131,"['Comedy', 'Drama', 'Romance']",6.4,91506,['nm0000985'],['nm0000985']
+163,1242402,tt0252076,Maid in Manhattan,Maid in Manhattan,Maid in Manhattan,movie,2002,2002,0,105,"['Comedy', 'Drama', 'Romance']",5.4,100567,['nm0911061'],"['nm0000455', 'nm0905458']"
+164,1169960,tt0498353,Hostel: Part II,Hostel: Part II,Hostel: Part II,movie,2007,2007,0,94,['Horror'],5.5,100227,['nm0744834'],['nm0744834']
+165,1336407,tt0120082,Scream 2,Scream 2,Scream 2,movie,1997,1997,0,120,"['Horror', 'Mystery']",6.3,226012,['nm0000127'],['nm0932078']
+166,178266,tt0112697,Clueless,Clueless,Clueless,movie,1995,1995,0,97,"['Comedy', 'Romance']",6.9,269033,['nm0002132'],['nm0002132']
+167,168374,tt0795351,Case 39,Case 39,Case 39,movie,2009,2009,0,109,"['Horror', 'Mystery', 'Thriller']",6.2,97514,['nm0023355'],['nm1242522']
+168,144030,tt0103772,Basic Instinct,Basic Instinct,Basic Instinct,movie,1992,1992,0,127,"['Drama', 'Mystery', 'Romance']",7.1,236072,['nm0000682'],['nm0000390']
+169,1437211,tt0092099,Top Gun,Top Gun,Top Gun,movie,1986,1986,0,109,"['Action', 'Drama']",7.0,536668,['nm0001716'],"['nm0143596', 'nm0258390', 'nm1274594']"
+170,1434991,tt0048728,To Catch a Thief,To Catch a Thief,To Catch a Thief,movie,1955,1955,0,106,"['Drama', 'Mystery', 'Romance']",7.4,84728,['nm0000033'],"['nm0371088', 'nm0230196', 'nm0178785']"
+171,1426150,tt0159097,The Virgin Suicides,The Virgin Suicides,The Virgin Suicides,movie,2000,1999,0,97,"['Drama', 'Romance']",7.2,181837,['nm0001068'],"['nm0262325', 'nm0001068']"
+172,1425227,tt0815245,The Uninvited,The Uninvited,The Uninvited,movie,2009,2009,0,87,"['Drama', 'Fantasy', 'Horror']",6.3,88036,"['nm0345294', 'nm0345307']","['nm0742194', 'nm1215164', 'nm0076166', 'nm0453518']"
+173,1416823,tt0963794,The Ruins,The Ruins,The Ruins,movie,2008,2008,0,90,"['Adventure', 'Horror', 'Thriller']",5.9,89144,['nm2127650'],['nm0809895']
+174,1376090,tt0101272,The Addams Family,The Addams Family,The Addams Family,movie,1991,1991,0,99,"['Comedy', 'Fantasy']",7.0,194772,['nm0001756'],"['nm0011623', 'nm0003031', 'nm0933733']"
+175,1359267,tt0253754,Star Trek: Nemesis,Star Trek: Nemesis,Star Trek: Nemesis,movie,2002,2002,0,116,"['Action', 'Adventure', 'Sci-Fi']",6.4,86572,['nm0000829'],"['nm0734472', 'nm0517589', 'nm0075834', 'nm0000653']"
+176,1336408,tt0134084,Scream 3,Scream 3,Scream 3,movie,2000,2000,0,116,"['Horror', 'Mystery']",5.7,176376,['nm0000127'],"['nm0932078', 'nm0472567']"
+177,1219131,tt1967545,Labor Day,Labor Day,Labor Day,movie,2013,2013,0,111,"['Crime', 'Drama', 'Romance']",6.9,54963,['nm0718646'],"['nm0718646', 'nm0562767']"
+178,1174559,tt0119345,I Know What You Did Last Summer,I Know What You Did Last Summer,I Know What You Did Last Summer,movie,1997,1997,0,101,"['Horror', 'Mystery']",5.8,174172,['nm0318947'],"['nm0932078', 'nm0242028']"
+179,195456,tt0120647,Deep Impact,Deep Impact,Deep Impact,movie,1998,1998,0,120,"['Action', 'Drama', 'Sci-Fi']",6.3,200467,['nm0001460'],"['nm0748022', 'nm0866062']"
+180,1620743,tt11851548,Orphan: First Kill,Orphan: First Kill,Orphan: First Kill,movie,2022,2022,0,99,"['Crime', 'Drama', 'Horror']",5.9,52112,['nm0068587'],"['nm1548597', 'nm0424901', 'nm2858852']"
+181,1465525,tt0161081,What Lies Beneath,What Lies Beneath,What Lies Beneath,movie,2000,2000,0,130,"['Drama', 'Horror', 'Mystery']",6.6,141918,['nm0000709'],"['nm0163988', 'nm0449576']"
+182,1390284,tt0133751,The Faculty,The Faculty,The Faculty,movie,1998,1998,0,104,"['Horror', 'Mystery', 'Sci-Fi']",6.6,143700,['nm0001675'],"['nm0917066', 'nm0453987', 'nm0932078']"
+183,174587,tt1352824,Chloe,Chloe,Chloe,movie,2010,2009,0,96,"['Drama', 'Mystery', 'Thriller']",6.2,81084,['nm0000382'],"['nm0933379', 'nm0284774']"
+184,1430765,tt1621045,Think Like a Man,Think Like a Man,Think Like a Man,movie,2012,2012,0,122,"['Comedy', 'Romance']",6.5,52062,['nm1103162'],"['nm2226647', 'nm2226970', 'nm0367724']"
+185,1408904,tt0102510,The Naked Gun 2½: The Smell of Fear,The Naked Gun 2½: The Smell of Fear,The Naked Gun 2½: The Smell of Fear,movie,1991,1991,0,85,"['Comedy', 'Crime']",6.9,134996,['nm0001878'],"['nm0000720', 'nm0001878', 'nm0958387', 'nm0698493']"
+186,1140284,tt0120679,Frida,Frida,Frida,movie,2002,2002,0,123,"['Biography', 'Drama', 'Romance']",7.3,100239,['nm0853380'],"['nm0380419', 'nm0797397', 'nm1187860', 'nm0622695', 'nm0858482']"
+187,116657,tt0106220,Addams Family Values,Addams Family Values,Addams Family Values,movie,1993,1993,0,94,"['Comedy', 'Fantasy']",6.8,119195,['nm0001756'],"['nm0011623', 'nm0397411']"
+188,1391449,tt0106918,The Firm,The Firm,The Firm,movie,1993,1993,0,154,"['Drama', 'Mystery', 'Thriller']",6.9,157201,['nm0001628'],"['nm0001300', 'nm0704792', 'nm0001801', 'nm0713128']"
+189,1359261,tt0117731,Star Trek: First Contact,Star Trek: First Contact,Star Trek: First Contact,movie,1996,1996,0,111,"['Action', 'Adventure', 'Drama']",7.6,135958,['nm0000408'],"['nm0734472', 'nm0075834', 'nm0103804', 'nm0601822']"
+190,1269071,tt0110622,Naked Gun 33⅓: The Final Insult,Naked Gun 33 1/3: The Final Insult,Naked Gun 33 1/3: The Final Insult,movie,1994,1994,0,83,"['Comedy', 'Crime']",6.5,122776,['nm0781842'],"['nm0698493', 'nm0001878', 'nm0516598', 'nm0000720', 'nm0958387']"
+191,1408905,tt0095705,The Naked Gun: From the Files of Police Squad!,The Naked Gun: From the Files of Police Squad!,The Naked Gun: From the Files of Police Squad!,movie,1988,1988,0,85,"['Comedy', 'Crime']",7.6,211295,['nm0001878'],"['nm0958387', 'nm0000720', 'nm0001878', 'nm0698493']"
+192,1398177,tt0099810,The Hunt for Red October,The Hunt for Red October,The Hunt for Red October,movie,1990,1990,0,135,"['Action', 'Adventure', 'Thriller']",7.5,225617,['nm0001532'],"['nm0002007', 'nm0272511', 'nm0829329', 'nm0787072']"
+193,1391930,tt0091064,The Fly,The Fly,The Fly,movie,1986,1986,0,96,"['Drama', 'Horror', 'Sci-Fi']",7.6,217544,['nm0000343'],"['nm0486228', 'nm0688279', 'nm0000343']"
+194,1389832,tt0083907,The Evil Dead,The Evil Dead,The Evil Dead,movie,1981,1981,0,85,['Horror'],7.4,245378,['nm0000600'],['nm0000600']
+195,1385180,tt0115963,The Craft,The Craft,The Craft,movie,1996,1996,0,101,"['Drama', 'Fantasy', 'Horror']",6.5,116185,['nm0281598'],"['nm0276823', 'nm0281598']"
+196,1359252,tt0092007,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,movie,1986,1986,0,119,"['Adventure', 'Comedy', 'Sci-Fi']",7.3,94949,['nm0000559'],"['nm0734472', 'nm0000559', 'nm0071790', 'nm0576228', 'nm0471298', 'nm0583292']"
+197,1351502,tt0122718,Small Soldiers,Small Soldiers,Small Soldiers,movie,1998,1998,0,110,"['Action', 'Adventure', 'Comedy']",6.3,109687,['nm0001102'],"['nm0779170', 'nm0726472', 'nm0254645', 'nm0744429']"
+198,1326347,tt0063522,Rosemary's Baby,Rosemary's Baby,Rosemary's Baby,movie,1968,1968,0,137,"['Drama', 'Horror']",8.0,251296,['nm0000591'],"['nm0505615', 'nm0000591']"
+199,1297138,tt0105112,Patriot Games,Patriot Games,Patriot Games,movie,1992,1992,0,117,"['Action', 'Thriller']",6.8,126088,['nm0637518'],"['nm0002007', 'nm0407717', 'nm0829329']"
+200,1416929,tt0093894,The Running Man,The Running Man,The Running Man,movie,1987,1987,0,101,"['Action', 'Sci-Fi', 'Thriller']",6.6,177976,['nm0001274'],"['nm0000175', 'nm0211823']"
+201,1315743,tt0089880,Rambo: First Blood Part II,Rambo: First Blood Part II,Rambo: First Blood Part II,movie,1985,1985,0,96,"['Action', 'Adventure', 'Thriller']",6.5,191797,['nm0181902'],"['nm0606251', 'nm0418883', 'nm0000230', 'nm0000116']"
+202,1143429,tt0177789,Galaxy Quest,Galaxy Quest,Galaxy Quest,movie,1999,1999,0,102,"['Adventure', 'Comedy', 'Sci-Fi']",7.4,187658,['nm0661751'],"['nm0397232', 'nm0330565']"
+203,1140323,tt0080761,Friday the 13th,Friday the 13th,Friday the 13th,movie,1980,1980,0,95,"['Horror', 'Mystery', 'Thriller']",6.4,169344,['nm0192446'],"['nm0566699', 'nm0413826']"
+204,1109420,tt0150377,Double Jeopardy,Double Jeopardy,Double Jeopardy,movie,1999,1999,0,105,"['Crime', 'Drama', 'Mystery']",6.5,101393,['nm0000915'],"['nm0918711', 'nm0177018']"
+205,1404870,tt1316536,The Loved Ones,The Loved Ones,The Loved Ones,movie,2010,2009,0,84,"['Crime', 'Horror']",6.6,46379,['nm2015237'],['nm2015237']
+206,1367617,tt0117802,Swingers,Swingers,Swingers,movie,1996,1996,0,96,"['Comedy', 'Drama']",7.2,91113,['nm0510731'],['nm0269463']
+207,1315739,tt0095956,Rambo III,Rambo III,Rambo III,movie,1988,1988,0,102,"['Action', 'Adventure', 'Thriller']",5.8,146611,['nm0003423'],"['nm0606251', 'nm0000230', 'nm0504802']"
+208,1246117,tt0074860,Marathon Man,Marathon Man,Marathon Man,movie,1976,1976,0,125,"['Crime', 'Drama', 'Thriller']",7.4,73779,['nm0772259'],['nm0001279']
+209,1219174,tt0091369,Labyrinth,Labyrinth,Labyrinth,movie,1986,1986,0,101,"['Adventure', 'Family', 'Fantasy']",7.3,159570,['nm0001345'],"['nm0497140', 'nm0001345', 'nm0001402']"
+210,1205862,tt0119468,Kiss the Girls,Kiss the Girls,Kiss the Girls,movie,1997,1997,0,115,"['Crime', 'Drama', 'Mystery']",6.6,97406,['nm0001219'],"['nm0666248', 'nm0458318']"
+211,1196737,tt0267626,K-19: The Widowmaker,K-19: The Widowmaker,K-19: The Widowmaker,movie,2002,2002,0,138,"['Drama', 'History', 'Thriller']",6.7,70517,['nm0000941'],"['nm0637491', 'nm0477370']"
+212,1396447,tt0171363,The Haunting,The Haunting,The Haunting,movie,1999,1999,0,113,"['Fantasy', 'Horror', 'Mystery']",5.0,83190,['nm0000957'],"['nm0783100', 'nm0414047']"
+213,1359265,tt0120844,Star Trek: Insurrection,Star Trek: Insurrection,Star Trek: Insurrection,movie,1998,1998,0,103,"['Action', 'Adventure', 'Sci-Fi']",6.4,81916,['nm0000408'],"['nm0734472', 'nm0075834', 'nm0683522']"
+214,1359262,tt0111280,Star Trek: Generations,Star Trek: Generations,Star Trek: Generations,movie,1994,1994,0,118,"['Action', 'Adventure', 'Mystery']",6.6,89875,['nm0141222'],"['nm0734472', 'nm0075834', 'nm0601822', 'nm0103804']"
+215,1359254,tt0102975,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,movie,1991,1991,0,110,"['Action', 'Adventure', 'Sci-Fi']",7.2,83783,['nm0583292'],"['nm0734472', 'nm0000559', 'nm0465199', 'nm0742797', 'nm0583292', 'nm0282364']"
+216,1299857,tt0098084,Pet Sematary,Pet Sematary,Pet Sematary,movie,1989,1989,0,103,"['Fantasy', 'Horror', 'Thriller']",6.5,120903,['nm0005116'],['nm0000175']
+217,1188974,tt0099871,Jacob's Ladder,Jacob's Ladder,Jacob's Ladder,movie,1990,1990,0,113,"['Drama', 'Horror', 'Mystery']",7.4,125092,['nm0001490'],['nm0748022']
+218,129728,tt0077975,Animal House,National Lampoon's Animal House,National Lampoon's Animal House,movie,1978,1978,0,109,['Comedy'],7.4,134125,['nm0000484'],"['nm0000601', 'nm0448469', 'nm0588082']"
+219,1588061,tt10323676,The Contractor,The Contractor,The Contractor,movie,2022,2022,0,103,"['Action', 'Drama', 'Thriller']",5.8,33559,['nm0757975'],['nm0204731']
+220,1529815,tt8404256,Snake Eyes: G.I. Joe Origins,Snake Eyes,Snake Eyes: G.I. Joe Origins,movie,2021,2021,0,121,"['Action', 'Adventure', 'Crime']",5.4,47207,['nm0777881'],"['nm0818746', 'nm1100123', 'nm3143608']"
+221,1452040,tt0146336,Urban Legend,Urban Legend,Urban Legend,movie,1998,1998,0,99,"['Horror', 'Mystery', 'Thriller']",5.6,76293,['nm0087595'],['nm0395531']
+222,1393586,tt0219699,The Gift,The Gift,The Gift,movie,2000,2000,0,111,"['Drama', 'Fantasy', 'Horror']",6.7,79058,['nm0000600'],"['nm0000671', 'nm0258370']"
+223,1376091,tt1620981,The Addams Family,The Addams Family,The Addams Family,movie,2019,2019,0,86,"['Animation', 'Comedy', 'Family']",5.8,47813,"['nm0862911', 'nm0970447']","['nm1073238', 'nm1106214', 'nm0970447', 'nm0011623']"
+224,1797746,tt31556612,We Will Dance Again,We Will Dance Again,We Will Dance Again,movie,2024,2024,0,90,['Documentary'],7.6,11175,['nm2103438'],['nm2103438']
+225,1470793,tt0090329,Witness,Witness,Witness,movie,1985,1985,0,112,"['Crime', 'Drama', 'Romance']",7.4,110781,['nm0001837'],"['nm0446015', 'nm0908807', 'nm0908620']"
+226,1449149,tt0105698,Universal Soldier,Universal Soldier,Universal Soldier,movie,1992,1992,0,102,"['Action', 'Sci-Fi']",6.1,100064,['nm0000386'],"['nm0745330', 'nm0500609', 'nm0002041']"
+227,1426786,tt0080120,The Warriors,The Warriors,The Warriors,movie,1979,1979,0,93,"['Action', 'Crime', 'Thriller']",7.5,116758,['nm0001353'],"['nm0951050', 'nm0787072', 'nm0001353']"
+228,1170111,tt0787475,Hot Rod,Hot Rod,Hot Rod,movie,2007,2007,0,88,"['Comedy', 'Sport']",6.7,97499,['nm1676223'],['nm0103702']
+229,1130669,tt0093010,Fatal Attraction,Fatal Attraction,Fatal Attraction,movie,1987,1987,0,119,"['Drama', 'Thriller']",6.9,107890,['nm0001490'],['nm0213139']
+230,1359249,tt0084726,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,movie,1982,1982,0,113,"['Action', 'Adventure', 'Sci-Fi']",7.7,133672,['nm0583292'],"['nm0734472', 'nm0816348', 'nm0071790', 'nm0583292', 'nm0670268']"
+231,1213084,tt0093378,La Bamba,La Bamba,La Bamba,movie,1987,1987,0,108,"['Biography', 'Drama', 'Music']",7.0,38506,['nm0883609'],['nm0883609']
+232,1140327,tt0082418,Friday the 13th Part 2,Friday the 13th Part 2,Friday the 13th Part 2,movie,1981,1981,0,87,"['Horror', 'Mystery', 'Thriller']",6.1,84110,['nm0591171'],"['nm0413826', 'nm0566699', 'nm0192446']"
+233,1108839,tt7547410,Dora and the Lost City of Gold,Dora and the Lost City of Gold,Dora and the Lost City of Gold,movie,2019,2019,0,102,"['Action', 'Adventure', 'Comedy']",6.1,38229,['nm0090386'],"['nm0831557', 'nm2816668', 'nm1117226', 'nm0317513', 'nm0909904', 'nm1332821']"
+234,1359271,tt0079945,Star Trek: The Motion Picture,Star Trek: The Motion Picture,Star Trek: The Motion Picture,movie,1979,1979,0,143,"['Adventure', 'Mystery', 'Sci-Fi']",6.4,100503,['nm0936404'],"['nm0734472', 'nm0515245', 'nm0287669']"
+235,1264067,tt0071877,Murder on the Orient Express,Murder on the Orient Express,Murder on the Orient Express,movie,1974,1974,0,128,"['Crime', 'Drama', 'Mystery']",7.2,72798,['nm0001486'],"['nm0002005', 'nm0214989', 'nm0787289']"
+236,1140335,tt0087298,Friday the 13th: The Final Chapter,Friday the 13th: The Final Chapter,Friday the 13th: The Final Chapter,movie,1984,1984,0,91,"['Horror', 'Thriller']",6.0,64052,['nm0957263'],"['nm0566699', 'nm0413826', 'nm0457725', 'nm0914536', 'nm0169231', 'nm0757239', 'nm0192446']"
+237,129109,tt0092563,Angel Heart,Angel Heart,Angel Heart,movie,1987,1987,0,113,"['Horror', 'Mystery', 'Thriller']",7.2,101125,['nm0000570'],"['nm0387132', 'nm0000570']"
+238,1653409,tt16491324,Honor Society,Honor Society,Honor Society,movie,2022,2022,0,98,"['Comedy', 'Romance']",6.5,11241,['nm6250496'],['nm0329047']
+239,1600103,tt11762114,Mean Girls,Mean Girls,Mean Girls,movie,2024,2024,0,112,"['Comedy', 'Musical']",5.5,38802,"['nm7120954', 'nm3103850']","['nm0275486', 'nm1577281']"
+240,1420687,tt2279373,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,The SpongeBob Movie: Sponge Out of Water,movie,2015,2015,0,92,"['Adventure', 'Animation', 'Comedy']",6.0,65569,"['nm1196684', 'nm0593610']","['nm0008743', 'nm0074184', 'nm0384864', 'nm1196684', 'nm0238757', 'nm0384722', 'nm0421223', 'nm0909088']"
+241,1705556,tt2396431,Dear Santa,Dear Santa,Dear Santa,movie,2024,2024,0,107,"['Comedy', 'Fantasy']",5.4,19207,['nm0125803'],"['nm0088546', 'nm0268380', 'nm1763428']"
+242,1336334,tt1727776,Scouts Guide to the Zombie Apocalypse,Scouts Guide to the Zombie Apocalypse,Scouts Guide to the Zombie Apocalypse,movie,2015,2015,0,93,"['Action', 'Comedy', 'Horror']",6.3,58966,['nm0484907'],"['nm0933144', 'nm0595088', 'nm0484907', 'nm0931185']"
+243,1309118,tt2436386,Project Almanac,Project Almanac,Project Almanac,movie,2015,2015,0,106,"['Drama', 'Mystery', 'Sci-Fi']",6.4,86759,['nm2410311'],"['nm3091255', 'nm2065670']"
+244,1795942,tt31511689,Vicious,Vicious,Vicious,movie,2025,2025,0,,['Horror'],6.1,31,['nm1052162'],['nm1052162']
+245,3245328,tt9603060,Star Trek: Section 31,Star Trek: Section 31,Star Trek: Section 31,movie,2025,2025,0,95,"['Action', 'Adventure', 'Drama']",3.8,16881,['nm1069989'],"['nm1153843', 'nm5655249', 'nm7703735', 'nm0734472']"
+246,1135289,tt0085549,Flashdance,Flashdance,Flashdance,movie,1983,1983,0,95,"['Drama', 'Music', 'Romance']",6.2,62598,['nm0001490'],"['nm0373320', 'nm0000390']"
+247,1111496,tt0157503,Drop Dead Gorgeous,Drop Dead Gorgeous,Drop Dead Gorgeous,movie,1999,1999,0,97,"['Comedy', 'Romance', 'Thriller']",6.7,44105,['nm0417794'],['nm0931185']
+248,1635032,tt14145426,Beavis and Butt-Head Do the Universe,Beavis and Butt-Head Do the Universe,Beavis and Butt-Head Do the Universe,movie,2022,2022,0,87,"['Animation', 'Comedy', 'Sci-Fi']",7.0,14313,"['nm1401737', 'nm1070945', 'nm0723470']","['nm0431918', 'nm0608034', 'nm0561630', 'nm0561631', 'nm7230327']"
+249,1338753,tt0120094,Selena,Selena,Selena,movie,1997,1997,0,127,"['Biography', 'Drama', 'Music']",6.9,33302,['nm0622695'],['nm0622695']
+250,1295169,tt2473682,Paranormal Activity: The Marked Ones,Paranormal Activity: The Marked Ones,Paranormal Activity: The Marked Ones,movie,2014,2014,0,84,"['Horror', 'Mystery']",5.1,47137,['nm0484907'],"['nm0484907', 'nm2305431']"
+251,1273125,tt0102526,New Jack City,New Jack City,New Jack City,movie,1991,1991,0,97,"['Action', 'Crime', 'Drama']",6.6,41206,['nm0005522'],"['nm0942870', 'nm0177875']"
+252,1649137,tt15353964,Significant Other,Significant Other,Significant Other,movie,2022,2022,0,84,"['Drama', 'Horror', 'Mystery']",5.7,17729,"['nm3228270', 'nm1793586']","['nm3228270', 'nm1793586']"
+253,1579858,tt5774062,Spontaneous,Spontaneous,Spontaneous,movie,2020,2020,0,101,"['Comedy', 'Drama', 'Horror']",6.5,18538,['nm3929259'],"['nm3929259', 'nm8186393']"
+254,1420686,tt4823776,The SpongeBob Movie: Sponge on the Run,The SpongeBob Movie: Sponge on the Run,The SpongeBob Movie: Sponge on the Run,movie,2020,2020,0,91,"['Adventure', 'Animation', 'Comedy']",5.9,24366,['nm0384722'],"['nm0384722', 'nm0008743', 'nm0074184', 'nm0384864', 'nm0238757', 'nm2824876']"
+255,1398195,tt0269347,The Hunted,The Hunted,The Hunted,movie,2003,2003,0,94,"['Action', 'Crime', 'Drama']",6.1,53622,['nm0001243'],"['nm0341656', 'nm0341735', 'nm0599393']"
+256,194822,tt1321509,Death at a Funeral,Death at a Funeral,Death at a Funeral,movie,2010,2010,0,92,"['Comedy', 'Drama']",5.7,56035,['nm0001438'],['nm1918877']
+257,179933,tt2965412,Comet,Comet,Comet,movie,2014,2014,0,91,"['Comedy', 'Drama', 'Romance']",6.7,20181,['nm1322753'],['nm1322753']
+258,170994,tt0264472,Changing Lanes,Changing Lanes,Changing Lanes,movie,2002,2002,0,98,"['Drama', 'Thriller']",6.5,77021,['nm0585011'],"['nm0534954', 'nm0866062']"
+259,145625,tt0115641,Beavis and Butt-Head Do America,Beavis and Butt-Head Do America,Beavis and Butt-Head Do America,movie,1996,1996,0,81,"['Adventure', 'Animation', 'Comedy']",6.8,62182,"['nm1070945', 'nm0431918', 'nm0221133', 'nm1301264', 'nm0438394']","['nm0431918', 'nm0830294', 'nm1301264']"
+260,1691079,tt17277414,Jeanne du Barry,Jeanne du Barry,Jeanne du Barry,movie,2023,2023,0,117,"['Biography', 'Drama', 'History']",6.7,15427,['nm0494069'],"['nm0494069', 'nm1768202', 'nm5365694', 'nm0683797']"
+261,1421062,tt0327162,The Stepford Wives,The Stepford Wives,The Stepford Wives,movie,2004,2004,0,93,"['Comedy', 'Horror', 'Sci-Fi']",5.4,72532,['nm0000568'],"['nm0505615', 'nm0397411']"
+262,1413903,tt0114194,The Prophecy,The Prophecy,The Prophecy,movie,1995,1995,0,98,"['Action', 'Crime', 'Drama']",6.4,34794,['nm0927074'],['nm0927074']
+263,1411410,tt0071970,The Parallax View,The Parallax View,The Parallax View,movie,1974,1974,0,102,"['Drama', 'Mystery', 'Thriller']",7.1,23597,['nm0001587'],"['nm0318429', 'nm0783913', 'nm0801991', 'nm0001801']"
+264,1408080,tt0093560,The Monster Squad,The Monster Squad,The Monster Squad,movie,1987,1987,0,82,"['Action', 'Comedy', 'Fantasy']",6.9,37760,['nm0215269'],"['nm0000948', 'nm0215269']"
+265,1359251,tt0088170,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,movie,1984,1984,0,105,"['Action', 'Adventure', 'Sci-Fi']",6.7,89226,['nm0000559'],"['nm0734472', 'nm0071790']"
+266,1127663,tt1225822,Extract,Extract,Extract,movie,2009,2009,0,92,"['Comedy', 'Crime', 'Romance']",6.1,51956,['nm0431918'],['nm0431918']
+267,168028,tt0806203,Carriers,Carriers,Carriers,movie,2009,2009,0,84,"['Adventure', 'Drama', 'Horror']",5.9,52412,"['nm0665041', 'nm1883612']","['nm1883612', 'nm0665041']"
+268,130351,tt1823664,Annie,Annie,Annie,movie,2014,2014,0,118,"['Comedy', 'Drama', 'Family']",5.4,42630,['nm0323239'],"['nm0323239', 'nm0112459', 'nm0576070', 'nm0336675']"
+269,1556700,tt7979142,The Night Clerk,The Night Clerk,The Night Clerk,movie,2020,2020,0,90,"['Crime', 'Drama', 'Mystery']",5.6,20807,['nm0188165'],['nm0188165']
+270,1501028,tt4651466,Joe Bell,Joe Bell,Good Joe Bell,movie,2020,2020,0,94,"['Biography', 'Drama']",6.2,10274,['nm3232264'],"['nm0652223', 'nm0573505']"
+271,1419900,tt2017020,The Smurfs 2,The Smurfs 2,The Smurfs 2,movie,2013,2013,0,105,"['Adventure', 'Animation', 'Comedy']",5.3,49235,['nm0331532'],"['nm0826425', 'nm0918955', 'nm0771065', 'nm0740115', 'nm0456732', 'nm0678963']"
+272,1170569,tt1582507,House at the End of the Street,House at the End of the Street,House at the End of the Street,movie,2012,2012,0,101,"['Drama', 'Horror', 'Mystery']",5.5,83619,['nm0867127'],"['nm0521649', 'nm0609236']"
+273,1407268,tt0236493,The Mexican,The Mexican,The Mexican,movie,2001,2001,0,123,"['Adventure', 'Comedy', 'Drama']",6.1,119426,['nm0893659'],['nm0437249']
+274,1395666,tt0099703,The Grifters,The Grifters,The Grifters,movie,1990,1990,0,110,"['Crime', 'Drama', 'Thriller']",6.9,32515,['nm0001241'],"['nm0860292', 'nm0922799']"
+275,1136336,tt1541160,Flypaper,Flypaper,Flypaper,movie,2011,2011,0,87,"['Comedy', 'Crime', 'Mystery']",6.3,34772,['nm0591450'],"['nm0524190', 'nm0601859']"
+276,1612438,tt10515988,Paranormal Activity: Next of Kin,Paranormal Activity: Next of Kin,Paranormal Activity: Next of Kin,movie,2021,2021,0,98,"['Horror', 'Mystery', 'Thriller']",5.3,18846,['nm1827931'],"['nm0484907', 'nm2305431']"
+277,1393271,tt0144214,The General's Daughter,The General's Daughter,The General's Daughter,movie,1999,1999,0,116,"['Crime', 'Drama', 'Mystery']",6.4,66981,['nm0922346'],"['nm0218491', 'nm0078203', 'nm0001279']"
+278,1219982,tt0139414,Lake Placid,Lake Placid,Lake Placid,movie,1999,1999,0,82,"['Action', 'Comedy', 'Horror']",5.8,68805,['nm0591171'],['nm0005082']
+279,1565142,tt2397461,Clifford the Big Red Dog,Clifford the Big Red Dog,Clifford the Big Red Dog,movie,2021,2021,0,96,"['Adventure', 'Comedy', 'Family']",5.9,18251,['nm0065608'],"['nm0771065', 'nm0740115', 'nm1271984', 'nm3675159', 'nm0710784', 'nm1434696']"
+280,1124570,tt0116225,Escape from L.A.,Escape from L.A.,Escape from L.A.,movie,1996,1996,0,101,"['Action', 'Adventure', 'Sci-Fi']",5.7,84090,['nm0000118'],"['nm0000118', 'nm0145309', 'nm0384185', 'nm0000621']"
+281,1633242,tt14371860,Apartment 7A,Apartment 7A,Apartment 7A,movie,2024,2024,0,107,"['Horror', 'Thriller']",5.9,18351,['nm4013000'],"['nm4013000', 'nm2021376', 'nm1671998', 'nm0505615']"
+282,1413509,tt0337697,The Prince & Me,The Prince and Me,The Prince & Me,movie,2004,2004,0,111,"['Comedy', 'Family', 'Romance']",5.9,43164,['nm0004838'],"['nm0024909', 'nm0297545', 'nm0024856', 'nm0066764']"
+283,1194978,tt0107286,Judgment Night,Judgment Night,Judgment Night,movie,1993,1993,0,110,"['Action', 'Crime', 'Drama']",6.6,20346,['nm0394280'],"['nm0171474', 'nm0192342']"
+284,186254,tt0257516,Cursed,Cursed,Cursed,movie,2005,2005,0,97,"['Comedy', 'Horror', 'Mystery']",5.1,36620,['nm0000127'],['nm0932078']
+285,1295168,tt2473510,Paranormal Activity: The Ghost Dimension,Paranormal Activity: The Ghost Dimension,Paranormal Activity: The Ghost Dimension,movie,2015,2015,0,88,"['Horror', 'Mystery']",4.6,32381,['nm0687427'],"['nm3091255', 'nm2065670', 'nm0733263', 'nm1134130', 'nm3500903', 'nm2305431']"
+286,1140329,tt0083972,Friday the 13th Part III,Friday the 13th: Part 3,Friday the 13th Part III,movie,1982,1982,0,95,"['Horror', 'Thriller']",5.6,65259,['nm0591171'],"['nm0457725', 'nm0914536', 'nm0566699', 'nm0413826', 'nm0192446']"
+287,1372717,tt0090142,Teen Wolf,Teen Wolf,Teen Wolf,movie,1985,1985,0,91,"['Comedy', 'Fantasy', 'Romance']",6.1,63893,['nm0199722'],"['nm0517188', 'nm0918861']"
+288,1359253,tt0098382,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,movie,1989,1989,0,107,"['Action', 'Adventure', 'Fantasy']",5.5,66676,['nm0000638'],"['nm0734472', 'nm0000638', 'nm0071790', 'nm0521739']"
+289,1230157,tt0103994,Like Water for Chocolate,Like Water for Chocolate,Como agua para chocolate,movie,1992,1992,0,105,"['Drama', 'Romance']",7.1,19995,['nm0000778'],['nm0261294']
+290,1190304,tt0091080,Friday the 13th Part VI: Jason Lives,Friday the 13th Part VI: Jason Lives,Jason Lives: Friday the 13th Part VI,movie,1986,1986,0,86,"['Horror', 'Thriller']",6.0,55312,['nm0572951'],"['nm0572951', 'nm0566699', 'nm0192446']"
+291,1157218,tt0085636,Halloween III: Season of the Witch,Halloween III: Season of the Witch,Halloween III: Season of the Witch,movie,1982,1982,0,98,"['Horror', 'Mystery', 'Sci-Fi']",5.2,65123,['nm0908890'],"['nm0908890', 'nm0000118', 'nm0460600']"
+292,1110131,tt0219653,Dracula 2000,Dracula 2000,Dracula 2000,movie,2000,2000,0,99,"['Action', 'Fantasy', 'Horror']",4.9,38057,['nm0527261'],"['nm0812373', 'nm0527261']"
+293,1259743,tt3095734,Monster Trucks,Monster Trucks,Monster Trucks,movie,2016,2016,0,104,"['Action', 'Adventure', 'Comedy']",5.7,19991,['nm0917188'],"['nm2081046', 'nm2816668', 'nm0008743', 'nm0074184']"
+294,1258921,tt0082766,Mommie Dearest,Mommie Dearest,Mommie Dearest,movie,1981,1981,0,129,"['Biography', 'Drama']",6.7,19549,['nm0675068'],"['nm0186726', 'nm0944747', 'nm0675068', 'nm0396230', 'nm0315205']"
+295,1140332,tt0089173,Friday the 13th: A New Beginning,Friday the 13th: A New Beginning,Friday the 13th: A New Beginning,movie,1985,1985,0,92,"['Horror', 'Mystery', 'Thriller']",4.8,47616,['nm0826164'],"['nm0457725', 'nm0169308', 'nm0826164', 'nm0566699', 'nm0192446', 'nm0791803']"
+296,1140331,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,Friday the 13th Part VIII: Jason Takes Manhattan,Friday the 13th Part VIII: Jason Takes Manhattan,movie,1989,1989,0,100,"['Adventure', 'Horror', 'Thriller']",4.5,46531,['nm0373154'],"['nm0373154', 'nm0566699']"
+297,1684947,tt19705884,Good Boy,Good Boy,Good Boy,movie,2022,2022,0,76,"['Horror', 'Thriller']",5.7,4980,['nm11038269'],['nm11038269']
+298,1627294,tt8999372,Sir Alex Ferguson: Never Give In,Sir Alex Ferguson: Never Give In,Sir Alex Ferguson: Never Give In,movie,2021,2021,0,108,"['Biography', 'Documentary', 'Sport']",8.1,6448,['nm10121986'],['nm0598531']
+299,1387308,tt1560985,The Devil Inside,The Devil Inside,The Devil Inside,movie,2012,2012,0,83,['Horror'],4.2,38229,['nm0068587'],"['nm0068587', 'nm1834343']"
+300,1443561,tt0315297,Twisted,Twisted,Twisted,movie,2004,2004,0,97,"['Crime', 'Drama', 'Mystery']",5.3,24574,['nm0442241'],['nm0861638']
+301,147314,tt0276816,Below,Below,Below,movie,2002,2002,0,105,"['Action', 'Horror', 'Mystery']",6.1,25470,['nm0878638'],"['nm0839938', 'nm0004716', 'nm0878638']"
+302,1151121,tt0119215,Good Burger,Good Burger,Good Burger,movie,1997,1997,0,95,"['Comedy', 'Family']",5.8,35403,['nm0005367'],"['nm0773759', 'nm0465741', 'nm0782499']"
+303,1140330,tt0095179,Friday the 13th Part VII: The New Blood,Friday the 13th: The New Blood,Friday the 13th Part VII: The New Blood,movie,1988,1988,0,88,"['Horror', 'Thriller']",5.2,45772,['nm0119106'],"['nm0353038', 'nm0275751', 'nm0566699', 'nm0192446']"
+304,1677127,tt18079362,80 for Brady,80 for Brady,80 for Brady,movie,2023,2023,0,98,"['Comedy', 'Drama', 'Sport']",5.9,13603,['nm5568803'],"['nm2873539', 'nm1054604']"
+305,1635354,tt14145436,Pet Sematary: Bloodlines,Pet Sematary: Bloodlines,Pet Sematary: Bloodlines,movie,2023,2023,0,87,"['Fantasy', 'Horror']",4.6,13484,['nm5170222'],"['nm5170222', 'nm1161528', 'nm0000175']"
+306,1299859,tt0105128,Pet Sematary II,Pet Sematary II,Pet Sematary II,movie,1992,1992,0,100,"['Fantasy', 'Horror', 'Thriller']",4.9,24660,['nm0005116'],['nm0653693']
+307,159789,tt7137846,Breaking In,Breaking In,Breaking In,movie,2018,2018,0,88,"['Action', 'Thriller']",5.5,17557,['nm0574625'],"['nm0257513', 'nm4003337']"
+308,14275,tt4703048,6 Days,6 Days,6 Days,movie,2017,2017,0,94,"['Action', 'Drama', 'History']",6.2,26266,['nm1089736'],"['nm0822101', 'nm7307076']"
+309,1675925,tt18069420,Smurfs,Smurfs,Smurfs,movie,2025,2025,0,89,"['Adventure', 'Animation', 'Comedy']",4.3,4900,['nm1844237'],"['nm0103702', 'nm0678963']"
+310,1791213,tt31313835,Stans,Stans,Stans,movie,2025,2025,0,102,['Documentary'],7.0,1937,['nm6026697'],['nm6026697']
+311,1401492,tt2034139,The Last Exorcism Part II,The Last Exorcism Part II,The Last Exorcism: Part II,movie,2013,2013,0,88,"['Horror', 'Thriller']",4.0,17461,['nm1424878'],"['nm3227090', 'nm1424878', 'nm1428204', 'nm0348640']"
+312,1348911,tt0105414,Single White Female,Single White Female,Single White Female,movie,1992,1992,0,107,"['Drama', 'Thriller']",6.4,44584,['nm0775447'],"['nm1661375', 'nm0740400']"
+313,125592,tt0080365,American Gigolo,American Gigolo,American Gigolo,movie,1980,1980,0,117,"['Crime', 'Drama', 'Mystery']",6.3,31362,['nm0001707'],['nm0001707']
+314,1609986,tt11832046,PAW Patrol: The Movie,PAW Patrol: The Movie,PAW Patrol: The Movie,movie,2021,2021,0,86,"['Action', 'Adventure', 'Animation']",6.1,9230,['nm2117510'],"['nm1129905', 'nm2117510', 'nm1779809', 'nm0975298']"
+315,1538163,tt7991508,Finestkind,Finestkind,Finestkind,movie,2023,2023,0,126,"['Crime', 'Drama', 'Thriller']",6.1,12448,['nm0001338'],['nm0001338']
+316,1663144,tt0283877,American Psycho II: All American Girl,American Psycho II: All American Girl,American Psycho II: All American Girl,video,2002,2002,0,88,"['Horror', 'Thriller']",3.7,19104,['nm0293533'],"['nm0801882', 'nm0974299', 'nm0254735']"
+317,1453880,tt0114825,Vampire in Brooklyn,Vampire in Brooklyn,Vampire in Brooklyn,movie,1995,1995,0,100,"['Comedy', 'Fantasy', 'Horror']",4.7,26258,['nm0000127'],"['nm0000552', 'nm0528487', 'nm0614151', 'nm0524710', 'nm0662134']"
+318,1309715,tt6421110,Proud Mary,Proud Mary,Proud Mary,movie,2018,2018,0,89,"['Action', 'Crime', 'Drama']",5.1,11340,['nm0619836'],"['nm1433517', 'nm1582836', 'nm0031078']"
+319,1180729,tt7464188,In Fabric,In Fabric,In Fabric,movie,2018,2018,0,118,"['Comedy', 'Drama', 'Fantasy']",6.1,15116,['nm3270827'],['nm3270827']
+320,1509444,tt4428398,Paws of Fury: The Legend of Hank,Paws of Fury: The Legend of Hank,Paws of Fury: The Legend of Hank,movie,2022,2022,0,98,"['Action', 'Adventure', 'Animation']",5.8,7309,"['nm0047193', 'nm0462988', 'nm0591450']","['nm0831847', 'nm2490985', 'nm0000316', 'nm0825799', 'nm0000921', 'nm0001640', 'nm0880078']"
+321,133079,tt1519461,Area 51,Area 51,Area 51,movie,2015,2015,0,91,"['Horror', 'Mystery', 'Sci-Fi']",4.3,15710,['nm2305431'],"['nm1706832', 'nm2305431']"
+322,1856742,tt18108824,The Friend,The Friend,The Friend,movie,2025,2024,0,119,"['Comedy', 'Drama']",6.4,4631,"['nm0569166', 'nm0796915']","['nm0569166', 'nm0796915', 'nm3145588']"
+323,1708161,tt14666592,Milli Vanilli,Milli Vanilli,Milli Vanilli,movie,2023,2023,0,106,"['Biography', 'Documentary', 'Music']",7.5,3306,['nm4598626'],[]
+324,1652330,tt6805938,The Ledge,The Ledge,The Ledge,movie,2022,2022,0,86,"['Action', 'Adventure', 'Thriller']",5.2,7160,['nm0285683'],['nm4828523']
+325,1585762,tt10736580,Spell,Spell,Spell,movie,2020,2020,0,91,"['Horror', 'Thriller']",5.5,10316,['nm0867127'],['nm0934483']
+326,1486532,tt8884430,Echo in the Canyon,Echo in the Canyon,Echo in the Canyon,movie,2019,2018,0,82,"['Documentary', 'Music']",7.0,4231,['nm10095184'],"['nm10095184', 'nm0057126']"
+327,1661857,tt0120860,From Dusk Till Dawn 2: Texas Blood Money,From Dusk Till Dawn 2: Texas Blood Money,From Dusk Till Dawn 2: Texas Blood Money,video,1999,1999,0,88,"['Crime', 'Horror', 'Thriller']",4.2,18210,['nm0818547'],"['nm0818547', 'nm0945026', 'nm0924261']"
+328,1416819,tt0134067,The Rugrats Movie,The Rugrats Movie,The Rugrats Movie,movie,1998,1998,0,79,"['Adventure', 'Animation', 'Comedy']",5.9,21567,"['nm0468335', 'nm0899329']","['nm0918955', 'nm0826425', 'nm0458312', 'nm0190780', 'nm0314480', 'nm0471217', 'nm0941314']"
+329,1415304,tt0120004,The Relic,The Relic,The Relic,movie,1997,1997,0,110,"['Horror', 'Mystery', 'Sci-Fi']",5.8,31730,['nm0001382'],"['nm0696409', 'nm0157470', 'nm0427468', 'nm0706311', 'nm0415425', 'nm0798646']"
+330,1180000,tt0780567,Imagine That,Imagine That,Imagine That,movie,2009,2009,0,107,"['Comedy', 'Drama', 'Family']",5.6,16327,['nm0456732'],"['nm0004412', 'nm0558533']"
+331,1664910,tt0418141,Scooby-Doo! and the Loch Ness Monster,Scooby-Doo and the Loch Ness Monster,Scooby-Doo and the Loch Ness Monster,video,2004,2004,0,74,"['Adventure', 'Animation', 'Comedy']",6.6,6665,"['nm0421874', 'nm1245812']","['nm1250208', 'nm0770158', 'nm0878006', 'nm1245812']"
+332,1280703,tt0184791,O,O,O,movie,2001,2001,0,95,"['Drama', 'Romance', 'Thriller']",6.1,22438,['nm0625789'],"['nm0000636', 'nm0433994']"
+333,1274241,tt0119783,Night Falls on Manhattan,Night Falls on Manhattan,Night Falls on Manhattan,movie,1997,1996,0,113,"['Crime', 'Drama', 'Mystery']",6.6,9327,['nm0001486'],"['nm1084359', 'nm0001486']"
+334,1204882,tt0074751,King Kong,King Kong,King Kong,movie,1976,1976,0,134,"['Adventure', 'Horror']",6.0,37476,['nm0347086'],"['nm0187256', 'nm0741656', 'nm0178260', 'nm0908624', 'nm0783913']"
+335,1152908,tt0084021,Grease 2,Grease 2,Grease 2,movie,1982,1982,0,115,"['Comedy', 'Music', 'Musical']",4.6,40484,['nm0083279'],"['nm0277946', 'nm0414448', 'nm0143558']"
+336,525860,tt1985970,Comedy Central Roast of Charlie Sheen,Comedy Central Roast of Charlie Sheen,Comedy Central Roast of Charlie Sheen,tvEpisode,2011,2011,0,90,['Comedy'],7.6,5701,['nm0302778'],"['nm0416853', 'nm2477449', 'nm1793987', 'nm0780980', 'nm1702396', 'nm0271017', 'nm2452107', 'nm0576761', 'nm0630497', 'nm0807834', 'nm0896742', 'nm1018791', 'nm1114772', 'nm1229407', 'nm1280290', 'nm1328139', 'nm1622388', 'nm3241461', 'nm9921365']"
+337,1592787,tt8906722,The Killing of Kenneth Chamberlain,The Killing of Kenneth Chamberlain,The Killing of Kenneth Chamberlain,movie,2021,2019,0,83,"['Drama', 'Thriller']",7.1,1920,['nm4145507'],['nm4145507']
+338,1455451,tt0428251,Venom,Venom,Venom,movie,2005,2005,0,87,['Horror'],4.7,11324,['nm0318947'],"['nm0226863', 'nm0686922', 'nm0101625']"
+339,1300314,tt0119891,Phantoms,Phantoms,Phantoms,movie,1998,1998,0,96,"['Horror', 'Sci-Fi', 'Thriller']",5.4,23881,['nm0152640'],['nm0465588']
+340,1273922,tt0113972,Nick of Time,Nick of Time,Nick of Time,movie,1995,1995,0,89,"['Action', 'Crime', 'Drama']",6.3,46644,['nm0000824'],['nm0242059']
+341,117669,tt2309961,Afflicted,Afflicted,Afflicted,movie,2014,2013,0,85,"['Horror', 'Mystery', 'Sci-Fi']",6.2,26980,"['nm1854114', 'nm1429317']","['nm1854114', 'nm1429317']"
+342,1372390,tt0133046,Teaching Mrs. Tingle,Teaching Mrs. Tingle,Teaching Mrs. Tingle,movie,1999,1999,0,96,"['Comedy', 'Thriller']",5.3,22323,['nm0932078'],['nm0932078']
+343,1367685,tt0119210,Switchback,Switchback,Switchback,movie,1997,1997,0,118,"['Crime', 'Mystery', 'Thriller']",6.4,15810,['nm0835732'],['nm0835732']
+344,525867,tt3098812,Comedy Central Roast of James Franco,Comedy Central Roast of James Franco,Comedy Central Roast of James Franco,tvEpisode,2013,2013,0,70,['Comedy'],7.7,4561,['nm0302778'],"['nm2477449', 'nm2452107', 'nm0746573', 'nm1018791', 'nm3580359', 'nm0271017', 'nm1895377', 'nm4739329', 'nm1622388', 'nm1702396', 'nm4945007', 'nm1331721', 'nm0736622', 'nm1698571', 'nm3773434', 'nm3782043', 'nm1825214', 'nm3269545', 'nm2170754', 'nm3965483', 'nm4483652', 'nm2376686', 'nm3584289', 'nm2257388', 'nm2717879', 'nm0416853', 'nm3720125']"
+345,122346,tt0278295,All About the Benjamins,All About the Benjamins,All About the Benjamins,movie,2002,2002,0,95,"['Action', 'Comedy', 'Crime']",5.8,16256,['nm0106230'],"['nm0485898', 'nm0001084']"
+346,119524,tt2388637,Ain't Them Bodies Saints,Ain't Them Bodies Saints,Ain't Them Bodies Saints,movie,2013,2013,0,96,"['Crime', 'Drama', 'Romance']",6.4,23502,['nm1108007'],['nm1108007']
+347,1815061,tt32214413,The Wedding Banquet,The Wedding Banquet,The Wedding Banquet,movie,2025,2025,0,103,"['Comedy', 'Romance']",6.3,3172,['nm3821224'],"['nm3821224', 'nm0770005', 'nm0000487', 'nm0671824']"
+348,1427920,tt0282120,The Wild Thornberrys Movie,The Wild Thornberrys,The Wild Thornberrys Movie,movie,2002,2002,0,85,"['Adventure', 'Animation', 'Comedy']",5.7,15665,"['nm0539782', 'nm0569814']","['nm0100326', 'nm0458312', 'nm0190780', 'nm0672554', 'nm1134390', 'nm0839966']"
+349,1327360,tt0213203,Rugrats in Paris: The Movie,Rugrats in Paris,Rugrats in Paris: The Movie - Rugrats II,movie,2000,2000,0,78,"['Adventure', 'Animation', 'Comedy']",6.2,14252,"['nm0075010', 'nm0218450']","['nm0826425', 'nm0918955', 'nm0330856', 'nm0379747', 'nm0100326', 'nm0458312', 'nm0190780', 'nm0314480']"
+350,1653982,tt0253658,Scooby-Doo and the Alien Invaders,Scooby-Doo and the Alien Invaders,Scooby-Doo and the Alien Invaders,video,2000,2000,0,74,"['Adventure', 'Animation', 'Comedy']",6.8,8702,['nm0826693'],"['nm0230669', 'nm0360253', 'nm0053484', 'nm0503158', 'nm0266162']"
+351,1430300,tt0283632,They,They,They,movie,2002,2002,0,89,"['Horror', 'Mystery', 'Thriller']",4.8,14479,['nm0363553'],['nm0393445']
+352,1607099,tt5215462,Console Wars,Console Wars,Console Wars,movie,2020,2020,0,92,['Documentary'],7.0,2410,"['nm2332007', 'nm2333211']",[]
+353,1412037,tt3862750,The Perfect Guy,The Perfect Guy,The Perfect Guy,movie,2015,2015,0,100,"['Drama', 'Romance', 'Thriller']",5.6,11698,['nm1270033'],"['nm0568416', 'nm0931862']"
+354,1663942,tt0357139,Scooby-Doo! and the Legend of the Vampire,Scooby-Doo and the Legend of the Vampire,Scooby-Doo! and the Legend of the Vampire,video,2003,2003,0,72,"['Adventure', 'Animation', 'Comedy']",6.4,6634,['nm0421874'],['nm0878006']
+355,1647683,tt15837338,PAW Patrol: The Mighty Movie,PAW Patrol: The Mighty Movie,PAW Patrol: The Mighty Movie,movie,2023,2023,0,88,"['Action', 'Adventure', 'Animation']",5.9,6179,['nm2117510'],"['nm2117510', 'nm1779809', 'nm2280850', 'nm0975298']"
+356,525858,tt1276947,Comedy Central Roast of Bob Saget,Comedy Central Roast of Bob Saget,Bob Saget,tvEpisode,2008,2008,0,90,['Comedy'],7.4,2210,['nm0302778'],"['nm1579753', 'nm2477449', 'nm2452107', 'nm1968387']"
+357,525870,tt4504452,Comedy Central Roast of Justin Bieber,Comedy Central Roast of Justin Bieber,Comedy Central Roast of Justin Bieber,tvEpisode,2015,2015,0,84,['Comedy'],7.3,4037,['nm0302778'],"['nm4739329', 'nm1702396', 'nm2477449', 'nm4945007', 'nm2452107', 'nm2826417', 'nm1793987', 'nm3580359', 'nm1018791', 'nm0746573', 'nm1622388', 'nm0780980', 'nm1100912']"
+358,1643560,tt14967618,Margaux,Margaux,Margaux,movie,2022,2022,0,104,"['Horror', 'Sci-Fi', 'Thriller']",4.5,5991,['nm1921345'],"['nm7484053', 'nm8607936', 'nm1032754']"
+359,1164576,tt0314166,Hey Arnold! The Movie,Hey Arnold! The Movie,Hey Arnold! The Movie,movie,2002,2002,0,76,"['Adventure', 'Animation', 'Comedy']",6.0,8174,['nm0970388'],"['nm0058799', 'nm0897267']"
+360,1665933,tt0480461,Scooby-Doo! in Where's My Mummy?,Scooby-Doo in Where's My Mummy?,Scooby-Doo in Where's My Mummy?,video,2005,2005,0,75,"['Adventure', 'Animation', 'Comedy']",6.6,5284,['nm1245812'],"['nm1250208', 'nm0770158', 'nm1245812', 'nm2067371', 'nm1443120', 'nm0360253', 'nm0053484']"
+361,1983042,tt36589896,Bodyguard of Lies,Bodyguard of Lies,Bodyguard of Lies,movie,2025,2025,0,90,"['Documentary', 'Thriller']",,,['nm1830532'],[]
+362,1466561,tt1389139,When the Bough Breaks,When the Bough Breaks,When the Bough Breaks,movie,2016,2016,0,107,"['Drama', 'Thriller']",5.2,8646,['nm0143984'],['nm3357261']
+363,1378641,tt0401244,The Baxter,The Baxter,The Baxter,movie,2005,2005,0,91,"['Comedy', 'Romance']",6.4,5086,['nm0795290'],['nm0795290']
+364,1661353,tt0118643,The Prophecy II,The Prophecy II,The Prophecy II,video,1998,1998,0,87,"['Fantasy', 'Horror', 'Thriller']",5.7,8556,['nm0817770'],"['nm0927074', 'nm0338557', 'nm0817770']"
+365,1616698,tt12801326,76 Days,76 Days,76 Days,movie,2020,2020,0,93,"['Documentary', 'Drama']",7.1,1472,"['nm11885142', 'nm2222612', 'nm11918841']",['nm2222612']
+366,1412029,tt0473102,The Perfect Game,The Perfect Game,The Perfect Game,movie,2009,2009,0,118,"['Comedy', 'Drama', 'Family']",6.9,4481,['nm0213100'],['nm1987211']
+367,1348948,tt7312940,Singularity,Singularity,Singularity,movie,2017,2017,0,92,"['Action', 'Adventure', 'Drama']",3.6,11994,['nm4134911'],"['nm4134911', 'nm3173222']"
+368,1922527,tt7787524,Henry Danger: The Movie,Henry Danger: The Movie,Henry Danger: The Movie,movie,2025,2025,0,86,"['Action', 'Adventure', 'Comedy']",4.8,2298,['nm0994553'],"['nm1313401', 'nm1003810', 'nm0773759', 'nm0647615']"
+369,1668155,tt1097636,"Chill Out, Scooby-Doo!","Chill Out, Scooby-Doo!","Chill Out, Scooby-Doo!",video,2007,2007,0,72,"['Adventure', 'Animation', 'Comedy']",6.5,4247,['nm1245812'],"['nm1245812', 'nm0770649', 'nm1443120', 'nm2067371']"
+370,1821008,tt32621553,Dora and the Search for Sol Dorado,Dora and the Search for Sol Dorado,Dora and the Search for Sol Dorado,movie,2025,2025,0,96,"['Action', 'Adventure', 'Comedy']",5.4,1473,['nm3154756'],"['nm4829199', 'nm0317513', 'nm0909904', 'nm1332821']"
+371,1814932,tt32149731,¡Casa Bonita Mi Amor!,¡Casa Bonita Mi Amor!,¡Casa bonita mi amor!,movie,2024,2024,0,88,['Documentary'],7.6,1637,['nm0102994'],[]
+372,1587549,tt4512946,Woman in Motion,Woman in Motion,Woman in Motion,movie,2021,2019,0,96,"['Biography', 'Documentary']",8.7,444,['nm0860791'],"['nm6025089', 'nm7452270', 'nm4988046', 'nm7179948', 'nm7179949', 'nm0860791']"
+373,1127374,tt4189442,Expelled,Expelled,Expelled,movie,2014,2014,0,85,['Comedy'],4.7,7090,['nm2078193'],['nm2078193']
+374,1531570,tt8179024,Body Cam,Body Cam,Body Cam,movie,2020,2020,0,96,"['Horror', 'Mystery', 'Thriller']",5.3,7947,['nm1174169'],"['nm1130275', 'nm0726115']"
+375,1661863,tt0120695,From Dusk Till Dawn 3: The Hangman's Daughter,From Dusk Till Dawn 3: The Hangman's Daughter,From Dusk Till Dawn 3: The Hangman's Daughter,video,2000,1999,0,94,"['Horror', 'Thriller', 'Western']",4.8,13183,['nm0675894'],"['nm0736155', 'nm0001675']"
+376,132204,tt2674430,Approaching the Unknown,Approaching the Unknown,Approaching the Unknown,movie,2016,2016,0,90,"['Drama', 'Sci-Fi', 'Thriller']",4.9,9275,['nm5457825'],['nm5457825']
+377,1687092,tt14132588,Arena Wars,Arena Wars,Arena Wars,movie,2024,2024,0,96,"['Action', 'Comedy', 'Sci-Fi']",5.5,3308,['nm1761677'],"['nm1761677', 'nm5666772', 'nm6497808']"
+378,1628077,tt5322004,Three Months,Three Months,Three Months,movie,2022,2022,0,104,"['Comedy', 'Drama']",6.8,2714,['nm6716793'],['nm6716793']
+379,1414916,tt0258816,The Reckoning,The Reckoning,The Reckoning,movie,2004,2003,0,112,"['Crime', 'Drama', 'Mystery']",6.4,6588,['nm0006476'],"['nm0881343', 'nm0590105']"
+380,1327359,tt0337711,Rugrats Go Wild,Rugrats Go Wild,Rugrats Go Wild,movie,2003,2003,0,80,"['Adventure', 'Animation', 'Comedy']",5.6,9412,"['nm0256983', 'nm0899329']","['nm0100326', 'nm0684919', 'nm0716366', 'nm0338569', 'nm0899567', 'nm0458312', 'nm0190780', 'nm0314480', 'nm0672554', 'nm1134390', 'nm0839966', 'nm0636453', 'nm0466528']"
+381,147547,tt0467167,Beneath,Beneath,Beneath,movie,2007,2006,0,82,"['Horror', 'Mystery', 'Thriller']",5.3,4531,['nm1390673'],"['nm1461945', 'nm1390673']"
+382,1724297,tt12525482,Reinventing Elvis: The 68' Comeback,Reinventing Elvis: The '68 Comeback,Reinventing Elvis: The '68 Comeback,movie,2023,2023,0,110,"['Documentary', 'Music']",7.6,472,['nm0770643'],['nm0770643']
+383,525863,tt1865333,Comedy Central Roast of Donald Trump,Comedy Central Roast of Donald Trump,Comedy Central Roast of Donald Trump,tvEpisode,2011,2011,0,65,['Comedy'],7.0,2446,['nm0302778'],"['nm0416853', 'nm2477449', 'nm0746573', 'nm1968387', 'nm0271017', 'nm2452107', 'nm0780980', 'nm1503117', 'nm0576761', 'nm2154640', 'nm0807834', 'nm0896742', 'nm0630497', 'nm1011650']"
+384,525864,tt1037714,Comedy Central Roast of Flavor Flav,Comedy Central Roast of Flavor Flav,Comedy Central Roast of Flavor Flav,tvEpisode,2007,2007,0,90,['Comedy'],6.9,1790,['nm0302778'],"['nm2477449', 'nm0335613', 'nm2452107', 'nm1968387']"
+385,525872,tt0474603,Comedy Central Roast of Pamela Anderson,Comedy Central Roast of Pamela Anderson,Comedy Central Roast of Pamela Anderson,tvEpisode,2005,2005,0,90,['Comedy'],7.1,2819,['nm0302778'],"['nm2477449', 'nm1968387', 'nm1200564', 'nm1311260']"
+386,1702548,tt24082488,The Eternal Memory,The Eternal Memory,La memoria infinita,movie,2023,2023,0,85,['Documentary'],7.4,3928,['nm3073146'],['nm3073146']
+387,1398210,tt0080907,The Hunter,The Hunter,The Hunter,movie,1980,1980,0,97,"['Action', 'Biography', 'Comedy']",6.2,7559,['nm0474539'],"['nm0500377', 'nm0001382', 'nm0443839', 'nm0861774', 'nm0957549']"
+388,1768077,tt30253266,The Painter,The Painter,The Painter,movie,2024,2024,0,100,['Thriller'],4.7,2491,['nm0808995'],['nm0117865']
+389,1181452,tt6676028,In a Relationship,In a Relationship,In a Relationship,movie,2018,2018,0,92,"['Comedy', 'Drama']",5.5,3471,['nm4364444'],['nm4364444']
+390,1809896,tt26434746,First Shift,First Shift,First Shift,movie,2024,2024,0,89,"['Crime', 'Drama']",4.5,2225,['nm0093051'],['nm0093051']
+391,1653994,tt0183678,The Prophecy 3: The Ascent,The Prophecy 3: The Ascent,The Prophecy 3: The Ascent,video,2000,2000,0,84,"['Fantasy', 'Horror', 'Thriller']",5.4,6068,['nm0527261'],"['nm0927074', 'nm0243463', 'nm0812373']"
+392,1309498,tt0079758,Prophecy,Prophecy,Prophecy,movie,1979,1979,0,102,"['Horror', 'Sci-Fi', 'Thriller']",5.6,6772,['nm0001239'],['nm0783544']
+393,1739203,tt25289836,Good Burger 2,Good Burger 2,Good Burger 2,movie,2023,2023,0,90,"['Comedy', 'Family']",5.3,4413,['nm1288766'],"['nm0465741', 'nm0782499', 'nm0773759']"
+394,1694684,tt15038118,Blue's Big City Adventure,Blue's Big City Adventure,Blue's Big City Adventure,movie,2022,2022,0,82,"['Adventure', 'Animation', 'Comedy']",6.3,877,['nm6064706'],['nm0996022']
+395,1693401,tt21995004,The Fire That Took Her,The Fire That Took Her,The Fire That Took Her,movie,2022,2022,0,94,"['Crime', 'Documentary']",7.7,890,['nm3906120'],[]
+396,1623559,tt13646976,Bring Your Own Brigade,Bring Your Own Brigade,Bring Your Own Brigade,movie,2021,2021,0,119,['Documentary'],7.2,388,['nm1013671'],"['nm7941603', 'nm1013671']"
+397,1730805,tt26217622,Zoey 102,Zoey 102,Zoey 102,movie,2023,2023,0,101,"['Comedy', 'Drama', 'Family']",4.9,2466,['nm0398107'],"['nm0773759', 'nm3236884', 'nm3842572']"
+398,1758985,tt29702876,JFK: What The Doctors Saw,JFK: What the Doctors Saw,JFK: What the Doctors Saw,movie,2023,2023,0,92,"['Documentary', 'History']",7.5,777,['nm0790419'],[]
+399,1285586,tt0279286,On the Line,On the Line,On the Line,movie,2001,2001,0,85,"['Comedy', 'Family', 'Romance']",4.2,4506,['nm0112498'],"['nm0036962', 'nm0822793']"
+400,1764929,tt18350228,June,June,June,movie,2023,2023,0,98,"['Documentary', 'Music']",7.8,356,['nm2380021'],[]
+401,1728439,tt26943420,The Thundermans Return,The Thundermans Return,The Thundermans Return,movie,2024,2024,0,70,"['Action', 'Comedy', 'Crime']",5.0,1968,['nm1241603'],"['nm0818922', 'nm1113749', 'nm1484414']"
+402,1642247,tt15052172,Madonna: Madame X,Madame X,Madame X,movie,2021,2021,0,113,"['Documentary', 'Music']",6.8,1008,"['nm6764857', 'nm12945031', 'nm12761880', 'nm8948115', 'nm8862900']",['nm0000187']
+403,1640820,tt11851884,Hands Up,Hands Up,Hands Up,movie,2021,2021,0,80,"['Crime', 'Drama']",2.7,201,['nm5474785'],"['nm3249608', 'nm5474785']"
+404,1608726,tt4427800,Walkaway Joe,Walkaway Joe,Walkaway Joe,movie,2020,2020,0,89,"['Action', 'Drama']",5.6,1553,['nm0942875'],['nm2363869']
+405,525873,tt6038506,Comedy Central Roast of Rob Lowe,Comedy Central Roast of Rob Lowe,Rob Lowe,tvEpisode,2016,2016,0,81,['Comedy'],7.1,1544,['nm0302778'],"['nm0780980', 'nm4381735', 'nm1702396', 'nm2477449', 'nm0416853', 'nm4227392', 'nm1018791', 'nm1136420', 'nm1622388', 'nm2452107', 'nm0277813', 'nm1092072', 'nm4945007', 'nm3999347', 'nm0271017', 'nm0746573', 'nm3965483', 'nm0630497', 'nm1642224']"
+406,1840609,tt31974129,Man with No Past,Man with No Past,Man with No Past,movie,2025,2025,0,102,"['Action', 'Drama']",4.3,744,['nm0051466'],['nm0666999']
+407,1733082,tt22805590,Black Noise,Black Noise,Black Noise,movie,2023,2023,0,86,"['Action', 'Sci-Fi']",3.0,2255,['nm0553662'],"['nm0553662', 'nm0805635', 'nm2163364', 'nm0236043']"
+408,1665971,tt0365658,The Prophecy: Uprising,The Prophecy: Uprising,The Prophecy: Uprising,video,2005,2005,0,88,"['Action', 'Fantasy', 'Horror']",5.1,2749,['nm0812373'],"['nm0927074', 'nm1071097', 'nm0812373']"
+409,1576786,tt5834410,The Tiger's Apprentice,The Tiger's Apprentice,The Tiger's Apprentice,movie,2024,2024,0,84,"['Action', 'Adventure', 'Animation']",5.8,2307,"['nm0401203', 'nm1572239', 'nm3597828']","['nm1341735', 'nm1236653', 'nm8241697']"
+410,1685368,tt12992162,"The Day the Music Died: The Story of Don McLean's ""American Pie""",The Day the Music Died/American Pie,The Day the Music Died,movie,2022,2022,0,94,"['Biography', 'Documentary', 'Music']",7.1,687,['nm0602128'],[]
+411,525859,tt8301054,Comedy Central Roast of Bruce Willis,Comedy Central Roast of Bruce Willis,Comedy Central Roast of Bruce Willis,tvEpisode,2018,2018,0,85,['Comedy'],6.6,1878,['nm0302778'],"['nm4739329', 'nm8689027', 'nm4411203', 'nm4916386', 'nm0134968', 'nm1702396', 'nm2477449', 'nm7886155', 'nm4945007', 'nm0416853', 'nm2452107', 'nm3987491', 'nm4227392', 'nm0568796', 'nm6998985', 'nm3580359', 'nm1018791', 'nm1622388', 'nm0780980', 'nm8391163', 'nm1136420', 'nm2466179']"
+412,1707468,tt27736642,Let the Canary Sing,Cyndi Lauper: Let the Canary Sing,Let the Canary Sing,movie,2023,2023,0,98,"['Biography', 'Documentary', 'Music']",7.6,587,['nm0255334'],[]
+413,1443014,tt3817848,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,movie,2014,2014,0,98,['Documentary'],7.0,1254,['nm4902126'],['nm4902126']
+414,1318169,tt0448707,Red Eye,Red Eye,Redeu Ai,movie,2005,2004,0,96,['Horror'],4.7,986,['nm1013656'],"['nm9760456', 'nm11391777']"
+415,1876285,tt33058281,Larger than Life: Reign of the Boybands,Larger Than Life: Reign of the Boybands,Larger Than Life: Reign of the Boybands,movie,2024,2024,0,95,"['Documentary', 'Music']",6.8,332,['nm0205542'],[]
+416,1817951,tt8178762,Detained,Detained,Detained,movie,2024,2024,0,97,"['Crime', 'Mystery', 'Thriller']",4.9,2046,['nm4694099'],"['nm4694099', 'nm2828775']"
+417,1673953,tt6889128,PAW Patrol: Mighty Pups,Mighty Pups,Mighty Pups,tvEpisode,2018,2018,0,44,"['Adventure', 'Animation', 'Comedy']",5.0,195,['nm0060505'],"['nm0345907', 'nm0838357', 'nm0975298']"
+418,1665975,tt0439771,The Prophecy: Forsaken,The Prophecy: Forsaken,The Prophecy: Forsaken,video,2005,2005,0,75,"['Fantasy', 'Horror', 'Thriller']",4.4,2059,['nm0812373'],"['nm0927074', 'nm1071097', 'nm0812373']"
+419,1833946,tt32223312,No Time to Spy: A Loud House Movie,No Time to Spy: A Loud House Movie,No Time to Spy: A Loud House Movie,movie,2024,2024,0,81,"['Action', 'Adventure', 'Animation']",6.4,533,['nm2092298'],"['nm2314960', 'nm5335709', 'nm0767748']"
+420,1627313,tt13830296,Love and Monsters,Love and Monsters,Lyubov i monstry,movie,2021,2020,0,86,['Comedy'],4.1,133,['nm7393537'],['nm4143031']
+421,525876,tt0840305,Comedy Central Roast of William Shatner,Comedy Central Roast of William Shatner,Comedy Central Roast of William Shatner,tvEpisode,2006,2006,0,90,['Comedy'],7.3,2586,['nm0302778'],"['nm2477449', 'nm1703687', 'nm1918708', 'nm1968387', 'nm0746573', 'nm1505224']"
+422,153566,tt2091245,Black and White Stripes: The Juventus Story,Black and White Stripes: The Juventus Story,Black and White Stripes: The Juventus Story,movie,2016,2016,0,107,"['Biography', 'Documentary', 'Sport']",7.4,411,"['nm0479169', 'nm0479170']","['nm0479169', 'nm0479170']"
+423,1649529,tt15736548,The Crown's Ancient Forest,The Crown's Ancient Forest,The Crown's Ancient Forest,movie,2021,2021,0,,['Documentary'],6.8,32,[],[]
+424,1392908,tt2924336,The Gambler,The Gambler,Losejas,movie,2013,2013,0,109,"['Drama', 'Thriller']",7.1,1766,['nm2061225'],"['nm2061225', 'nm5680540']"
+425,525861,tt1694505,Comedy Central Roast of David Hasselhoff,Comedy Central Roast of David Hasselhoff,Comedy Central Roast of David Hasselhoff,tvEpisode,2010,2010,0,90,['Comedy'],7.2,2096,['nm0302778'],"['nm0416853', 'nm1702396', 'nm2376686', 'nm0426351', 'nm0271017', 'nm1199965', 'nm2154640', 'nm1011650', 'nm2477449', 'nm1968387', 'nm0576761', 'nm0896742', 'nm0630497', 'nm2452107']"
+426,1666038,tt1315195,Rugrats: Tales from the Crib: Snow White,Rugrats Tales from the Crib: Snow White,Rugrats Tales from the Crib: Snow White,video,2005,2005,0,72,[],6.1,159,"['nm0448599', 'nm1094375', 'nm0841319', 'nm0240548']","['nm0458312', 'nm0190780', 'nm0314480', 'nm0330856', 'nm0379747']"
+427,1362984,tt0083133,Student Bodies,Student Bodies,Student Bodies,movie,1981,1981,0,86,"['Comedy', 'Horror', 'Mystery']",5.4,5765,"['nm0741582', 'nm17220285']",['nm0741582']
+428,1174995,tt0857381,I See You,I See You,I See You,movie,2006,2006,0,122,"['Comedy', 'Drama', 'Fantasy']",4.4,1257,['nm6482555'],"['nm6482555', 'nm1330994', 'nm1145539']"
+429,3164640,tt10520800,Comedy Central Roast of Alec Baldwin,The Comedy Central Roast of Alec Baldwin,The Comedy Central Roast of Alec Baldwin,tvEpisode,2019,2019,0,84,['Comedy'],7.1,1167,['nm0302778'],"['nm4739329', 'nm3497327', 'nm8689027', 'nm10336402', 'nm4381735', 'nm1702396', 'nm3409555', 'nm0295281', 'nm1395537', 'nm12232740', 'nm6204450', 'nm2452107', 'nm3987491', 'nm4227392', 'nm2552037', 'nm0568796', 'nm6998985', 'nm1018791', 'nm1622388', 'nm8391163', 'nm2200650', 'nm3321719']"
+430,1898541,tt27049583,Cat Pack: A PAW Patrol Exclusive Event,Cat Pack: A PAW Patrol Exclusive Event,Cat Pack: A PAW Patrol Exclusive Event,movie,2022,2022,0,67,"['Animation', 'Family']",6.2,46,['nm0060505'],[]
+431,1601486,tt10196440,Finding Yingying,Finding Yingying,Finding Yingying,movie,2020,2020,0,98,['Documentary'],7.2,225,['nm10625892'],[]
+432,1260705,tt0024353,Morning Glory,Morning Glory,Morning Glory,movie,1933,1933,0,74,"['Drama', 'Romance']",6.4,3492,['nm0792514'],"['nm0337914', 'nm0015399']"
+433,1873107,tt32424777,Nugget Is Dead?: A Christmas Story,Nugget Is Dead: A Christmas Story,Nugget Is Dead? A Christmas Story,movie,2024,2024,0,87,"['Comedy', 'Drama']",5.1,456,['nm8158140'],"['nm6488996', 'nm10356300']"
+434,1678717,tt18071972,Organ Trail,Organ Trail,Organ Trail,movie,2023,2023,0,112,"['Drama', 'Horror', 'Thriller']",5.1,2085,['nm0417794'],['nm5167119']
+435,1384848,tt7817874,The Coronation,The Coronation,The Coronation,movie,2018,2018,0,60,['Documentary'],7.6,130,['nm0510358'],[]
+436,1665945,tt0303929,Dracula III: Legacy,Dracula III: Legacy,Dracula III: Legacy,video,2005,2005,0,86,['Horror'],4.6,3541,['nm0527261'],"['nm0812373', 'nm0527261']"
+437,1872717,tt31227920,SpongeBob & Sandy's Country Christmas,Sandy's Country Christmas,Sandy's Country Christmas,tvEpisode,2024,2024,0,30,"['Animation', 'Comedy', 'Family']",6.8,333,"['nm0127455', 'nm0909851', 'nm11219931']","['nm0384864', 'nm4761695', 'nm0492951', 'nm0112321', 'nm1521642', 'nm1684615', 'nm0238757', 'nm0384722', 'nm0421223']"
+438,4148099,tt11015752,"PAW Patrol: Ready, Race, Rescue!",,,,2019,,,,[],,,[],[]
+439,1691652,tt21241942,Buddy Games: Spring Awakening,Buddy Games: Spring Awakening,Buddy Games: Spring Awakening,movie,2023,2023,0,91,['Comedy'],4.5,1595,['nm0241049'],"['nm3266198', 'nm13688651']"
+440,1562300,tt9135004,I Am Richard Pryor,I Am Richard Pryor,I Am Richard Pryor,movie,2019,2019,0,92,"['Biography', 'Documentary']",6.7,528,['nm1380959'],"['nm1380959', 'nm6745182']"
+441,1818453,tt31956123,Shadow Land,Shadow Land,Shadow Land,movie,2024,2024,0,89,['Thriller'],3.5,490,['nm0051466'],['nm0181170']
+442,3180209,tt15825188,What Remains,What Remains,What Remains,movie,2024,2022,0,126,"['Crime', 'Drama', 'Mystery']",5.0,524,['nm6433142'],"['nm3210746', 'nm6433142']"
+443,1411267,tt7049542,An Acceptable Loss,An Acceptable Loss,The Pages,movie,2019,2018,0,102,"['Drama', 'Thriller']",5.5,1807,['nm0152640'],['nm0152640']
+444,1698365,tt15751968,Smile,Smile,Smile,movie,2022,2022,0,,['Horror'],4.3,154,['nm10076697'],['nm10076697']
+445,1681843,tt18399712,The Color of Care,The Color of Care,The Color of Care,movie,2022,2022,0,,['Documentary'],5.2,147,['nm3496466'],['nm0246009']
+446,1982646,tt36589671,The Last GunFight,The Last Gunfight,The Last Gunfight,movie,2025,2025,0,98,['Action'],4.3,270,['nm0051466'],"['nm0666999', 'nm0954345']"
+447,1649745,tt10405022,The Score,The Score,The Score,movie,2022,2021,0,100,"['Crime', 'Drama', 'Music']",5.0,484,['nm0810792'],['nm0810792']
+448,1816986,tt31974111,Hard Home,Hard Home,Hard Home,movie,2024,2024,0,87,['Thriller'],4.1,782,['nm0051466'],['nm4480209']
+449,1313399,tt0451176,Quinceañera,Quinceañera,Quinceañera,movie,2006,2006,0,90,['Drama'],6.9,4375,"['nm0322144', 'nm0922903']","['nm0322144', 'nm0922903']"
+450,1620928,tt13365752,The End of the Storm,The End of the Storm,The End of the Storm,movie,2020,2020,0,99,"['Documentary', 'Sport']",7.7,1028,['nm0259847'],['nm0259847']
+451,1302376,tt0261066,Piñero,Piñero,Piñero,movie,2001,2001,0,103,"['Biography', 'Drama']",6.2,1444,['nm0406687'],['nm0406687']
+452,1702437,tt17022868,Kiss the Future,Kiss the Future,Kiss the Future,movie,2024,2023,0,103,"['Documentary', 'Music']",7.6,692,['nm3543074'],"['nm1648993', 'nm3543074']"
+453,1702733,tt18327788,Superpower,Superpower,Superpower,movie,2023,2023,0,115,"['Documentary', 'War']",6.0,1844,"['nm2721926', 'nm0000576']",['nm3305952']
+454,1623462,tt13567374,Sabaya,Sabaya,Sabaya,movie,2021,2021,0,90,['Documentary'],7.1,780,['nm6353154'],['nm6353154']
+455,2749397,tt22982202,Smile,Smile,Tebessüm,movie,2023,2022,0,91,"['Comedy', 'Drama']",4.4,152,"['nm4304935', 'nm13480290']",['nm4304935']
+456,1705096,tt15038732,Chantilly Bridge,Chantilly Bridge,Chantilly Bridge,movie,2023,2023,0,86,['Drama'],5.8,203,['nm0947388'],"['nm0498605', 'nm0947388']"
