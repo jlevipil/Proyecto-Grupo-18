@@ -4,7 +4,6 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1437213,Top Gun: Maverick,2022,tt1745960,361743,movie,movie
 1856741,Better Man,2024,tt14260836,799766,movie,movie
 1583908,The Menu,2022,tt9764362,593643,movie,movie
-1870910,Smile 2,2024,tt29268110,1100782,movie,movie
 1695539,The Naked Gun,2025,tt3402138,1035259,movie,movie
 1645477,Smile,2022,tt15474916,882598,movie,movie
 1585258,Babylon,2022,tt10640346,615777,movie,movie
@@ -25,11 +24,12 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1570233,Love and Monsters,2020,tt2222042,590223,movie,movie
 1566627,Mission: Impossible - Dead Reckoning Part One,2023,tt9603212,575264,movie,movie
 1112635,Dungeons & Dragons: Honor Among Thieves,2023,tt2906216,493529,movie,movie
+1870910,Smile 2,2024,tt29268110,1100782,movie,movie
 1767720,September 5,2024,tt28082769,1211472,movie,movie
 1291905,Overlord,2018,tt4530422,438799,movie,movie
 1467276,Whiplash,2014,tt2582802,244786,movie,movie
-1299858,Pet Sematary,2019,tt0837563,157433,movie,movie
 183690,Crawl,2019,tt8364368,511987,movie,movie
+1299858,Pet Sematary,2019,tt0837563,157433,movie,movie
 1675416,Scream VI,2023,tt17663992,934433,movie,movie
 1472159,World War Z,2013,tt0816711,72190,movie,movie
 1274714,Nightcrawler,2014,tt2872718,242582,movie,movie
@@ -73,8 +73,8 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1105826,District 9,2009,tt1136608,17654,movie,movie
 140772,Bad Teacher,2011,tt1284575,52449,movie,movie
 1142939,G.I. Joe: Retaliation,2013,tt1583421,72559,movie,movie
-1416013,The Ring,2002,tt0298130,565,movie,movie
 1399501,The Italian Job,2003,tt0317740,9654,movie,movie
+1416013,The Ring,2002,tt0298130,565,movie,movie
 1367127,Sweeney Todd: The Demon Barber of Fleet Street,2007,tt0408236,13885,movie,movie
 1257219,Mission: Impossible III,2006,tt0317919,956,movie,movie
 1252065,Men in Black II,2002,tt0120912,608,movie,movie
@@ -96,12 +96,12 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1299264,Perfume: The Story of a Murderer,2006,tt0396171,1427,movie,movie
 1153877,Grown Ups,2010,tt1375670,38365,movie,movie
 1684218,Jerry & Marge Go Large,2022,tt8323668,843847,movie,movie
+1360238,Step Brothers,2008,tt0838283,12133,movie,movie
 1295162,Paranormal Activity,2007,tt1179904,23827,movie,movie
 1294066,Panic Room,2002,tt0258000,4547,movie,movie
 1188732,Jack Ryan: Shadow Recruit,2014,tt1205537,137094,movie,movie
 1153235,Green Room,2016,tt4062536,313922,movie,movie
 1150965,Gone Baby Gone,2007,tt0452623,4771,movie,movie
-1146179,Geostorm,2017,tt1981128,274855,movie,movie
 1105842,Disturbia,2007,tt0486822,8271,movie,movie
 187566,Daddy's Home,2015,tt1528854,274167,movie,movie
 11420,13 Going on 30,2004,tt0337563,10096,movie,movie
@@ -118,7 +118,6 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1391084,The Fighter,2010,tt0964517,45317,movie,movie
 1481078,Zoolander,2001,tt0196229,9398,movie,movie
 1374079,Terminator 2: Judgment Day,1991,tt0103064,280,movie,movie
-1360238,Step Brothers,2008,tt0838283,12133,movie,movie
 1336805,Seabiscuit,2003,tt0329575,4464,movie,movie
 1286007,Once Upon a Time in Mexico,2003,tt0285823,1428,movie,movie
 1148809,Gladiator,2000,tt0172495,98,movie,movie
@@ -127,7 +126,6 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 178972,Cold Mountain,2003,tt0159365,2289,movie,movie
 128082,Anchorman: The Legend of Ron Burgundy,2004,tt0357413,8699,movie,movie
 1620509,"Confess, Fletch",2022,tt12718300,724665,movie,movie
-1439255,Transformers: Dark of the Moon,2011,tt1399103,38356,movie,movie
 1381783,The Brothers Grimm,2005,tt0355295,4442,movie,movie
 1335438,Scary Movie 5,2013,tt0795461,4258,movie,movie
 1335437,Scary Movie 4,2006,tt0362120,4257,movie,movie
@@ -140,32 +138,33 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 145380,Beautiful Creatures,2013,tt1559547,109491,movie,movie
 125804,American Psycho,2000,tt0144084,1359,movie,movie
 1144747,Gattaca,1997,tt0119177,782,movie,movie
-1257218,Mission: Impossible II,2000,tt0120755,955,movie,movie
 1482795,Æon Flux,2005,tt0402022,8202,movie,movie
+1439255,Transformers: Dark of the Moon,2011,tt1399103,38356,movie,movie
 1421902,The Sum of All Fears,2002,tt0164184,4614,movie,movie
+1420688,The SpongeBob SquarePants Movie,2004,tt0345950,11836,movie,movie
 1406327,The Manchurian Candidate,2004,tt0368008,14462,movie,movie
+1257218,Mission: Impossible II,2000,tt0120755,955,movie,movie
 1384823,The Core,2003,tt0298814,9341,movie,movie
 1351115,Sleepy Hollow,1999,tt0162661,2668,movie,movie
 1336403,Scream,1996,tt0117571,4232,movie,movie
-1140725,From Dusk Till Dawn,1996,tt0116367,755,movie,movie
 1128402,Face/Off,1997,tt0119094,754,movie,movie
 187567,Daddy's Home 2,2017,tt5657846,419680,movie,movie
+1140725,From Dusk Till Dawn,1996,tt0116367,755,movie,movie
 1675841,Bob Marley: One Love,2024,tt8521778,802219,movie,movie
 157540,Boogie Nights,1997,tt0118749,4995,movie,movie
 1422547,The Talented Mr. Ripley,1999,tt0134119,1213,movie,movie
-1420688,The SpongeBob SquarePants Movie,2004,tt0345950,11836,movie,movie
 1307873,Primal Fear,1996,tt0117381,1592,movie,movie
 1295166,Paranormal Activity 4,2012,tt2109184,82990,movie,movie
 1295163,Paranormal Activity 2,2010,tt1536044,41436,movie,movie
+1268394,Nacho Libre,2006,tt0457510,9353,movie,movie
 123880,Along Came a Spider,2001,tt0164334,2043,movie,movie
 123615,Almost Famous,2000,tt0181875,786,movie,movie
 1420573,The Spiderwick Chronicles,2008,tt0416236,8204,movie,movie
 1356151,"South Park: Bigger, Longer & Uncut",1999,tt0158983,9473,movie,movie
 1356695,Spanglish,2004,tt0371246,2539,movie,movie
-1268394,Nacho Libre,2006,tt0457510,9353,movie,movie
 1242402,Maid in Manhattan,2002,tt0252076,7303,movie,movie
-1336407,Scream 2,1997,tt0120082,4233,movie,movie
 1169960,Hostel: Part II,2007,tt0498353,1691,movie,movie
+1336407,Scream 2,1997,tt0120082,4233,movie,movie
 178266,Clueless,1995,tt0112697,9603,movie,movie
 168374,Case 39,2009,tt0795351,28355,movie,movie
 144030,Basic Instinct,1992,tt0103772,402,movie,movie
@@ -182,13 +181,13 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 195456,Deep Impact,1998,tt0120647,8656,movie,movie
 1620743,Orphan: First Kill,2022,tt11851548,760161,movie,movie
 1465525,What Lies Beneath,2000,tt0161081,2655,movie,movie
+1390284,The Faculty,1998,tt0133751,9276,movie,movie
 174587,Chloe,2010,tt1352824,28211,movie,movie
 1430765,Think Like a Man,2012,tt1621045,67660,movie,movie
 1408904,The Naked Gun 2½: The Smell of Fear,1991,tt0102510,37137,movie,movie
-1391449,The Firm,1993,tt0106918,37233,movie,movie
-1390284,The Faculty,1998,tt0133751,9276,movie,movie
 1140284,Frida,2002,tt0120679,1360,movie,movie
 116657,Addams Family Values,1993,tt0106220,2758,movie,movie
+1391449,The Firm,1993,tt0106918,37233,movie,movie
 1359261,Star Trek: First Contact,1996,tt0117731,199,movie,movie
 1269071,Naked Gun 33⅓: The Final Insult,1994,tt0110622,36593,movie,movie
 1408905,The Naked Gun: From the Files of Police Squad!,1988,tt0095705,37136,movie,movie
@@ -200,14 +199,14 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1351502,Small Soldiers,1998,tt0122718,11551,movie,movie
 1326347,Rosemary's Baby,1968,tt0063522,805,movie,movie
 1297138,Patriot Games,1992,tt0105112,9869,movie,movie
-1143429,Galaxy Quest,1999,tt0177789,926,movie,movie
 1416929,The Running Man,1987,tt0093894,865,movie,movie
 1315743,Rambo: First Blood Part II,1985,tt0089880,1369,movie,movie
+1143429,Galaxy Quest,1999,tt0177789,926,movie,movie
 1140323,Friday the 13th,1980,tt0080761,4488,movie,movie
 1109420,Double Jeopardy,1999,tt0150377,10398,movie,movie
-1414556,The Rainmaker,1997,tt0119978,11975,movie,movie
 1404870,The Loved Ones,2010,tt1316536,46420,movie,movie
 1367617,Swingers,1996,tt0117802,10218,movie,movie
+1315739,Rambo III,1988,tt0095956,1370,movie,movie
 1246117,Marathon Man,1976,tt0074860,10518,movie,movie
 1219174,Labyrinth,1986,tt0091369,13597,movie,movie
 1205862,Kiss the Girls,1997,tt0119468,9437,movie,movie
@@ -216,8 +215,8 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1359265,Star Trek: Insurrection,1998,tt0120844,200,movie,movie
 1359262,Star Trek: Generations,1994,tt0111280,193,movie,movie
 1359254,Star Trek VI: The Undiscovered Country,1991,tt0102975,174,movie,movie
-1315739,Rambo III,1988,tt0095956,1370,movie,movie
 1299857,Pet Sematary,1989,tt0098084,8913,movie,movie
+1188974,Jacob's Ladder,1990,tt0099871,2291,movie,movie
 129728,Animal House,1978,tt0077975,8469,movie,movie
 1588061,The Contractor,2022,tt10323676,628900,movie,movie
 1529815,Snake Eyes: G.I. Joe Origins,2021,tt8404256,568620,movie,movie
@@ -233,7 +232,6 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1359249,Star Trek II: The Wrath of Khan,1982,tt0084726,154,movie,movie
 1213084,La Bamba,1987,tt0093378,16620,movie,movie
 1140327,Friday the 13th Part 2,1981,tt0082418,9725,movie,movie
-1188974,Jacob's Ladder,1990,tt0099871,2291,movie,movie
 1108839,Dora and the Lost City of Gold,2019,tt7547410,499701,movie,movie
 1359271,Star Trek: The Motion Picture,1979,tt0079945,152,movie,movie
 1264067,Murder on the Orient Express,1974,tt0071877,4176,movie,movie
@@ -245,35 +243,36 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1705556,Dear Santa,2024,tt2396431,1097870,movie,movie
 1336334,Scouts Guide to the Zombie Apocalypse,2015,tt1727776,273477,movie,movie
 1309118,Project Almanac,2015,tt2436386,227719,movie,movie
+1795942,Vicious,2025,tt31511689,1251717,movie,movie
 3245328,Star Trek: Section 31,2025,tt9603060,1114894,movie,movie
 1135289,Flashdance,1983,tt0085549,535,movie,movie
 1111496,Drop Dead Gorgeous,1999,tt0157503,10490,movie,movie
 1635032,Beavis and Butt-Head Do the Universe,2022,tt14145426,828947,movie,movie
-1579858,Spontaneous,2020,tt5774062,604578,movie,movie
 1338753,Selena,1997,tt0120094,16052,movie,movie
 1295169,Paranormal Activity: The Marked Ones,2014,tt2473682,227348,movie,movie
 1273125,New Jack City,1991,tt0102526,10952,movie,movie
 1649137,Significant Other,2022,tt15353964,901385,movie,movie
+1579858,Spontaneous,2020,tt5774062,604578,movie,movie
 1420686,The SpongeBob Movie: Sponge on the Run,2020,tt4823776,400160,movie,movie
-1359251,Star Trek III: The Search for Spock,1984,tt0088170,157,movie,movie
+1398195,The Hunted,2003,tt0269347,10632,movie,movie
 194822,Death at a Funeral,2010,tt1321509,34803,movie,movie
 179933,Comet,2014,tt2965412,276908,movie,movie
 170994,Changing Lanes,2002,tt0264472,1537,movie,movie
 145625,Beavis and Butt-Head Do America,1996,tt0115641,3179,movie,movie
 1691079,Jeanne du Barry,2023,tt17277414,921452,movie,movie
 1421062,The Stepford Wives,2004,tt0327162,9890,movie,movie
-1419900,The Smurfs 2,2013,tt2017020,77931,movie,movie
 1413903,The Prophecy,1995,tt0114194,11980,movie,movie
 1411410,The Parallax View,1974,tt0071970,17365,movie,movie
 1408080,The Monster Squad,1987,tt0093560,13509,movie,movie
-1398195,The Hunted,2003,tt0269347,10632,movie,movie
+1359251,Star Trek III: The Search for Spock,1984,tt0088170,157,movie,movie
 1127663,Extract,2009,tt1225822,12569,movie,movie
 168028,Carriers,2009,tt0806203,25769,movie,movie
 130351,Annie,2014,tt1823664,196867,movie,movie
 1556700,The Night Clerk,2020,tt7979142,526007,movie,movie
 1501028,Joe Bell,2020,tt4651466,552269,movie,movie
-1407268,The Mexican,2001,tt0236493,6073,movie,movie
+1419900,The Smurfs 2,2013,tt2017020,77931,movie,movie
 1170569,House at the End of the Street,2012,tt1582507,82505,movie,movie
+1407268,The Mexican,2001,tt0236493,6073,movie,movie
 1395666,The Grifters,1990,tt0099703,18129,movie,movie
 1136336,Flypaper,2011,tt1541160,62046,movie,movie
 1612438,Paranormal Activity: Next of Kin,2021,tt10515988,609972,movie,movie
@@ -283,99 +282,98 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1124570,Escape from L.A.,1996,tt0116225,10061,movie,movie
 1633242,Apartment 7A,2024,tt14371860,807339,movie,movie
 1413509,The Prince & Me,2004,tt0337697,11137,movie,movie
-1295168,Paranormal Activity: The Ghost Dimension,2015,tt2473510,146301,movie,movie
 1194978,Judgment Night,1993,tt0107286,6,movie,movie
 186254,Cursed,2005,tt0257516,10012,movie,movie
+1295168,Paranormal Activity: The Ghost Dimension,2015,tt2473510,146301,movie,movie
 1140329,Friday the 13th Part III,1982,tt0083972,9728,movie,movie
 1372717,Teen Wolf,1985,tt0090142,11824,movie,movie
+1359253,Star Trek V: The Final Frontier,1989,tt0098382,172,movie,movie
 1230157,Like Water for Chocolate,1992,tt0103994,18183,movie,movie
 1190304,Friday the 13th Part VI: Jason Lives,1986,tt0091080,10225,movie,movie
 1157218,Halloween III: Season of the Witch,1982,tt0085636,10676,movie,movie
 1110131,Dracula 2000,2000,tt0219653,10577,movie,movie
-1387308,The Devil Inside,2012,tt1560985,76487,movie,movie
+1259743,Monster Trucks,2016,tt3095734,262841,movie,movie
 1258921,Mommie Dearest,1981,tt0082766,15660,movie,movie
 1140332,Friday the 13th: A New Beginning,1985,tt0089173,9731,movie,movie
-1359253,Star Trek V: The Final Frontier,1989,tt0098382,172,movie,movie
-1259743,Monster Trucks,2016,tt3095734,262841,movie,movie
 1140331,Friday the 13th Part VIII: Jason Takes Manhattan,1989,tt0097388,10283,movie,movie
-1795942,Vicious,2025,tt31511689,1251717,movie,movie
 1684947,Good Boy,2022,tt19705884,983507,movie,movie
 1627294,Sir Alex Ferguson: Never Give In,2021,tt8999372,790850,movie,movie
+1387308,The Devil Inside,2012,tt1560985,76487,movie,movie
 1443561,Twisted,2004,tt0315297,13572,movie,movie
-1151121,Good Burger,1997,tt0119215,14817,movie,movie
 147314,Below,2002,tt0276816,12590,movie,movie
+1151121,Good Burger,1997,tt0119215,14817,movie,movie
 1140330,Friday the 13th Part VII: The New Blood,1988,tt0095179,10281,movie,movie
-159789,Breaking In,2018,tt7137846,497814,movie,movie
 1677127,80 for Brady,2023,tt18079362,942922,movie,movie
 1635354,Pet Sematary: Bloodlines,2023,tt14145436,830764,movie,movie
 1299859,Pet Sematary II,1992,tt0105128,10906,movie,movie
-125592,American Gigolo,1980,tt0080365,2768,movie,movie
+159789,Breaking In,2018,tt7137846,497814,movie,movie
 14275,6 Days,2017,tt4703048,347984,movie,movie
 1675925,Smurfs,2025,tt18069420,936108,movie,movie
 1791213,Stans,2025,tt31313835,1244999,movie,movie
 1401492,The Last Exorcism Part II,2013,tt2034139,146203,movie,movie
 1348911,Single White Female,1992,tt0105414,9605,movie,movie
-1309715,Proud Mary,2018,tt6421110,442064,movie,movie
+125592,American Gigolo,1980,tt0080365,2768,movie,movie
 1609986,PAW Patrol: The Movie,2021,tt11832046,675445,movie,movie
 1538163,Finestkind,2023,tt7991508,507532,movie,movie
 1663144,American Psycho II: All American Girl,2002,tt0283877,10726,movie,movie
 1453880,Vampire in Brooklyn,1995,tt0114825,12158,movie,movie
+1309715,Proud Mary,2018,tt6421110,442064,movie,movie
 1180729,In Fabric,2018,tt7464188,475220,movie,movie
-133079,Area 51,2015,tt1519461,57876,movie,movie
-1585762,Spell,2020,tt10736580,621151,movie,movie
 1509444,Paws of Fury: The Legend of Hank,2022,tt4428398,366672,movie,movie
+133079,Area 51,2015,tt1519461,57876,movie,movie
 1856742,The Friend,2025,tt18108824,1186563,movie,movie
 1708161,Milli Vanilli,2023,tt14666592,1123287,movie,movie
 1652330,The Ledge,2022,tt6805938,924482,movie,movie
+1585762,Spell,2020,tt10736580,621151,movie,movie
 1486532,Echo in the Canyon,2019,tt8884430,549551,movie,movie
 1661857,From Dusk Till Dawn 2: Texas Blood Money,1999,tt0120860,12095,movie,movie
 1416819,The Rugrats Movie,1998,tt0134067,14444,movie,movie
 1415304,The Relic,1997,tt0120004,11015,movie,movie
-1280703,O,2001,tt0184791,11065,movie,movie
 1180000,Imagine That,2009,tt0780567,19724,movie,movie
-1152908,Grease 2,1982,tt0084021,9037,movie,movie
 1664910,Scooby-Doo! and the Loch Ness Monster,2004,tt0418141,12902,movie,movie
+1280703,O,2001,tt0184791,11065,movie,movie
 1274241,Night Falls on Manhattan,1997,tt0119783,46027,movie,movie
 1204882,King Kong,1976,tt0074751,10730,movie,movie
+1152908,Grease 2,1982,tt0084021,9037,movie,movie
 525860,Comedy Central Roast of Charlie Sheen,2011,tt1985970,296192,movie,movie
 1592787,The Killing of Kenneth Chamberlain,2021,tt8906722,647557,movie,movie
-117669,Afflicted,2014,tt2309961,210947,movie,movie
 1455451,Venom,2005,tt0428251,7182,movie,movie
 1300314,Phantoms,1998,tt0119891,9827,movie,movie
 1273922,Nick of Time,1995,tt0113972,2086,movie,movie
+117669,Afflicted,2014,tt2309961,210947,movie,movie
 1372390,Teaching Mrs. Tingle,1999,tt0133046,10342,movie,movie
 1367685,Switchback,1997,tt0119210,10871,movie,movie
-122346,All About the Benjamins,2002,tt0278295,13950,movie,movie
 525867,Comedy Central Roast of James Franco,2013,tt3098812,300302,movie,movie
+122346,All About the Benjamins,2002,tt0278295,13950,movie,movie
+119524,Ain't Them Bodies Saints,2013,tt2388637,152748,movie,movie
 1815061,The Wedding Banquet,2025,tt32214413,1278827,movie,movie
 1427920,The Wild Thornberrys Movie,2002,tt0282120,14317,movie,movie
 1327360,Rugrats in Paris: The Movie,2000,tt0213203,16340,movie,movie
-119524,Ain't Them Bodies Saints,2013,tt2388637,152748,movie,movie
-1430300,They,2002,tt0283632,16028,movie,movie
 1653982,Scooby-Doo and the Alien Invaders,2000,tt0253658,20410,movie,movie
+1430300,They,2002,tt0283632,16028,movie,movie
+1607099,Console Wars,2020,tt5215462,344031,movie,movie
 1412037,The Perfect Guy,2015,tt3862750,304372,movie,movie
 1663942,Scooby-Doo! and the Legend of the Vampire,2003,tt0357139,30074,movie,movie
-1607099,Console Wars,2020,tt5215462,344031,movie,movie
-525870,Comedy Central Roast of Justin Bieber,2015,tt4504452,333103,movie,movie
 1647683,PAW Patrol: The Mighty Movie,2023,tt15837338,893723,movie,movie
 525858,Comedy Central Roast of Bob Saget,2008,tt1276947,324173,movie,movie
-1665933,Scooby-Doo! in Where's My Mummy?,2005,tt0480461,20558,movie,movie
+525870,Comedy Central Roast of Justin Bieber,2015,tt4504452,333103,movie,movie
 1643560,Margaux,2022,tt14967618,846778,movie,movie
 1164576,Hey Arnold! The Movie,2002,tt0314166,17710,movie,movie
+1665933,Scooby-Doo! in Where's My Mummy?,2005,tt0480461,20558,movie,movie
+1983042,Bodyguard of Lies,2025,tt36589896,1465549,movie,movie
 1466561,When the Bough Breaks,2016,tt1389139,335791,movie,movie
 1378641,The Baxter,2005,tt0401244,13169,movie,movie
-1983042,Bodyguard of Lies,2025,tt36589896,1465549,movie,movie
 1661353,The Prophecy II,1998,tt0118643,9033,movie,movie
 1616698,76 Days,2020,tt12801326,728928,movie,movie
-1668155,"Chill Out, Scooby-Doo!",2007,tt1097636,13354,movie,movie
 1412029,The Perfect Game,2009,tt0473102,56601,movie,movie
 1348948,Singularity,2017,tt7312940,484886,movie,movie
 1922527,Henry Danger: The Movie,2025,tt7787524,926670,movie,movie
-1587549,Woman in Motion,2021,tt4512946,549358,movie,movie
+1668155,"Chill Out, Scooby-Doo!",2007,tt1097636,13354,movie,movie
 1821008,Dora and the Search for Sol Dorado,2025,tt32621553,1287536,movie,movie
 1814932,¡Casa Bonita Mi Amor!,2024,tt32149731,1278666,movie,movie
-1531570,Body Cam,2020,tt8179024,513268,movie,movie
+1587549,Woman in Motion,2021,tt4512946,549358,movie,movie
 1127374,Expelled,2014,tt4189442,305932,movie,movie
+1531570,Body Cam,2020,tt8179024,513268,movie,movie
 1661863,From Dusk Till Dawn 3: The Hangman's Daughter,2000,tt0120695,10213,movie,movie
 132204,Approaching the Unknown,2016,tt2674430,328429,movie,movie
 1687092,Arena Wars,2024,tt14132588,995803,movie,movie
@@ -383,25 +381,25 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 1414916,The Reckoning,2004,tt0258816,25935,movie,movie
 1327359,Rugrats Go Wild,2003,tt0337711,20694,movie,movie
 147547,Beneath,2007,tt0467167,21623,movie,movie
-525863,Comedy Central Roast of Donald Trump,2011,tt1865333,329243,movie,movie
-525872,Comedy Central Roast of Pamela Anderson,2005,tt0474603,296206,movie,movie
 1724297,Reinventing Elvis: The 68' Comeback,2023,tt12525482,1146570,movie,movie
+525863,Comedy Central Roast of Donald Trump,2011,tt1865333,329243,movie,movie
 525864,Comedy Central Roast of Flavor Flav,2007,tt1037714,315850,movie,movie
+525872,Comedy Central Roast of Pamela Anderson,2005,tt0474603,296206,movie,movie
 1702548,The Eternal Memory,2023,tt24082488,1032760,movie,movie
 1398210,The Hunter,1980,tt0080907,5922,movie,movie
 1768077,The Painter,2024,tt30253266,1211957,movie,movie
 1181452,In a Relationship,2018,tt6676028,448447,movie,movie
 1809896,First Shift,2024,tt26434746,1090007,movie,movie
-1693401,The Fire That Took Her,2022,tt21995004,1025896,movie,movie
 1653994,The Prophecy 3: The Ascent,2000,tt0183678,9011,movie,movie
-1623559,Bring Your Own Brigade,2021,tt13646976,776596,movie,movie
 1309498,Prophecy,1979,tt0079758,31915,movie,movie
 1739203,Good Burger 2,2023,tt25289836,1101582,movie,movie
 1694684,Blue's Big City Adventure,2022,tt15038118,939210,movie,movie
-1764929,June,2023,tt18350228,1207731,movie,movie
+1693401,The Fire That Took Her,2022,tt21995004,1025896,movie,movie
+1623559,Bring Your Own Brigade,2021,tt13646976,776596,movie,movie
 1730805,Zoey 102,2023,tt26217622,1073170,movie,movie
 1758985,JFK: What The Doctors Saw,2023,tt29702876,1198680,movie,movie
 1285586,On the Line,2001,tt0279286,34043,movie,movie
+1764929,June,2023,tt18350228,1207731,movie,movie
 1728439,The Thundermans Return,2024,tt26943420,1094556,movie,movie
 1642247,Madonna: Madame X,2021,tt15052172,787864,movie,movie
 1640820,Hands Up,2021,tt11851884,857980,movie,movie
@@ -409,52 +407,52 @@ id,title,year,imdb_id,tmdb_id,tmdb_type,type
 525873,Comedy Central Roast of Rob Lowe,2016,tt6038506,414749,movie,movie
 1840609,Man with No Past,2025,tt31974129,1315986,movie,movie
 1733082,Black Noise,2023,tt22805590,1159518,movie,movie
-1707468,Let the Canary Sing,2023,tt27736642,1122358,movie,movie
 1665971,The Prophecy: Uprising,2005,tt0365658,19564,movie,movie
 1576786,The Tiger's Apprentice,2024,tt5834410,598387,movie,movie
-1318169,Red Eye,2005,tt0448707,62436,movie,movie
+1685368,"The Day the Music Died: The Story of Don McLean's ""American Pie""",2022,tt12992162,985709,movie,movie
 525859,Comedy Central Roast of Bruce Willis,2018,tt8301054,536056,movie,movie
+1707468,Let the Canary Sing,2023,tt27736642,1122358,movie,movie
 1443014,Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles,2014,tt3817848,280276,movie,movie
+1318169,Red Eye,2005,tt0448707,62436,movie,movie
 1876285,Larger than Life: Reign of the Boybands,2024,tt33058281,1379227,movie,movie
 1817951,Detained,2024,tt8178762,1282960,movie,movie
 1673953,PAW Patrol: Mighty Pups,2018,tt6889128,552095,movie,movie
 1665975,The Prophecy: Forsaken,2005,tt0439771,37529,movie,movie
-525876,Comedy Central Roast of William Shatner,2006,tt0840305,296194,movie,movie
 1833946,No Time to Spy: A Loud House Movie,2024,tt32223312,1280768,movie,movie
+1627313,Love and Monsters,2021,tt13830296,656103,movie,movie
+525876,Comedy Central Roast of William Shatner,2006,tt0840305,296194,movie,movie
 153566,Black and White Stripes: The Juventus Story,2016,tt2091245,421064,movie,movie
-525861,Comedy Central Roast of David Hasselhoff,2010,tt1694505,296193,movie,movie
+1649529,The Crown's Ancient Forest,2021,tt15736548,904879,movie,movie
 1392908,The Gambler,2013,tt2924336,258771,movie,movie
-3164640,Comedy Central Roast of Alec Baldwin,2019,tt10520800,630068,movie,movie
+525861,Comedy Central Roast of David Hasselhoff,2010,tt1694505,296193,movie,movie
+1666038,Rugrats: Tales from the Crib: Snow White,2005,tt1315195,309194,movie,movie
 1362984,Student Bodies,1981,tt0083133,21515,movie,movie
-1260705,Morning Glory,1933,tt0024353,31777,movie,movie
 1174995,I See You,2006,tt0857381,65956,movie,movie
+3164640,Comedy Central Roast of Alec Baldwin,2019,tt10520800,630068,movie,movie
 1898541,Cat Pack: A PAW Patrol Exclusive Event,2022,tt27049583,991833,movie,movie
 1601486,Finding Yingying,2020,tt10196440,674886,movie,movie
-1627313,Love and Monsters,2021,tt13830296,656103,movie,movie
+1260705,Morning Glory,1933,tt0024353,31777,movie,movie
 1873107,Nugget Is Dead?: A Christmas Story,2024,tt32424777,1374419,movie,movie
-1384848,The Coronation,2018,tt7817874,499080,movie,movie
 1678717,Organ Trail,2023,tt18071972,950141,movie,movie
+1384848,The Coronation,2018,tt7817874,499080,movie,movie
 1665945,Dracula III: Legacy,2005,tt0303929,10579,movie,movie
+1872717,SpongeBob & Sandy's Country Christmas,2024,tt31227920,1373810,movie,movie
 4148099,"PAW Patrol: Ready, Race, Rescue!",2019,tt11015752,624620,movie,movie
+1691652,Buddy Games: Spring Awakening,2023,tt21241942,1017507,movie,movie
 1562300,I Am Richard Pryor,2019,tt9135004,580634,movie,movie
+1818453,Shadow Land,2024,tt31956123,1283707,movie,movie
 3180209,What Remains,2024,tt15825188,916723,movie,movie
 1411267,An Acceptable Loss,2019,tt7049542,553882,movie,movie
-1818453,Shadow Land,2024,tt31956123,1283707,movie,movie
 1698365,Smile,2022,tt15751968,1051335,movie,movie
 1681843,The Color of Care,2022,tt18399712,967161,movie,movie
-3199048,The Rise of Wagner,2023,tt27480377,228220,tv,movie
-1872717,SpongeBob & Sandy's Country Christmas,2024,tt31227920,1373810,movie,movie
-1702733,Superpower,2023,tt18327788,943330,movie,movie
 1982646,The Last GunFight,2025,tt36589671,1465038,movie,movie
-1691652,Buddy Games: Spring Awakening,2023,tt21241942,1017507,movie,movie
-1666038,Rugrats: Tales from the Crib: Snow White,2005,tt1315195,309194,movie,movie
 1649745,The Score,2022,tt10405022,627915,movie,movie
 1816986,Hard Home,2024,tt31974111,1281532,movie,movie
-1997130,Dora the Explorer: Mermaid Adventures,2025,tt37671594,1485539,movie,movie
 1313399,Quinceañera,2006,tt0451176,64499,movie,movie
 1620928,The End of the Storm,2020,tt13365752,760982,movie,movie
 1302376,Piñero,2001,tt0261066,55479,movie,movie
 1702437,Kiss the Future,2024,tt17022868,1075845,movie,movie
+1702733,Superpower,2023,tt18327788,943330,movie,movie
 1623462,Sabaya,2021,tt13567374,776555,movie,movie
 2749397,Smile,2023,tt22982202,1038522,movie,movie
 1705096,Chantilly Bridge,2023,tt15038732,1094256,movie,movie
