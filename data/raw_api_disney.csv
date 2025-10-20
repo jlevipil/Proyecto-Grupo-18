@@ -1,0 +1,801 @@
+id,title,year,imdb_id,tmdb_id,tmdb_type,type
+1874486,Predator: Killer of Killers,2025,tt36463894,1376434,movie,movie
+1685606,Thunderbolts*,2025,tt20969586,986056,movie,movie
+1508465,Snow White,2025,tt6208148,447273,movie,movie
+1560295,Doctor Strange in the Multiverse of Madness,2022,tt9419884,453395,movie,movie
+138018,Avatar: The Way of Water,2022,tt1630029,76600,movie,movie
+1633704,Captain America: Brave New World,2025,tt14513804,822119,movie,movie
+1584304,Thor: Love and Thunder,2022,tt10648342,616037,movie,movie
+1491945,Black Panther: Wakanda Forever,2022,tt9114286,505642,movie,movie
+1789097,Moana 2,2024,tt13622970,1241982,movie,movie
+1598630,Lilo & Stitch,2025,tt11655566,552524,movie,movie
+1624287,Turning Red,2022,tt8097030,508947,movie,movie
+1450845,Morbius,2022,tt5108870,526896,movie,movie
+1450054,Avengers: Endgame,2019,tt4154796,299534,movie,movie
+138100,Avengers: Infinity War,2018,tt4154756,299536,movie,movie
+1494176,Deadpool & Wolverine,2024,tt6263850,533535,movie,movie
+1455450,Venom,2018,tt1270797,335983,movie,movie
+1359294,Star Wars: The Rise of Skywalker,2019,tt2527338,181812,movie,movie
+1357314,Spider-Man: Far From Home,2019,tt6320628,429617,movie,movie
+194188,Deadpool 2,2018,tt5463162,383498,movie,movie
+167043,Captain Marvel,2019,tt4154664,299537,movie,movie
+153257,Black Panther,2018,tt1825683,284054,movie,movie
+1704323,The Amateur,2025,tt0899043,1087891,movie,movie
+1608765,Lightyear,2022,tt10298810,718789,movie,movie
+1534152,Free Guy,2021,tt6264654,550988,movie,movie
+1526288,Soul,2020,tt2948372,508442,movie,movie
+1567837,Shang-Chi and the Legend of the Ten Rings,2021,tt9376612,566525,movie,movie
+1501613,Black Widow,2021,tt3480822,497698,movie,movie
+1490260,Eternals,2021,tt9032400,524434,movie,movie
+1353638,Solo: A Star Wars Story,2018,tt3778644,348350,movie,movie
+1182575,Incredibles 2,2018,tt3606756,260513,movie,movie
+130818,Ant-Man and the Wasp,2018,tt5095030,363088,movie,movie
+1621209,Mufasa: The Lion King,2024,tt13186482,762509,movie,movie
+1618750,Encanto,2021,tt2953050,568124,movie,movie
+1510060,Cruella,2021,tt3228774,337404,movie,movie
+1139767,Free Solo,2018,tt7775622,515042,movie,movie
+1438469,Toy Story 4,2019,tt1979376,301528,movie,movie
+1403456,The Lion King,2019,tt6105098,420818,movie,movie
+120878,Aladdin,2019,tt6139732,420817,movie,movie
+1692869,Inside Out 2,2024,tt22022452,1022789,movie,movie
+1513834,Guillermo del Toro's Pinocchio,2022,tt1488589,555604,movie,movie
+1617157,Luca,2021,tt12801262,508943,movie,movie
+1537381,The Art of Racing in the Rain,2019,tt1478839,522924,movie,movie
+1543522,Spider-Man: Across the Spider-Verse,2023,tt9362722,569094,movie,movie
+1472956,Dark Phoenix,2019,tt6565702,320288,movie,movie
+1315562,Ralph Breaks the Internet,2018,tt5848272,404368,movie,movie
+1195601,Jungle Cruise,2021,tt0870154,451048,movie,movie
+1186782,Isle of Dogs,2018,tt5104604,399174,movie,movie
+1141232,Frozen II,2019,tt4520988,330457,movie,movie
+1527624,Onward,2020,tt7146812,508439,movie,movie
+1451009,Raya and the Last Dragon,2021,tt5109280,527774,movie,movie
+1154250,Guardians of the Galaxy Vol. 3,2023,tt6791350,447365,movie,movie
+1263405,Mulan,2020,tt4566758,337401,movie,movie
+1592256,Ant-Man and the Wasp: Quantumania,2023,tt10954600,640146,movie,movie
+1547502,Hamilton,2020,tt8503618,556574,movie,movie
+1450589,Indiana Jones and the Dial of Destiny,2023,tt1462764,335977,movie,movie
+1243529,Maleficent: Mistress of Evil,2019,tt4777008,420809,movie,movie
+1692904,Elio,2025,tt4900148,1022787,movie,movie
+1683575,Elemental,2023,tt15789038,976573,movie,movie
+1521565,The Little Mermaid,2023,tt5971474,447277,movie,movie
+1511189,West Side Story,2021,tt3581652,511809,movie,movie
+1325730,Ron's Gone Wrong,2021,tt7504818,482321,movie,movie
+1431644,Thor,2011,tt0800369,10195,movie,movie
+1377874,The Avengers,2012,tt0848228,24428,movie,movie
+1359306,Star Wars: The Force Awakens,2015,tt2488496,140607,movie,movie
+1232710,Logan,2017,tt3315342,263115,movie,movie
+1186054,Iron Man 3,2013,tt1300854,68721,movie,movie
+1184041,Inside Out,2015,tt2096673,150540,movie,movie
+1154248,Guardians of the Galaxy,2014,tt2015381,118340,movie,movie
+194187,Deadpool,2016,tt1431045,293660,movie,movie
+166941,Captain America: The Winter Soldier,2014,tt1843866,100402,movie,movie
+166940,Captain America: The First Avenger,2011,tt0458339,1771,movie,movie
+166939,Captain America: Civil War,2016,tt3498820,271110,movie,movie
+138099,Avengers: Age of Ultron,2015,tt2395427,99861,movie,movie
+1588000,The Marvels,2023,tt10676048,609681,movie,movie
+178503,Coco,2017,tt2380307,354912,movie,movie
+1481113,Zootopia,2016,tt2948356,269149,movie,movie
+1472957,X-Men: Days of Future Past,2014,tt1877832,127585,movie,movie
+1472955,X-Men: Apocalypse,2016,tt3385516,246655,movie,movie
+1472418,Wreck-It Ralph,2012,tt1772341,82690,movie,movie
+1431651,Thor: The Dark World,2013,tt1981115,76338,movie,movie
+1431650,Thor: Ragnarok,2017,tt3501632,284053,movie,movie
+1376730,The Amazing Spider-Man 2,2014,tt1872181,102382,movie,movie
+1376729,The Amazing Spider-Man,2012,tt0948470,1930,movie,movie
+1359310,Star Wars: The Last Jedi,2017,tt2527336,181808,movie,movie
+1357316,Spider-Man: Homecoming,2017,tt2250912,315635,movie,movie
+1302002,Pirates of the Caribbean: On Stranger Tides,2011,tt1298650,1865,movie,movie
+1325013,Rogue One: A Star Wars Story,2016,tt3748528,330459,movie,movie
+1141228,Frozen,2013,tt2294629,109445,movie,movie
+1154249,Guardians of the Galaxy Vol. 2,2017,tt3896198,283995,movie,movie
+1106885,Doctor Strange,2016,tt1211837,284052,movie,movie
+130817,Ant-Man,2015,tt0478970,102899,movie,movie
+150807,Big Hero 6,2014,tt2245084,177572,movie,movie
+1390779,The Fault in Our Stars,2014,tt2582846,222935,movie,movie
+1334811,Saving Mr. Banks,2013,tt2140373,140823,movie,movie
+1302001,Pirates of the Caribbean: Dead Men Tell No Tales,2017,tt1790809,166426,movie,movie
+1259787,Monsters University,2013,tt1453405,62211,movie,movie
+1112566,Dumbo,2019,tt3861390,329996,movie,movie
+175331,Christopher Robin,2018,tt4575576,420814,movie,movie
+159449,Brave,2012,tt1217209,62177,movie,movie
+145560,Beauty and the Beast,2017,tt2771200,321612,movie,movie
+1733523,TAYLOR SWIFT | THE ERAS TOUR,2023,tt28814949,1160164,movie,movie
+1606353,The Rescue,2021,tt9098872,680058,movie,movie
+1399980,The Jungle Book,2016,tt3040964,278927,movie,movie
+1395467,The Greatest Showman,2017,tt1485796,316029,movie,movie
+1323046,Rio,2011,tt1436562,46195,movie,movie
+1193282,John Carter,2012,tt0401729,49529,movie,movie
+1164852,Hidden Figures,2016,tt4846340,381284,movie,movie
+1133641,Finding Dory,2016,tt2277860,127380,movie,movie
+1247890,Mary Poppins Returns,2018,tt5028340,400650,movie,movie
+1451609,Up,2009,tt1049413,14160,movie,movie
+1438468,Toy Story 3,2010,tt0435761,10193,movie,movie
+1460254,WALL·E,2008,tt0910970,10681,movie,movie
+1398691,The Incredibles,2004,tt0317705,9806,movie,movie
+1357304,Spider-Man,2002,tt0145487,557,movie,movie
+1316707,Ratatouille,2007,tt0382932,2062,movie,movie
+1259801,"Monsters, Inc.",2001,tt0198781,585,movie,movie
+1302003,Pirates of the Caribbean: The Curse of the Black Pearl,2003,tt0325980,22,movie,movie
+1186053,Iron Man 2,2010,tt1228705,10138,movie,movie
+1186051,Iron Man,2008,tt0371746,1726,movie,movie
+1176753,Ice Age: Continental Drift,2012,tt1667889,57800,movie,movie
+1133771,Finding Nemo,2003,tt0266543,12,movie,movie
+168104,Cars 2,2011,tt1216475,49013,movie,movie
+138014,Avatar,2009,tt0499549,19995,movie,movie
+165460,The Call of the Wild,2020,tt7504726,481848,movie,movie
+1436718,Tomorrowland,2015,tt1964418,158852,movie,movie
+1387349,The Devil Wears Prada,2006,tt0458352,350,movie,movie
+1398669,The Incredible Hulk,2008,tt0800080,1724,movie,movie
+1370818,Tangled,2010,tt0398286,38757,movie,movie
+1359292,Star Wars: Episode III - Revenge of the Sith,2005,tt0121766,1895,movie,movie
+1359291,Star Wars: Episode II - Attack of the Clones,2002,tt0121765,1894,movie,movie
+1357366,Spies in Disguise,2019,tt5814534,431693,movie,movie
+1357311,Spider-Man 3,2007,tt0413300,559,movie,movie
+1357305,Spider-Man 2,2004,tt0316654,558,movie,movie
+1302000,Pirates of the Caribbean: Dead Man's Chest,2006,tt0383574,58,movie,movie
+1301999,Pirates of the Caribbean: At World's End,2007,tt0449088,285,movie,movie
+1292119,Oz the Great and Powerful,2013,tt1623205,68728,movie,movie
+1176749,Ice Age,2002,tt0268380,425,movie,movie
+1129894,Fantastic Four,2015,tt1502712,166424,movie,movie
+176261,Cinderella,2015,tt1661199,150689,movie,movie
+168103,Cars,2006,tt0317219,920,movie,movie
+1574402,Chip 'n Dale: Rescue Rangers,2022,tt3513500,420821,movie,movie
+1463287,We Bought a Zoo,2011,tt1389137,74465,movie,movie
+1419358,The Simpsons Movie,2007,tt0462538,35,movie,movie
+1383529,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,tt0363771,411,movie,movie
+1368765,TRON: Legacy,2010,tt1104001,20526,movie,movie
+1347464,Signs,2002,tt0286106,2675,movie,movie
+1274508,Night at the Museum,2006,tt0477347,1593,movie,movie
+1270646,National Treasure,2004,tt0368891,2059,movie,movie
+1258009,Moana,2016,tt3521164,277834,movie,movie
+1129895,Fantastic Four,2005,tt0120667,9738,movie,movie
+121902,Alice in Wonderland,2010,tt1014759,12155,movie,movie
+1394565,The Good Dinosaur,2015,tt1979388,105864,movie,movie
+1308081,Prince of Persia: The Sands of Time,2010,tt0473075,9543,movie,movie
+1274510,Night at the Museum: Secret of the Tomb,2014,tt2692250,181533,movie,movie
+1185071,Into the Woods,2014,tt2180411,224141,movie,movie
+1176755,Ice Age: The Meltdown,2006,tt0438097,950,movie,movie
+1129901,Fantastic Mr. Fox,2009,tt0432283,10315,movie,movie
+1129883,Fantastic Four: Rise of the Silver Surfer,2007,tt0486576,1979,movie,movie
+1176754,Ice Age: Dawn of the Dinosaurs,2009,tt1080016,8355,movie,movie
+168105,Cars 3,2017,tt3606752,260514,movie,movie
+121870,Alice Through the Looking Glass,2016,tt2567026,241259,movie,movie
+1383528,The Chronicles of Narnia: Prince Caspian,2008,tt0499448,2454,movie,movie
+1299016,Percy Jackson: Sea of Monsters,2013,tt1854564,76285,movie,movie
+1299014,Percy Jackson & the Olympians: The Lightning Thief,2010,tt0814255,32657,movie,movie
+1270649,National Treasure: Book of Secrets,2007,tt0465234,6637,movie,movie
+1256147,Miracle,2004,tt0349825,14292,movie,movie
+1249968,"McFarland, USA",2015,tt2097298,228203,movie,movie
+1230360,Lilo & Stitch,2002,tt0275847,11544,movie,movie
+1139280,Frankenweenie,2012,tt1142977,62214,movie,movie
+1122365,Enchanted,2007,tt0461770,4523,movie,movie
+189769,Daredevil,2003,tt0287978,9480,movie,movie
+157045,Bolt,2008,tt0397892,13053,movie,movie
+1679917,Young Woman and the Sea,2024,tt5177114,774531,movie,movie
+1413572,The Princess and the Frog,2009,tt0780521,10198,movie,movie
+1413564,The Princess Diaries,2001,tt0247638,9880,movie,movie
+1383532,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,tt0980970,10140,movie,movie
+1323049,Rio 2,2014,tt2357291,172385,movie,movie
+1274509,Night at the Museum: Battle of the Smithsonian,2009,tt1078912,18360,movie,movie
+1139589,Freaky Friday,2003,tt0322330,10330,movie,movie
+160332,Bridge to Terabithia,2007,tt0398808,1265,movie,movie
+1438466,Toy Story,1995,tt0114709,862,movie,movie
+1420219,The Sorcerer's Apprentice,2010,tt0963966,27022,movie,movie
+1419571,The Sixth Sense,1999,tt0167404,745,movie,movie
+1403455,The Lion King,1994,tt0110357,8587,movie,movie
+1191246,Jennifer's Body,2009,tt1131734,19994,movie,movie
+1439905,Treasure Planet,2002,tt0133240,9016,movie,movie
+1438467,Toy Story 2,1999,tt0120363,863,movie,movie
+1408524,The Muppets,2011,tt1204342,64328,movie,movie
+1380851,The Book of Life,2014,tt2262227,228326,movie,movie
+1359290,Star Wars: Episode I - The Phantom Menace,1999,tt0120915,1893,movie,movie
+1426041,The Village,2004,tt0368447,6947,movie,movie
+1176752,Ice Age: Collision Course,2016,tt3416828,278154,movie,movie
+1149262,Glory Road,2006,tt0385726,9918,movie,movie
+161267,Brother Bear,2003,tt0328880,10009,movie,movie
+145563,Beauty and the Beast,1991,tt0101414,10020,movie,movie
+136538,Atlantis: The Lost Empire,2001,tt0230011,10865,movie,movie
+120879,Aladdin,1992,tt0103639,812,movie,movie
+16132,A Christmas Carol,2009,tt1067106,17979,movie,movie
+1409773,The Nightmare Before Christmas,1993,tt0107688,9479,movie,movie
+1408521,The Muppet Christmas Carol,1992,tt0104940,10437,movie,movie
+1395417,The Greatest Game Ever Played,2005,tt0388980,15487,movie,movie
+1263404,Mulan,1998,tt0120762,10674,movie,movie
+1250835,Meet the Robinsons,2007,tt0396555,1267,movie,movie
+1168155,Home Alone 2: Lost in New York,1992,tt0104431,772,movie,movie
+1123869,Eragon,2006,tt0449010,2486,movie,movie
+15812,A Bug's Life,1998,tt0120623,9487,movie,movie
+1867,10 Things I Hate About You,1999,tt0147800,4951,movie,movie
+1262768,Mrs. Doubtfire,1993,tt0107614,788,movie,movie
+1167526,Holes,2003,tt0311289,8326,movie,movie
+1163638,Hercules,1997,tt0119282,11970,movie,movie
+1411225,The Pacifier,2005,tt0395699,10022,movie,movie
+1371534,Tarzan,1999,tt0120855,37135,movie,movie
+1132158,Ferdinand,2017,tt3411444,364689,movie,movie
+173179,Chicken Little,2005,tt0371606,9982,movie,movie
+172105,Cheaper by the Dozen,2003,tt0349205,11007,movie,movie
+147510,Bend It Like Beckham,2002,tt0286499,455,movie,movie
+145923,Bedtime Stories,2008,tt0960731,10202,movie,movie
+124255,Alvin and the Chipmunks,2007,tt0952640,6477,movie,movie
+12777,27 Dresses,2008,tt0988595,6557,movie,movie
+1413565,The Princess Diaries 2: Royal Engagement,2004,tt0368933,11130,movie,movie
+1392960,The Game Plan,2007,tt0492956,13680,movie,movie
+1389242,The Emperor's New Groove,2000,tt0120917,11688,movie,movie
+1359296,Return of the Jedi,1983,tt0086190,1892,movie,movie
+1359295,The Empire Strikes Back,1980,tt0080684,1891,movie,movie
+1359293,Star Wars,1977,tt0076759,11,movie,movie
+1350513,Sky High,2005,tt0405325,11459,movie,movie
+1319702,Remember the Titans,2000,tt0210945,10637,movie,movie
+1303464,Pocahontas,1995,tt0114148,10530,movie,movie
+1144411,Garfield,2004,tt0356634,8920,movie,movie
+1120563,Elektra,2005,tt0357277,9947,movie,movie
+188583,Dan in Real Life,2007,tt0480242,7211,movie,movie
+1617992,Hocus Pocus 2,2022,tt11909878,642885,movie,movie
+1411441,The Parent Trap,1998,tt0120783,9820,movie,movie
+1398106,The Hunchback of Notre Dame,1996,tt0116583,10545,movie,movie
+1299895,Pete's Dragon,2016,tt2788732,294272,movie,movie
+1182789,Indiana Jones and the Last Crusade,1989,tt0097576,89,movie,movie
+1167256,Hocus Pocus,1993,tt0107120,10439,movie,movie
+1115269,Edward Scissorhands,1990,tt0099487,162,movie,movie
+181064,Confessions of a Shopaholic,2009,tt1093908,20048,movie,movie
+17749,A Goofy Movie,1995,tt0113198,15789,movie,movie
+1413562,The Princess Bride,1987,tt0093779,2493,movie,movie
+1391366,The Finest Hours,2016,tt2025690,300673,movie,movie
+1359303,Star Wars: The Clone Wars,2008,tt1185834,12180,movie,movie
+1185391,Invincible,2006,tt0445990,11652,movie,movie
+1168596,Homeward Bound: The Incredible Journey,1993,tt0107131,6878,movie,movie
+1154773,Gulliver's Travels,2010,tt1320261,38745,movie,movie
+1115770,Eight Below,2006,tt0397313,9036,movie,movie
+1513880,Pinocchio,2022,tt4593060,532639,movie,movie
+1469966,Winnie the Pooh,2011,tt1449283,51162,movie,movie
+1420329,The Sound of Music,1965,tt0059742,15121,movie,movie
+1417269,The Santa Clause 2,2002,tt0304669,9021,movie,movie
+1403683,The Little Mermaid,1989,tt0097757,10144,movie,movie
+1337553,Secretariat,2010,tt1028576,39486,movie,movie
+1314058,Race to Witch Mountain,2009,tt1075417,13836,movie,movie
+1192581,Jingle All the Way,1996,tt0116705,9279,movie,movie
+1168156,Home Alone 3,1997,tt0119303,9714,movie,movie
+127907,Anastasia,1997,tt0118617,9444,movie,movie
+1498579,Noelle,2019,tt5097410,454467,movie,movie
+1468002,Who Framed Roger Rabbit,1988,tt0096438,856,movie,movie
+1399981,The Jungle Book,1967,tt0061852,9325,movie,movie
+1391930,The Fly,1986,tt0091064,9426,movie,movie
+1352322,Snow White and the Seven Dwarfs,1938,tt0029583,408,movie,movie
+182034,Cool Runnings,1993,tt0106611,864,movie,movie
+150636,Big,1988,tt0094737,2280,movie,movie
+1375947,The Abyss,1989,tt0096754,2756,movie,movie
+145851,Bedazzled,2000,tt0230030,1636,movie,movie
+11122,101 Dalmatians,1996,tt0115433,11674,movie,movie
+1421432,The Straight Story,1999,tt0166896,404,movie,movie
+1417238,The Sandlot,1993,tt0108037,11528,movie,movie
+1416518,The Rocky Horror Picture Show,1975,tt0073629,36685,movie,movie
+1409350,The New Mutants,2020,tt4682266,340102,movie,movie
+1406398,The Many Adventures of Winnie the Pooh,1977,tt0076363,250480,movie,movie
+1350988,Sleeping Beauty,1959,tt0053285,10882,movie,movie
+1349448,Sister Act,1992,tt0105417,2005,movie,movie
+1312911,Queen of Katwe,2016,tt4341582,317557,movie,movie
+1301745,Pinocchio,1940,tt0032910,10895,movie,movie
+1247889,Mary Poppins,1964,tt0058331,433,movie,movie
+1101786,Diary of a Wimpy Kid: Rodrick Rules,2011,tt1650043,60307,movie,movie
+176260,Cinderella,1950,tt0042332,11224,movie,movie
+11123,One Hundred and One Dalmatians,1961,tt0055254,12230,movie,movie
+1664903,The Lion King 1½,2004,tt0318403,11430,movie,movie
+1472952,X-Men,2000,tt0120903,36657,movie,movie
+1417268,The Santa Clause,1994,tt0111070,11395,movie,movie
+1410175,The Odd Life of Timothy Green,2012,tt1462769,71864,movie,movie
+1395229,The Great Mouse Detective,1986,tt0091149,9994,movie,movie
+1368764,Tron,1982,tt0084827,97,movie,movie
+1299936,Peter Pan,1953,tt0046183,10693,movie,movie
+1272760,Never Been Kissed,1999,tt0151738,11355,movie,movie
+1136072,Flubber,1997,tt0119137,9574,movie,movie
+1112565,Dumbo,1941,tt0033563,11360,movie,movie
+142317,Bambi,1942,tt0034492,3170,movie,movie
+121900,Alice in Wonderland,1951,tt0043274,12092,movie,movie
+1219613,Lady and the Tramp,1955,tt0048280,10340,movie,movie
+1168804,"Honey, I Shrunk the Kids",1989,tt0097523,9354,movie,movie
+1168153,Home Alone,1990,tt0099785,771,movie,movie
+1661333,The Lion King II: Simba's Pride,1998,tt0120131,9732,movie,movie
+1467250,While You Were Sleeping,1995,tt0114924,2064,movie,movie
+1428390,The Wolverine,2013,tt1430132,76170,movie,movie
+1377326,The Aristocats,1970,tt0065421,10112,movie,movie
+1324270,Robin Hood,1973,tt0070608,11886,movie,movie
+1146138,George of the Jungle,1997,tt0119190,10603,movie,movie
+1126120,EverAfter,1998,tt0120631,9454,movie,movie
+1469568,Willow,1988,tt0096446,847,movie,movie
+1422368,The Sword in the Stone,1963,tt0057546,9078,movie,movie
+1408523,The Muppet Movie,1979,tt0079588,11176,movie,movie
+1262350,Mr. Holland's Opus,1995,tt0113862,2054,movie,movie
+1129843,Fantasia 2000,2000,tt0120910,49948,movie,movie
+1106834,Doctor Dolittle,1998,tt0118998,3050,movie,movie
+1104911,Dinosaur,2000,tt0130623,10567,movie,movie
+1101785,Diary of a Wimpy Kid: Dog Days,2012,tt2023453,82650,movie,movie
+1970564,Ocean with David Attenborough,2025,tt33022710,1448497,movie,movie
+1416615,The Rookie,2002,tt0265662,14635,movie,movie
+1392486,The Fox and the Hound,1981,tt0082406,10948,movie,movie
+1173887,I Am Number Four,2011,tt1464540,46529,movie,movie
+112748,A Wrinkle in Time,2018,tt1620680,407451,movie,movie
+1518162,Disenchanted,2022,tt1596342,338958,movie,movie
+171759,Chasing Mavericks,2012,tt1629757,82684,movie,movie
+12270,"20,000 Leagues Under the Sea",1954,tt0046672,173,movie,movie
+1472959,X-Men: The Last Stand,2006,tt0376994,36668,movie,movie
+1423347,The Three Musketeers,1993,tt0108333,10057,movie,movie
+1256198,Miracle on 34th Street,1947,tt0039628,11881,movie,movie
+1650477,Fire of Love,2022,tt16227014,913823,movie,movie
+1620527,Rise,2022,tt11242162,759054,movie,movie
+1601497,Flamin' Hot,2023,tt8105234,626332,movie,movie
+1410059,The Nutcracker and the Four Realms,2018,tt5523010,426543,movie,movie
+1407411,The Mighty Ducks,1992,tt0104868,10414,movie,movie
+1189781,James and the Giant Peach,1996,tt0116683,10539,movie,movie
+1692945,Wish,2023,tt11304740,1022796,movie,movie
+1623475,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021,tt11422728,776527,movie,movie
+1416505,The Rocketeer,1991,tt0102803,10249,movie,movie
+1415437,The Rescuers,1977,tt0076618,11319,movie,movie
+1129842,Fantasia,1940,tt0032455,756,movie,movie
+145881,Bedknobs and Broomsticks,1971,tt0066817,12335,movie,movie
+1584264,Haunted Mansion,2023,tt1695843,616747,movie,movie
+1256199,Miracle on 34th Street,1994,tt0110527,10510,movie,movie
+1411440,The Parent Trap,1961,tt0055277,19186,movie,movie
+1284672,Oliver & Company,1988,tt0095776,12233,movie,movie
+1149392,Gnomeo & Juliet,2011,tt0377981,45772,movie,movie
+159171,Brahmāstra Part One: Shiva,2022,tt6277462,496331,movie,movie
+146209,Before the Flood,2016,tt5929776,410718,movie,movie
+1672761,Tinker Bell and the Legend of the NeverBeast,2014,tt3120408,297270,movie,movie
+1442332,Tuck Everlasting,2002,tt0283084,13768,movie,movie
+1377973,The BFG,2016,tt3691740,267935,movie,movie
+1130956,Father of the Bride,1991,tt0101862,11846,movie,movie
+1880374,Music by John Williams,2024,tt26420234,1076708,movie,movie
+1727448,Eenie Meanie,2025,tt15514498,1151334,movie,movie
+1628426,The Ice Age Adventures of Buck Wild,2022,tt13634480,774825,movie,movie
+1500484,Lady and the Tramp,2019,tt8096832,512895,movie,movie
+1622661,Folklore: The Long Pond Studio Sessions,2020,tt13524234,768141,movie,movie
+1402111,The Last Song,2010,tt1294226,35690,movie,movie
+1396424,The Haunted Mansion,2003,tt0338094,10756,movie,movie
+1302542,Planes,2013,tt1691917,151960,movie,movie
+1255402,Millions,2004,tt0366777,13373,movie,movie
+1101784,Diary of a Wimpy Kid,2010,tt1196141,33217,movie,movie
+172106,Cheaper by the Dozen 2,2005,tt0452598,9641,movie,movie
+133745,Around the World in 80 Days,2004,tt0327437,10204,movie,movie
+1672760,Tinker Bell and the Pirate Fairy,2014,tt2483260,175112,movie,movie
+1665935,Lilo & Stitch 2: Stitch Has a Glitch,2005,tt0457993,20760,movie,movie
+1135635,Flight of the Navigator,1986,tt0091059,10122,movie,movie
+124260,Alvin and the Chipmunks: The Squeakquel,2009,tt1231580,23398,movie,movie
+1509729,Peter Pan & Wendy,2023,tt5635026,420808,movie,movie
+1165228,High School Musical 3: Senior Year,2008,tt0962726,11887,movie,movie
+1163609,Herbie Fully Loaded,2005,tt0400497,11451,movie,movie
+1144412,Garfield: A Tail of Two Kitties,2006,tt0455499,9513,movie,movie
+1673128,Riley's First Date?,2015,tt4941804,355338,movie,movie
+1672289,Marvel One-Shot: Agent Carter,2013,tt3067038,211387,movie,movie
+1142906,G-Force,2009,tt0436339,19585,movie,movie
+1109982,Dr. Dolittle 2,2001,tt0240462,10808,movie,movie
+121452,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,tt1698641,218778,movie,movie
+1400203,The Kid Who Would Be King,2019,tt6811018,454294,movie,movie
+1273436,Newsies,1992,tt0104990,15300,movie,movie
+1476511,You Again,2010,tt1414382,38303,movie,movie
+139872,Baby's Day Out,1994,tt0109190,11212,movie,movie
+117829,African Cats,2011,tt1223236,57586,movie,movie
+1610717,Home Sweet Home Alone,2021,tt11012066,654974,movie,movie
+1472954,X-Men Origins: Wolverine,2009,tt0458525,2080,movie,movie
+1395233,The Great Muppet Caper,1981,tt0082474,14900,movie,movie
+1349449,Sister Act 2: Back in the Habit,1993,tt0108147,6279,movie,movie
+1321276,Return to Oz,1985,tt0089908,13155,movie,movie
+1284390,Old Dogs,2009,tt0976238,22949,movie,movie
+1263788,Muppets Most Wanted,2014,tt2281587,145220,movie,movie
+132422,Aquamarine,2006,tt0429591,14191,movie,movie
+1665955,Jack-Jack Attack,2005,tt0455565,13932,movie,movie
+1664904,Mulan II,2004,tt0279967,12242,movie,movie
+1467567,White Fang,1991,tt0103247,12227,movie,movie
+1417270,The Santa Clause 3: The Escape Clause,2006,tt0452681,13767,movie,movie
+1282755,Oceans,2010,tt0765128,36970,movie,movie
+1184239,Inspector Gadget,1999,tt0141369,332,movie,movie
+1126766,Evita,1996,tt0116250,8818,movie,movie
+145680,Because of Winn-Dixie,2005,tt0317132,17880,movie,movie
+117352,Adventures in Babysitting,1987,tt0092513,14367,movie,movie
+1805498,Swiped,2025,tt31909270,1265344,movie,movie
+1663141,Mike's New Car,2002,tt0323250,13931,movie,movie
+1968255,The Balloonist,2025,tt38346012,1100800,movie,movie
+1352271,Snow Dogs,2002,tt0281373,11888,movie,movie
+1299894,Pete's Dragon,1977,tt0076538,11114,movie,movie
+1247447,Mars Needs Moms,2011,tt1305591,50321,movie,movie
+1188656,Jack,1996,tt0116669,7095,movie,movie
+160594,Bringing Down the House,2003,tt0305669,10678,movie,movie
+1357668,Splash,1984,tt0088161,2619,movie,movie
+1168351,Home on the Range,2004,tt0299172,13700,movie,movie
+1161835,Heavyweights,1995,tt0110006,14819,movie,movie
+1427820,The Wild,2006,tt0405469,9904,movie,movie
+1423563,The Tigger Movie,2000,tt0220099,15655,movie,movie
+1400182,The Kid,2000,tt0219854,4244,movie,movie
+1835490,Jaws @ 50: The Definitive Inside Story,2025,tt32743685,1308619,movie,movie
+1432809,Thumbelina,1994,tt0111419,28032,movie,movie
+1412615,The Pixar Story,2007,tt1059955,15302,movie,movie
+1376239,The Adventures of Ichabod and Mr. Toad,1949,tt0041094,13465,movie,movie
+1337546,Secret of the Wings,2012,tt1217213,75258,movie,movie
+1315805,Ramona and Beezus,2010,tt0493949,38843,movie,movie
+1295437,Parental Guidance,2012,tt1047540,88042,movie,movie
+1263786,Muppet Treasure Island,1996,tt0117110,10874,movie,movie
+1189939,Jane,2017,tt7207238,470819,movie,movie
+11140,102 Dalmatians,2000,tt0211181,10481,movie,movie
+1660430,Aladdin and the King of Thieves,1996,tt0115491,11238,movie,movie
+1453544,Valiant,2005,tt0361089,14175,movie,movie
+1404699,The Love Bug,1968,tt0064603,14136,movie,movie
+1302546,Planes: Fire & Rescue,2014,tt2980706,218836,movie,movie
+1168782,"Honey, I Blew Up the Kid",1992,tt0104437,11158,movie,movie
+1105605,Newsies,2017,tt6346162,462477,movie,movie
+181069,Confessions of a Teenage Drama Queen,2004,tt0361467,11132,movie,movie
+1667025,Brother Bear 2,2006,tt0465925,10010,movie,movie
+1671318,Marvel One-Shot: The Consultant,2011,tt2011118,76122,movie,movie
+1448273,Underdog,2007,tt0467110,6589,movie,movie
+1304288,Pollyanna,1960,tt0054195,31102,movie,movie
+1162813,"Hello, Dolly!",1969,tt0064418,14030,movie,movie
+1158147,Hannah Montana: The Movie,2009,tt1114677,18126,movie,movie
+1130957,Father of the Bride Part II,1995,tt0113041,11862,movie,movie
+186951,D2: The Mighty Ducks,1994,tt0109520,11164,movie,movie
+1672772,Marvel One-Shot: All Hail the King,2014,tt3438640,253980,movie,movie
+1659614,The Return of Jafar,1994,tt0107952,15969,movie,movie
+1403892,The Lizzie McGuire Movie,2003,tt0306841,18736,movie,movie
+1379957,The Black Cauldron,1985,tt0088814,10957,movie,movie
+1284536,Old Yeller,1957,tt0050798,22660,movie,movie
+1112096,DuckTales: The Movie - Treasure of the Lost Lamp,1990,tt0099472,10837,movie,movie
+148904,Beverly Hills Chihuahua,2008,tt1014775,14405,movie,movie
+1667038,Mater and the Ghostlight,2006,tt0901686,13934,movie,movie
+1575459,Phineas and Ferb the Movie: Candace Against the Universe,2020,tt1817232,594328,movie,movie
+129383,Angels in the Outfield,1994,tt0109127,24795,movie,movie
+1671822,Marvel One-Shot: Item 47,2012,tt2247732,119569,movie,movie
+1669092,Tinker Bell,2008,tt0823671,13179,movie,movie
+1442935,Turner & Hooch,1989,tt0098536,6951,movie,movie
+1415438,The Rescuers Down Under,1990,tt0100477,11135,movie,movie
+1230135,Like Mike,2002,tt0308506,21972,movie,movie
+1111681,Drumline,2002,tt0303933,13497,movie,movie
+1665936,Kronk's New Groove,2005,tt0401398,13417,movie,movie
+1671323,Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,2011,tt2011109,76535,movie,movie
+1399982,The Jungle Book 2,2003,tt0283426,14873,movie,movie
+1193831,Jonas Brothers: The Concert Experience,2009,tt1229827,40534,movie,movie
+162279,Buffy the Vampire Slayer,1992,tt0103893,10206,movie,movie
+1673480,Team Thor,2016,tt6016776,413279,movie,movie
+2699307,Out,2020,tt12366826,706860,movie,movie
+1664921,Empire of Dreams: The Story of the Star Wars Trilogy,2004,tt0416716,76180,movie,movie
+186952,D3: The Mighty Ducks,1996,tt0116000,10680,movie,movie
+145130,Bears,2014,tt2458776,214314,movie,movie
+1195584,Jungle 2 Jungle,1997,tt0119432,9446,movie,movie
+1176813,Ice Princess,2005,tt0396652,13374,movie,movie
+179222,College Road Trip,2008,tt0997047,13493,movie,movie
+13011,3 Men and a Baby,1987,tt0094137,12154,movie,movie
+1598520,Godmothered,2020,tt11681250,662546,movie,movie
+1537547,Black Woodstock,1969,tt7378922,495644,movie,movie
+1663131,Cinderella II: Dreams Come True,2002,tt0291082,14128,movie,movie
+1399839,The Journey of Natty Gann,1985,tt0089385,35144,movie,movie
+1367663,Swiss Family Robinson,1960,tt0054357,18444,movie,movie
+1361825,Strange Magic,2015,tt4191054,302429,movie,movie
+1317772,Recess: School's Out,2001,tt0265632,19405,movie,movie
+2663339,Float,2019,tt9536846,574093,movie,movie
+1823468,Jim Henson Idea Man,2024,tt19308034,1273196,movie,movie
+1669971,Tinker Bell and the Lost Treasure,2009,tt1216516,25475,movie,movie
+1141994,Fun and Fancy Free,1947,tt0039404,46929,movie,movie
+174066,Chimpanzee,2012,tt1222815,72334,movie,movie
+1616980,Torn,2021,tt11876896,730057,movie,movie
+1615109,Black Is King,2020,tt12607910,719643,movie,movie
+1676613,OLIVIA RODRIGO: driving home 2 u (a SOUR film),2022,tt18269838,939790,movie,movie
+1662420,Lady and the Tramp II: Scamp's Adventure,2001,tt0249677,18269,movie,movie
+1542052,Chicuarotes,2019,tt4523910,571391,movie,movie
+1227608,Let It Be,1970,tt0065976,20556,movie,movie
+150717,Big Business,1988,tt0094739,12710,movie,movie
+1423311,The Three Caballeros,1944,tt0038166,15947,movie,movie
+1299940,Return to Never Land,2002,tt0280030,16690,movie,movie
+142319,Bambi II,2006,tt0447854,13205,movie,movie
+1700289,Hold Your Breath,2024,tt12573480,718014,movie,movie
+1665937,Tarzan II,2005,tt0437503,15657,movie,movie
+1663939,Stitch! The Movie,2003,tt0348124,15567,movie,movie
+1664905,"Mickey, Donald, Goofy: The Three Musketeers",2004,tt0371823,21385,movie,movie
+1254820,Mighty Joe Young,1998,tt0120751,9822,movie,movie
+1670696,Tinker Bell and the Great Fairy Rescue,2010,tt1216515,44683,movie,movie
+1668145,Cinderella III: A Twist in Time,2007,tt0465940,16119,movie,movie
+1661334,Pocahontas II: Journey to a New World,1998,tt0143808,13761,movie,movie
+1158146,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,2008,tt1127884,253353,movie,movie
+1101787,Diary of a Wimpy Kid: The Long Haul,2017,tt6003368,417830,movie,movie
+2719462,Happier Than Ever: A Love Letter to Los Angeles,2021,tt15094392,853088,movie,movie
+1661860,Mickey's Once Upon a Christmas,1999,tt0238414,15400,movie,movie
+1375928,The Absent-Minded Professor,1961,tt0054594,17984,movie,movie
+1201597,Kazaam,1996,tt0116756,11511,movie,movie
+1683145,Descendants: The Rise of Red,2024,tt20202136,974262,movie,movie
+1682556,Out of My Mind,2024,tt5012320,971606,movie,movie
+1664915,Mickey's Twice Upon a Christmas,2004,tt0424279,13378,movie,movie
+1309317,Prom,2011,tt1604171,51588,movie,movie
+1304630,Pooh's Heffalump Movie,2005,tt0407121,13682,movie,movie
+1168593,Homeward Bound II: Lost in San Francisco,1996,tt0116552,25059,movie,movie
+1663936,Atlantis: Milo's Return,2003,tt0344864,8965,movie,movie
+1653980,An Extremely Goofy Movie,2000,tt0208185,15653,movie,movie
+1616390,Safety,2020,tt10649016,727306,movie,movie
+1660896,Beauty and the Beast: The Enchanted Christmas,1997,tt0118692,13313,movie,movie
+1585889,Secret Society of Second Born Royals,2020,tt10324122,621870,movie,movie
+153916,Blank Check,1994,tt0109287,13962,movie,movie
+13013,3 Men and a Little Lady,1990,tt0098966,11630,movie,movie
+1732668,Sugarcane,2024,tt30319854,1158874,movie,movie
+1673739,Team Thor: Part 2,2017,tt6599818,441829,movie,movie
+1670020,Dug's Special Mission,2009,tt1537759,24589,movie,movie
+1663928,101 Dalmatians II: Patch's London Adventure,2003,tt0324941,13654,movie,movie
+1377208,The Apple Dumpling Gang,1975,tt0072653,18660,movie,movie
+1186087,Iron Will,1994,tt0110157,24767,movie,movie
+1124662,Escape to Witch Mountain,1975,tt0072951,14821,movie,movie
+119568,Air Bud,1997,tt0118570,20737,movie,movie
+1692888,BTS: Permission to Dance on Stage - LA,2022,tt22010428,1022102,movie,movie
+1460970,Waking Sleeping Beauty,2009,tt1159961,47813,movie,movie
+153613,Blackbeard's Ghost,1968,tt0062737,16249,movie,movie
+1790032,Z-O-M-B-I-E-S 4: Dawn of the Vampires,2025,tt31241595,1243341,movie,movie
+1632034,Z-O-M-B-I-E-S 3,2022,tt14301252,809107,movie,movie
+1439888,Treasure Island,1950,tt0043067,6646,movie,movie
+1139590,Freaky Friday,1976,tt0076054,16084,movie,movie
+2627428,Your Friend the Rat,2007,tt1134859,13061,movie,movie
+1848799,Frozen: The Hit Broadway Musical,2025,tt36985837,1327872,movie,movie
+1623176,Becoming Cousteau,2021,tt10334438,774823,movie,movie
+1608490,Elephant,2020,tt12036052,665135,movie,movie
+1325845,Rookie of the Year,1993,tt0107985,21845,movie,movie
+189716,Darby O'Gill and the Little People,1959,tt0052722,18887,movie,movie
+1789369,Billy & Molly: An Otter Love Story,2024,tt31189897,1242387,movie,movie
+1663950,Inspector Gadget 2,2003,tt0301454,19766,movie,movie
+1663938,George of the Jungle 2,2003,tt0322389,26264,movie,movie
+1691375,Obi-Wan Kenobi: A Jedi's Return,2022,tt21860836,1015606,movie,movie
+1379488,The Big Green,1995,tt0112499,26441,movie,movie
+1301293,Piglet's Big Movie,2003,tt0323642,13691,movie,movie
+1288479,Operation Dumbo Drop,1995,tt0114048,27281,movie,movie
+1262428,Mr. Magoo,1997,tt0119718,9438,movie,movie
+1134363,First Kid,1996,tt0116311,12559,movie,movie
+1870955,Beatles '64,2024,tt33986138,1371146,movie,movie
+1663133,The Hunchback of Notre Dame II,2002,tt0257778,12448,movie,movie
+1135517,Flicka,2006,tt0434215,14012,movie,movie
+1375169,That Darn Cat!,1965,tt0059793,20723,movie,movie
+1265578,My Favorite Martian,1999,tt0120764,9849,movie,movie
+2663338,Wind,2019,tt9536850,574091,movie,movie
+1667047,Dr. Dolittle 3,2006,tt0481513,18843,movie,movie
+1667036,Leroy & Stitch,2006,tt0486761,21316,movie,movie
+1653987,The Little Mermaid II: Return to the Sea,2000,tt0240684,10898,movie,movie
+1380035,The Black Hole,1979,tt0078869,9570,movie,movie
+1887862,j-hope IN THE BOX,2023,tt26425683,1076443,movie,movie
+1880653,Marvel Studios Assembled: The Making of Moon Knight,2022,tt19766896,964943,movie,movie
+1839093,Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness,2022,tt21098288,980017,movie,movie
+1805336,The Beach Boys,2024,tt31922530,1265066,movie,movie
+1514724,Sea of Shadows,2019,tt9326056,566219,movie,movie
+1354162,Something Wicked This Way Comes,1983,tt0086336,24808,movie,movie
+1163614,Herbie Rides Again,1974,tt0071607,10869,movie,movie
+1823009,Road Diary: Bruce Springsteen and The E Street Band,2024,tt32368703,1290584,movie,movie
+1642677,Diary of a Wimpy Kid,2021,tt13834480,774741,movie,movie
+1469053,Wild Hearts Can't Be Broken,1991,tt0103262,23438,movie,movie
+1436426,Tom and Huck,1995,tt0112302,45325,movie,movie
+166421,Candleshoe,1977,tt0075807,14612,movie,movie
+1682113,Mickey: The Story of a Mouse,2022,tt11178402,934323,movie,movie
+1415317,The Reluctant Dragon,1941,tt0034091,22752,movie,movie
+1259478,Monkey Kingdom,2015,tt3660770,295592,movie,movie
+168915,Catching Hell,2011,tt1908471,75803,movie,movie
+165945,Camp Nowhere,1994,tt0109369,17745,movie,movie
+18277,A Kid in King Arthur's Court,1995,tt0113538,37108,movie,movie
+2663337,Loop,2020,tt9536836,574089,movie,movie
+1865360,Endurance,2024,tt18556278,947763,movie,movie
+1829666,BRATS,2024,tt15823728,999621,movie,movie
+1671311,Sharpay's Fabulous Adventure,2011,tt1629440,60405,movie,movie
+1667023,The Fox and the Hound 2,2006,tt0465997,9948,movie,movie
+1674312,"Miraculous World: New York, United HeroeZ",2020,tt12816348,755812,movie,movie
+1625004,Night at the Museum: Kahmunrah Rises Again,2022,tt13623880,751741,movie,movie
+1249337,Max Keeble's Big Move,2001,tt0273799,34549,movie,movie
+162164,"Good Day, Ramon",2013,tt2876428,242575,movie,movie
+2650971,Smash and Grab,2019,tt7103168,532952,movie,movie
+1674458,The Little Prince(ss),2021,tt14475526,818370,movie,movie
+1628097,Rise,2022,tt13531468,771077,movie,movie
+1385004,The Country Bears,2002,tt0276033,18357,movie,movie
+1759513,Timeless Heroes: Indiana Jones & Harrison Ford,2023,tt30023697,1199447,movie,movie
+1675538,Prom Pact,2023,tt17321230,932430,movie,movie
+1669110,Snow Buddies,2008,tt1079448,14059,movie,movie
+1663134,Tarzan & Jane,2002,tt0313680,13683,movie,movie
+1376233,The Adventures of Huck Finn,1993,tt0106223,34723,movie,movie
+1777203,A Hero's Journey: The Making of Percy Jackson and the Olympians,2024,tt31037863,1224953,movie,movie
+1724887,"Miraculous World: London, At the Edge of Time",2024,tt13701202,1147416,movie,movie
+1671320,Beverly Hills Chihuahua 2,2011,tt1482393,54540,movie,movie
+1398671,The Incredible Journey,1963,tt0057180,37969,movie,movie
+1229624,Life with Mikey,1993,tt0107413,42580,movie,movie
+192089,"Davy Crockett, King of the Wild Frontier",1955,tt0047977,35115,movie,movie
+1674451,Miraculous World: Shanghai - The Legend of Ladydragon,2021,tt12816634,726684,movie,movie
+1672981,Requiem for the Big East,2014,tt3605164,259679,movie,movie
+1660901,Pooh's Grand Adventure: The Search for Christopher Robin,1997,tt0119918,14903,movie,movie
+1381254,The Boys: The Sherman Brothers' Story,2009,tt1015971,64831,movie,movie
+119569,Air Bud: Golden Receiver,1998,tt0140796,21661,movie,movie
+1689062,Bobi Wine: The People's President,2023,tt21376900,1004683,movie,movie
+1424892,The Ugly Dachshund,1966,tt0061135,20277,movie,movie
+1298478,Penguins,2019,tt8080302,508802,movie,movie
+1472958,X-Men: First Class,2011,tt1270798,49538,movie,movie
+2575111,Tokyo Mater,2008,tt1330219,24328,movie,movie
+1382776,The Cat from Outer Space,1978,tt0077305,19378,movie,movie
+1176054,I'll Be Home for Christmas,1998,tt0155753,17037,movie,movie
+1163610,Herbie Goes Bananas,1980,tt0080861,12129,movie,movie
+192087,Davy Crockett and the River Pirates,1956,tt0049125,50717,movie,movie
+1649007,Diary of a Wimpy Kid: Rodrick Rules,2022,tt15847828,897192,movie,movie
+1370429,Tall Tale: The Unbelievable Adventure,1995,tt0111359,41841,movie,movie
+1163611,Herbie Goes to Monte Carlo,1977,tt0076137,14140,movie,movie
+1124106,Ernest Saves Christmas,1988,tt0095107,26386,movie,movie
+1684460,Elton John: Never Too Late,2024,tt20316978,977326,movie,movie
+1583090,Apollo: Missions to the Moon,2019,tt9782756,613341,movie,movie
+1664907,Winnie the Pooh: Springtime with Roo,2004,tt0384696,16394,movie,movie
+1244488,Man of the House,1995,tt0113755,40490,movie,movie
+158072,Born in China,2016,tt4629266,355277,movie,movie
+1882865,Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law,2022,tt22852968,1026208,movie,movie
+1801704,Tiger,2024,tt31497750,1259918,movie,movie
+1719623,The Wonderful World of Mickey Mouse: Steamboat Silly,2023,tt28094412,1139979,movie,movie
+1421341,The Story of Robin Hood and His Merrie Men,1952,tt0045197,27884,movie,movie
+1697330,Director by Night,2022,tt23326936,1036996,movie,movie
+1663964,Recess: Taking the Fifth Grade,2003,tt0382937,405894,movie,movie
+1590027,The Rodriguez and the Beyond,2019,tt7543538,636041,movie,movie
+147740,Benji the Hunted,1987,tt0092638,21299,movie,movie
+1971665,Snow White,2025,tt35983585,1449951,movie,movie
+1937780,Kiff Lore of the Ring Light,2025,tt31909472,1421982,movie,movie
+1789365,Sally,2025,tt31193771,1242382,movie,movie
+1670746,Prep & Landing Stocking Stuffer: Operation: Secret Santa,2010,tt1754374,88212,movie,movie
+122117,Aliens of the Deep,2005,tt0417415,22559,movie,movie
+1885320,The Wonderful Winter of Mickey Mouse,2022,tt20853340,939336,movie,movie
+1724876,"Miraculous World: Paris, Tales of Shadybug and Claw Noir",2023,tt29259099,1147400,movie,movie
+1672786,Jingle All the Way 2,2014,tt3486392,289728,movie,movie
+1598686,What Is Love?,2019,tt9163346,529934,movie,movie
+1472953,X2,2003,tt0290334,36658,movie,movie
+1105608,Wings of Life,2011,tt1222816,54985,movie,movie
+1667053,Like Mike 2: Streetball,2006,tt0469937,26655,movie,movie
+1650488,Strange World,2022,tt10298840,877269,movie,movie
+1627728,Marvel's Behind the Mask,2021,tt13885628,787923,movie,movie
+1418162,The Secret of the Magic Gourd,2007,tt0496386,38057,movie,movie
+1130059,Far from Home: The Adventures of Yellow Dog,1995,tt0113028,27985,movie,movie
+1893043,Bono & The Edge: A Sort of Homecoming with Dave Letterman,2023,tt26229554,1073704,movie,movie
+1885323,The Wonderful Summer of Mickey Mouse,2022,tt21098298,987337,movie,movie
+1885322,The Wonderful Spring of Mickey Mouse,2022,tt18344724,963660,movie,movie
+1688187,Dashing Through the Snow,2023,tt5608166,1001884,movie,movie
+1672778,Phineas and Ferb: Star Wars,2014,tt3067144,392216,movie,movie
+1661336,Belle's Magical World,1998,tt0167038,20235,movie,movie
+1640673,A Spark Story,2021,tt11963126,852724,movie,movie
+1671812,Beverly Hills Chihuahua 3: Viva la Fiesta!,2012,tt2224075,105965,movie,movie
+1469967,Winnie the Pooh: A Very Merry Pooh Year,2002,tt0324572,13706,movie,movie
+1286651,One Magic Christmas,1985,tt0089731,13380,movie,movie
+1855901,Blink,2024,tt29259074,1340168,movie,movie
+1718057,Stan Lee,2023,tt25363184,717082,movie,movie
+1675068,We Feed People,2022,tt12156974,934660,movie,movie
+1670019,Unidentified Flying Mater,2009,tt1511164,171536,movie,movie
+1668169,The Sandlot: Heading Home,2007,tt0817307,21138,movie,movie
+1621914,Be Careful What You Wish For,2020,tt12943128,681429,movie,movie
+4150015,Sneakerella,2022,tt10160886,756187,movie,movie
+1434478,Tini: The New Life of Violetta,2016,tt5122374,360365,movie,movie
+1400252,The Kids Are Back,2017,tt3281920,484150,movie,movie
+1396181,The Happiest Millionaire,1967,tt0061749,25445,movie,movie
+1650500,The Territory,2022,tt16378164,913849,movie,movie
+1640356,Django & Django: Sergio Corbucci Unchained,2021,tt15119170,854521,movie,movie
+1676676,Embrace the Panda: Making Turning Red,2022,tt16026664,940075,movie,movie
+1467572,White Fang 2: Myth of the White Wolf,1994,tt0111701,43643,movie,movie
+1799305,Marvel Studios Assembled: The Making of Hawkeye,2022,tt14235904,936643,movie,movie
+1774994,Big City Greens the Movie: Spacecation,2024,tt22752312,929563,movie,movie
+1690487,Shark Side of the Moon,2022,tt21426434,1011679,movie,movie
+1669991,Santa Buddies,2009,tt1328875,24833,movie,movie
+1647498,Cuidado con lo que deseas,2021,tt15017758,893164,movie,movie
+1385400,The Crimson Wing: Mystery of the Flamingos,2008,tt0902967,36569,movie,movie
+1377209,The Apple Dumpling Gang Rides Again,1979,tt0078790,22328,movie,movie
+1352361,Snowball Express,1972,tt0069291,32140,movie,movie
+1880502,Marvel Studios Assembled: The Making of Eternals,2022,tt15477324,939356,movie,movie
+1708034,Diary of a Wimpy Kid Christmas: Cabin Fever,2023,tt29033964,1123093,movie,movie
+1694842,"Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",2025,tt13782222,774100,movie,movie
+1669996,Space Buddies,2009,tt1164647,14749,movie,movie
+1662433,Air Bud: World Pup,2001,tt0161220,20755,movie,movie
+1652719,If These Walls Could Sing,2022,tt13943546,926392,movie,movie
+1609335,Jane Goodall: The Hope,2020,tt12137534,694059,movie,movie
+1251570,Melody Time,1948,tt0040580,13757,movie,movie
+1184914,Into the Okavango,2018,tt7573844,520446,movie,movie
+1153480,Greyfriars Bobby,1961,tt0054944,64868,movie,movie
+1940581,Another You,2025,tt35948720,1425617,movie,movie
+1892883,Miley Cyrus: Something Beautiful,2025,tt36590404,1393017,movie,movie
+1879642,Something's Coming: West Side Story,2021,tt16350414,932104,movie,movie
+1812804,Marvel Studios Assembled: The Making of X-Men '97,2024,tt32142103,1275606,movie,movie
+1774085,Marvel Studios Assembled: The Making of Echo,2024,tt30492278,1220337,movie,movie
+4142424,Marvel Rising: Heart of Iron,2019,tt9073746,583209,movie,movie
+1425765,The Vanishing Prairie,1954,tt0047642,114499,movie,movie
+1399427,The Island at the Top of the World,1974,tt0071671,42453,movie,movie
+1344801,Shipwrecked,1990,tt0099816,71805,movie,movie
+1784619,Marvel Studios Assembled: The Making of The Marvels,2024,tt31031917,1235525,movie,movie
+1671333,Spooky Buddies,2011,tt1792131,70587,movie,movie
+1674538,The Tuck Rule,2022,tt17156658,929174,movie,movie
+1462718,Water & Power: A California Heist,2017,tt6290202,430834,movie,movie
+1816397,Corina,2025,tt33366456,1280684,movie,movie
+1813722,Not Just a Goof,2024,tt32989896,1276948,movie,movie
+1945530,Path of the Panther,2022,tt24855976,962288,movie,movie
+1885324,The Wonderful Autumn of Mickey Mouse,2022,tt21272676,1031827,movie,movie
+1737047,Marvel Studios Assembled: The Making of Secret Invasion,2023,tt28663209,1165500,movie,movie
+1673482,Hulk: Where Monsters Dwell,2016,tt6173902,422153,movie,movie
+1670018,George and A.J.,2009,tt1552624,72962,movie,movie
+1889577,The Greatest Mixtape Ever,2022,tt19887024,977695,movie,movie
+11026853,The Last Rhinos: A New Hope,2025,tt37748266,1528167,movie,movie
+11003140,Imported,2025,tt38043121,1494409,movie,movie
+1661356,The Brave Little Toaster Goes to Mars,1998,tt0147926,20377,movie,movie
+1421697,The Strongest Man in the World,1975,tt0073760,31654,movie,movie
+1384474,The Computer Wore Tennis Shoes,1969,tt0065566,29228,movie,movie
+1299472,Perri,1957,tt0050837,162139,movie,movie
+1674591,Polar Bear,2022,tt17048330,927070,movie,movie
+1671827,Treasure Buddies,2012,tt1791658,78047,movie,movie
+1699359,Corazonada,2022,tt18381124,1057355,movie,movie
+1883601,Snow White,2025,tt32370897,1387127,movie,movie
+1673186,Trojan War,2015,tt5056124,359035,movie,movie
+1418674,The Shaggy Dog,1959,tt0053271,15944,movie,movie
+1321080,Return from Witch Mountain,1978,tt0078158,14822,movie,movie
+1250796,Meet the Deedles,1998,tt0120645,40688,movie,movie
+1891837,Cooked,2025,tt33305511,1392117,movie,movie
+1889960,Wild Life,2023,tt26520932,1096369,movie,movie
+1885018,Marvel Super Hero Adventures: Frost Fight!,2015,tt5272052,372631,movie,movie
+1729827,LEGO Marvel Avengers: Code Red,2023,tt28477867,1154598,movie,movie
+1690416,Chang Can Dunk,2023,tt13650494,776098,movie,movie
+1673966,Under the Sea: A Descendants Story,2018,tt8884364,551298,movie,movie
+1631669,The Prince and the Pauper,1962,tt1836776,73478,movie,movie
+4141196,Marvel Rising: Chasing Ghosts,2019,tt9073748,576743,movie,movie
+541461,American Eid,2021,tt13912496,818336,movie,movie
+1523225,Cesar Millan: The Real Story,2012,tt3249810,274989,movie,movie
+1376187,The Adventures of Bullwhip Griffin,1967,tt0061333,20237,movie,movie
+1375168,That Darn Cat,1997,tt0120317,20735,movie,movie
+1768726,Straight,2024,tt26458962,1167898,movie,movie
+1636103,Youngstown Boys,2013,tt3377022,243419,movie,movie
+1921103,The Pope: Answers,2023,tt27441525,1094266,movie,movie
+1737040,Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3,2023,tt28663201,1165487,movie,movie
+1672305,Super Buddies,2013,tt2999390,149910,movie,movie
+1672294,Iron Man & Hulk: Heroes United,2013,tt3221698,230896,movie,movie
+1663949,Air Bud: Spikes Back,2003,tt0337812,24794,movie,movie
+1408153,The Moon-Spinners,1964,tt0058371,42795,movie,movie
+1880535,SUGA: Road to D-DAY,2023,tt27410896,1106732,movie,movie
+1670026,Super Rhino,2009,tt1368151,16604,movie,movie
+1657046,Mr. Boogedy,1986,tt0091566,365351,movie,movie
+1590927,Modern Loves,2019,tt9641242,639737,movie,movie
+1895548,The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular,2017,tt7482892,765367,movie,movie
+1429332,Young Black Stallion,2003,tt0318850,42418,movie,movie
+139638,Babes in Toyland,1961,tt0054649,32611,movie,movie
+1670712,The Search for Santa Paws,2010,tt1544572,48844,movie,movie
+11009693,Sharks Up Close with Bertie Gregory,2025,tt37244013,1503822,movie,movie
+1689068,A Compassionate Spy,2022,tt21376858,1004677,movie,movie
+1969228,Pets,2025,tt36120468,1446946,movie,movie
+1671829,The Legend of Mor'du,2012,tt2565938,141423,movie,movie
+1590580,A Piece of Cake,2019,tt9037650,638220,movie,movie
+1403849,The Living Desert,1953,tt0046008,11383,movie,movie
+1630296,Lost on Everest,2020,tt12660966,704854,movie,movie
+1884638,Marvel Studios Assembled: The Making of Deadpool & Wolverine,2024,tt34570789,1386628,movie,movie
+1814304,Underdog,2024,tt32027823,1272228,movie,movie
+1799300,Marvel Studios Assembled: The Making of Ms. Marvel,2022,tt21351612,1001912,movie,movie
+1618726,Mars: One Day on the Red Planet,2020,tt12611334,664027,movie,movie
+1674191,Forky Asks a Question: What Is Love?,2019,tt11194642,660859,movie,movie
+1109564,Doug's 1st Movie,1999,tt0187819,16508,movie,movie
+1660905,The Brave Little Toaster to the Rescue,1997,tt0163986,20378,movie,movie
+1882867,Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever,2023,tt26315895,1076032,movie,movie
+1841929,SEVENTEEN TOUR 'FOLLOW' AGAIN TO CINEMAS,2024,tt32938930,1317874,movie,movie
+1674194,Forky Asks a Question: What Is Time?,2019,tt11194640,660858,movie,movie
+1642444,Biosphere,2023,tt15301000,865797,movie,movie
+126774,Amy,1981,tt0082017,217977,movie,movie
+1675015,Jazz Fest: A New Orleans Story,2022,tt16418964,934332,movie,movie
+159853,Breaking Up,1997,tt0118772,26393,movie,movie
+1670737,Monster Truck Mater,2010,tt1559826,148605,movie,movie
+1663139,Air Bud: Seventh Inning Fetch,2002,tt0288415,21518,movie,movie
+1430827,Third Man on the Mountain,1959,tt0053352,64867,movie,movie
+1419101,The Sign of Zorro,1958,tt0054307,462357,movie,movie
+1661355,The Jungle Book: Mowgli's Story,1998,tt0144262,109176,movie,movie
+1672768,Iron Man & Captain America: Heroes United,2014,tt3911200,284274,movie,movie
+1675472,The Naughty Nine,2023,tt16491414,936059,movie,movie
+1670740,Mater Private Eye,2010,tt1788784,148606,movie,movie
+1607100,American Rapstar,2020,tt11655140,682744,movie,movie
+1399061,The Internship,2013,tt2234155,116741,movie,movie
+1670774,Predators: Moments of Extraction,2010,tt1777600,704882,movie,movie
+1711172,Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania,2023,tt27798047,1127361,movie,movie
+1671838,Time Travel Mater,2012,tt2166364,141528,movie,movie
+1674187,Forky Asks a Question: What Is Money?,2019,tt11194634,660851,movie,movie
+1663969,Recess: All Growed Down,2003,tt0382936,84331,movie,movie
+1636206,Chosen Family,2024,tt27799825,834966,movie,movie
+1926240,Beyond Utopia,2023,tt25470468,1070032,movie,movie
+1670750,Winning Time: Reggie Miller vs. The New York Knicks,2010,tt1501757,39185,movie,movie
+1171453,Howard,2018,tt7682430,512191,movie,movie
+1670857,Four Days in October,2010,tt1734593,54677,movie,movie
+1623446,Playing with Sharks,2021,tt11226258,776553,movie,movie
+544407,Explorer: The Last Tepui,2022,tt17048366,927081,movie,movie
+538413,The Flood,2018,tt9154632,616104,movie,movie
+1674184,Forky Asks a Question: What Is a Friend?,2019,tt11194638,660855,movie,movie
+1603289,One Day at Disney,2019,tt11550148,655571,movie,movie
+1674330,Forky Asks a Question: What Is Cheese?,2020,tt11194650,660867,movie,movie
+11009700,Sharks of the North,2025,tt37244016,1503834,movie,movie
+1582748,"The Good, The Bad, The Hungry",2019,tt10181606,594498,movie,movie
+1116960,El Coco,2016,tt6449410,420056,movie,movie
+540037,Brittany Murphy: An ID Mystery,2020,tt12323826,709098,movie,movie
+538039,Robert Durst: An ID Murder Mystery,2019,tt9726390,593962,movie,movie
+1789373,Fly,2024,tt31189863,1242392,movie,movie
+1942789,Jade Eyed Leopard,2020,tt32059187,790058,movie,movie
+1829508,Protecting Paradise: The Story of Niue,2024,tt32421420,1300132,movie,movie
+1819120,John Williams in Tokyo,2024,tt36131268,1284678,movie,movie
+1866954,Abracadaver,2024,tt33525840,1364324,movie,movie
