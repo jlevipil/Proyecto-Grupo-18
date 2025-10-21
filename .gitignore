@@ -5,3 +5,6 @@ data/title.basics.tsv
 data/title.crew.tsv
 data/title.principals.tsv
 data/title.ratings.tsv
+
+.ipynb_checkpoints/
+src/__pycache__/
