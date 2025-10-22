@@ -12,11 +12,12 @@ Este repositorio cuenta con los siguientes archivos:
 │
 ├── 📂 src: Contiene funciones y constantes útiles para la extracción de datos
 │   ├── buscar_peliculas.py: Contiene la funcion para pedir datos a la API
-│   └── constantes.py: Contiene las constantes utilizadas en la funcion
+│   ├── constantes.py: Contiene las constantes utilizadas en la funcion
+    └── apikey.txt: Como la APIKEY es propia no se sube, pero deberia estar en esta carpeta
 
 ├── 📂 pdf: Contiene PDF sobre el proyecto
 │   ├── Propuesta Proyecto(...).pdf
-│   └── Protecto.pdf
+│   └── Proyecto.pdf
 │
 ├── 📄 limpieza_<plataforma>.ipynb: Notebooks en el que se consiguen y limpian los datos de la API
 │
