@@ -1,26 +1,61 @@
-# Proyecto-Grupo-18
-Proyecto del grupo 18 del curso Intro a Ciencia de Datos en la Pontificia Universidad Catolica.
+# Proyecto Grupo 18.
+## Streaming inteligente. Eligiendo la mejor plataforma para ver peliculas
+Este proyecto busca identificar cuál plataforma de streaming ofrece la mejor relación entre calidad y precio, considerando tanto el costo mensual como la amplitud, diversidad y calidad del catálogo disponible. La motivación surge del crecimiento acelerado del mercado del streaming, donde muchos usuarios mantienen más de una suscripción sin evaluar si realmente están obteniendo un valor adecuado por su gasto. Dado que gran parte del contenido se repite entre servicios y que la oferta total puede ser difícil de comparar, este análisis pretende entregar una visión clara y basada en datos para facilitar una decisión informada.
 
-Este repositorio cuenta con los siguientes archivos:
+Para ello, se recopilaron datos desde Watchmode API y los IMDb Non-Commercial Datasets, integrando información sobre títulos, géneros, años de estreno, ratings, directores, actores y disponibilidad en distintas plataformas.
 
+Este proyecto está dirigido a usuarios de servicios de streaming, familias y personas que buscan optimizar sus gastos, así como a quienes desean comprender mejor cómo varía la oferta de contenido entre plataformas. En conjunto, el trabajo entrega una herramienta práctica y basada en evidencia para elegir la plataforma que mejor se ajuste a las necesidades y preferencias de cada usuario.
+
+## Estructura del Repositorio
 ```bash
 📦 Proyecto-Grupo-18
 │
 ├── 📂 data: Contiene los datos extraídos tanto crudos como limpios
 │
+├── 📂 imbd_plataformas: Contiene los notebooks en el que se crean y limpian los csv de IMDB
+│   └── 📄 imdb_<plataforma>.ipynb
+│
 ├── 📂 img: Contiene imágenes de los gráficos y demás cosas utilizadas en el analisis
+│
+├── 📂 limpiezas_plataformas: Contiene los notebooks en el que se consiguen y limpian los datos de la API
+│   └── 📄 limpieza_<plataforma>.ipynb
+│
+├── 📂 pdf: Contiene PDF sobre el proyecto
+│   ├── Propuesta Proyecto(...).pdf
+│   └── Proyecto.pdf
 │
 ├── 📂 src: Contiene funciones y constantes útiles para la extracción de datos
 │   ├── buscar_peliculas.py: Contiene la funcion para pedir datos a la API
 │   ├── constantes.py: Contiene las constantes utilizadas en la funcion
 │   └── apikey.txt: Como la APIKEY es propia no se sube, pero deberia estar en esta carpeta
 │
-├── 📂 pdf: Contiene PDF sobre el proyecto
-│   ├── Propuesta Proyecto(...).pdf
-│   └── Proyecto.pdf
 │
-├── 📄 limpieza_<plataforma>.ipynb: Notebooks en el que se consiguen y limpian los datos de la API
 │
-├── 📄 imdb_<plataforma>.ipynb: Notebooks en el que se crean y limpian los csv de IMDB
-│
-└── 📄 notebook: Notebook principal del proyecto
+└── 📄 notebook.ipynb: Notebook principal del proyecto
+```
+
+## Integrantes
+- Andrea Riquelme:
+- Adrian Huizi:
+- Catalina Díaz:
+- Juan Levipil:
+
+## Librerias Usadas
+- `requests`
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn `
+- `sklearn`
+- `ast`
+
+## Guia de Ejecucion
+En el caso de querer obtener los datos mas actualizados se puede hacer lo siguiente
+### Archivos Extra Necesarios
+- Colocar el archivo `apikey.txt` en la carpeta `src/`. Este archivo debe contener la API key conseguida en la pagina de Watchmode. `https://api.watchmode.com/requestApiKey`
+- Colocar los archivos `.tsv` en la carpeta `data/`. Estos se consiguen en la pagina de IMDB `https://developer.imdb.com/non-commercial-datasets/`
+### Obtencion de Datos
+- Seguir las instruciones y ejecutar las celdas de los archivos `limpieza_<plataforma>.ipynb` de la carpeta `algo/` para conseguir los datos de la API de Watchmode. Se generaran los archivos `.csv`.
+- Seguir las instrucciones y ejecutar las celdas de los archivos `imdb_<plataforma>.ipynb` de la carpeta `algo/` para conseguir los datos de IMBD y juntarlos con los de Watchmode. Se generaran los archivos `.csv`
+### Analisis de los Datos
+- Seguir las instrucciones y ejecutar las celdas del archivo `notebook.ipynb`
