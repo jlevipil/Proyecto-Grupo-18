@@ -12,12 +12,12 @@ Este proyecto está dirigido a usuarios de servicios de streaming, familias y pe
 │
 ├── 📂 data: Contiene los datos extraídos tanto crudos como limpios
 │
-├── 📂 imbd_plataformas: Contiene los notebooks en el que se crean y limpian los csv de IMDB
+├── 📂 imbd_plataformas: Contiene notebooks en el que se crean y limpian los csv de IMDB
 │   └── 📄 imdb_<plataforma>.ipynb
 │
 ├── 📂 img: Contiene imágenes de los gráficos y demás cosas utilizadas en el analisis
 │
-├── 📂 limpiezas_plataformas: Contiene los notebooks en el que se consiguen y limpian los datos de la API
+├── 📂 limpiezas_plataformas: Contiene notebooks en el que se piden y limpian los datos de la API
 │   └── 📄 limpieza_<plataforma>.ipynb
 │
 ├── 📂 pdf: Contiene PDF sobre el proyecto
