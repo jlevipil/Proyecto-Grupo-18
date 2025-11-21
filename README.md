@@ -29,9 +29,9 @@ Este proyecto está dirigido a usuarios de servicios de streaming, familias y pe
 │   ├── constantes.py: Contiene las constantes utilizadas en la funcion
 │   └── apikey.txt: Como la APIKEY es propia no se sube, pero deberia estar en esta carpeta
 │
+├── 📄 Repositorio Final.ipynb
 │
-│
-└── 📄 notebook.ipynb: Notebook principal del proyecto
+└── 📄 Repositorio Inicial.ipynb
 ```
 
 ## Integrantes
@@ -50,12 +50,12 @@ Este proyecto está dirigido a usuarios de servicios de streaming, familias y pe
 - `ast`
 
 ## Guia de Ejecucion
-En el caso de querer obtener los datos mas actualizados se puede hacer lo siguiente
+Para actualizar los datos y hacer el analisis denuevo siga esta guia
 ### Archivos Extra Necesarios
 - Colocar el archivo `apikey.txt` en la carpeta `src/`. Este archivo debe contener la API key conseguida en la pagina de Watchmode. `https://api.watchmode.com/requestApiKey`
 - Colocar los archivos `.tsv` en la carpeta `data/`. Estos se consiguen en la pagina de IMDB `https://developer.imdb.com/non-commercial-datasets/`
 ### Obtencion de Datos
-- Seguir las instruciones y ejecutar las celdas de los archivos `limpieza_<plataforma>.ipynb` de la carpeta `algo/` para conseguir los datos de la API de Watchmode. Se generaran los archivos `.csv`.
-- Seguir las instrucciones y ejecutar las celdas de los archivos `imdb_<plataforma>.ipynb` de la carpeta `algo/` para conseguir los datos de IMBD y juntarlos con los de Watchmode. Se generaran los archivos `.csv`
+- Seguir las instruciones y ejecutar las celdas de los archivos `limpieza_<plataforma>.ipynb` de la carpeta `limpiezas_plataformas/` para conseguir los datos de la API de Watchmode. Se generaran los archivos `.csv`.
+- Seguir las instrucciones y ejecutar las celdas de los archivos `imdb_<plataforma>.ipynb` de la carpeta `imbd_plataformas/` para conseguir los datos de IMBD y juntarlos con los de Watchmode. Se generaran los archivos `.csv`
 ### Analisis de los Datos
-- Seguir las instrucciones y ejecutar las celdas del archivo `notebook.ipynb`
+- Seguir las instrucciones y ejecutar las celdas del archivo `Repositorio Inicial.ipynb`
