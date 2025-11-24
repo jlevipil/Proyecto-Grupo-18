@@ -9,39 +9,111 @@
 <body> 
     
     <div class="sidebar">
-        <a href="#inicio">Inicio</a>
-        <a href="#objetivos">Objetivos</a>
-        <a href="#analisis">Análisis</a>
-        <a href="#conclusiones">Conclusiones</a>
+        <a href="#" class="nav-link active" data-section="inicio">Inicio</a>
+        <a href="#" class="nav-link" data-section="objetivos">Objetivos</a>
+        <a href="#" class="nav-link" data-section="analisis">Análisis</a>
+        <a href="#" class="nav-link" data-section="conclusiones">Conclusiones</a>
     </div>
 
     <div class="content">
-        
-        <h1 id="inicio">Streaming inteligente: Eligiendo la mejor plataforma</h1>
-        <p>Poner qué nos motivó a elegir esto, introducción más que nada.</p>
-        <div style="margin: 80px 0;"></div>
-        <div style="margin: 80px 0;"></div>
+        <div id="inicio" class="seccion activa">
+            <h1>Streaming inteligente: Eligiendo la mejor plataforma</h1>
+            <img src="Streaming.jpg" class="img-derecha">
+            <p>
+                Nuestro proyecto da relevancia a un tema que notamos que suele ser un debate muy común hoy en día,
+                e incluso nosotros mismos lo tenemos. El tema surgió cuando nos dimos cuenta de que todos compartíamos
+                un gusto en común: ver películas. Sin embargo, nos percatamos de un problema frecuente: existe una
+                gran variedad de plataformas de streaming, pero no siempre sabemos cuál elegir, ya que cada una tiene
+                algo especial que nos hace inclinarnos hacia ella, aunque no necesariamente sea la mejor opción,
+                ya sea por preferencias personales o por motivos económicos.
+            </p>
+
+            <p>
+                Por eso mismo, quisimos investigar en base a qué se guía la gente hoy en día al momento de elegir una
+                plataforma de streaming. Visitamos varias páginas de noticias y foros de discusión; entre ellos, destacamos
+                una conversación en Reddit, donde observamos que las personas tienden a elegir distintas plataformas
+                según diversos aspectos. Puedes ver esa discusión aquí:
+                <a href="https://www.reddit.com/r/television/comments/1ju49ae/which_streaming_service_overall_is_the_best_in/?tl=es-419"
+                    target="_blank">
+                        Discusión en Reddit
+                </a>.
+            Como se ve en los comentarios, algunas personas se guían por la calidad de las películas o series, otras por
+            la cantidad de contenido disponible y otras por los precios.
+            </p>
+
+            <p>
+                Asimismo, notamos que algunos sitios de recomendación se enfocan más en la cantidad de títulos y los precios
+                que en la calidad del contenido u otros factores que también son decisivos a la hora de elegir una plataforma.
+                Un ejemplo de esto es el siguiente sitio:
+                <a href="https://www.rastreator.com/telefonia/guias/plataformas-streaming" target="_blank">
+                Guía de plataformas de streaming
+                </a>
+            </p>
+
+            <p>
+                Por ello, decidimos analizar estas opciones desde diferentes perspectivas: desde quienes priorizan la calidad
+                sobre la cantidad de títulos, hasta quienes buscan una opción más familiar o económica.
+            </p>
+        </div>
 
         <!-- Sección Objetivos -->
-        <h1 id="objetivos">Objetivos</h1>
-        <p>Aquí agregas tus objetivos del proyecto.</p>
-        <div style="margin: 80px 0;"></div>
-        <div style="margin: 80px 0;"></div>
+        <div id="objetivos" class="seccion">
+            <h1>Objetivos</h1>
+            <p>
+                Este proyecto analiza de manera total las principales plataformas de streaming con el objetivo de identificar cuál ofrece una mejor experiencia
+                considerando precio, catálogo y calidad general. A partir del procesamiento y exploración del conjunto de datos, se evalúan aspectos como la
+                cantidad total de películas disponibles, la diversidad de géneros, la distribución por año de lanzamiento, la calidad promedio medida por ratings y
+                la presencia de contenido familiar. También se consideran elementos contextuales, como los precios de suscripción, para complementar la comparación entre plataformas.
+                El análisis busca entregar una visión clara, estructurada y basada en evidencia que permita orientar la elección de la plataforma más conveniente según los intereses
+                y preferencias de cada usuario.
+            </p>
+
+            <h2>Preguntas de Investigación</h2>
+            <ul>
+                <li>¿Qué plataforma presenta mayor cantidad de películas?</li>
+                <li>¿Cuál es la plataforma que tiene mayor variedad de géneros?</li>
+                <li>¿Cuál es la plataforma que presenta mayor cantidad de películas actuales y cuál la que concentra más películas antiguas en su catálogo?</li>
+                <li>¿Cuál es la plataforma que concentra la mayor cantidad de películas con mejores calificaciones?</li>
+                <li>¿Qué actores se repiten más en el catálogo de cada plataforma?</li>
+                <li>¿Qué directores se repiten más en el catálogo de cada plataforma?</li>
+                <li>¿Se puede crear un modelo de aprendizaje supervisado que, a partir de las características de cada película, prediga si pertenece a una plataforma buena, media o mala en relación a calidad/precio?</li>
+                <li>Si una persona quiere contratar un plan para su familia (la cual tiene infantes), ¿qué plataforma le recomendarías?</li>
+            </ul>
+        </div>
 
         <!-- Sección Análisis -->
-        <h1 id="analisis">Análisis</h1>
-        <p>Aquí va el análisis de plataformas.</p>
-        <div style="margin: 80px 0;"></div>
-        <div style="margin: 80px 0;"></div>
+        <div id="analisis" class="seccion">
+            <h1>Análisis</h1>
+            <p>Aquí va el análisis de plataformas.</p>
+        </div>
 
         <!-- Sección Conclusiones -->
-        <h1 id="conclusiones">Conclusiones</h1>
-        <p>Aquí escribes tus conclusiones finales.</p>
-        <div style="height: 400px;"></div>
-        <div style="height: 400px;"></div>
-
-        <p>algo</p>
-        
+        <div id="conclusiones" class="seccion">
+            <h1>Conclusiones</h1>
+            <p>Aquí escribes tus conclusiones finales.</p>
+        </div>
     </div>
+    <script>
+        const links = document.querySelectorAll('.sidebar .nav-link');
+        const secciones = document.querySelectorAll('.seccion');
+
+        links.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault(); // para que no recargue ni se mueva la página
+
+                const idDestino = this.dataset.section;
+
+                // Ocultar todas las secciones
+                secciones.forEach(sec => sec.classList.remove('activa'));
+
+                // Mostrar solo la sección elegida
+                document.getElementById(idDestino).classList.add('activa');
+
+                // Cambiar el estilo del link activo
+                links.forEach(l => l.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+    </script>
 </body>
 </html>
