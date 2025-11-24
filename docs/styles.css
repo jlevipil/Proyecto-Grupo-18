@@ -1,20 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: #e3d0f5; /* tu lavanda claro */
-    display: flex;
+    background-color: #e3d0f5;
 }
 
-/* SIDEBAR */
-.sidebar {
-    width: 200px;          /* <-- antes probablemente tenías 300–400 */
+/* --- CONTENEDOR PRINCIPAL --- */
+.layout {
+    display: flex;
+    width: 100%;
+}
+
+/* --- SIDEBAR IZQUIERDA --- */
+.sidebar-izquierda {
+    width: 200px;
     min-height: 100vh;
-    background-color: #b58ce0;
+    background-color: hsl(269, 58%, 71%);
     padding: 20px;
     box-sizing: border-box;
+    position: fixed;
+    top: 0;
 }
 
-.sidebar a {
+/* Links */
+.sidebar-izquierda a {
     display: block;
     margin: 15px 0;
     text-decoration: none;
@@ -22,39 +34,37 @@ body {
     font-size: 18px;
 }
 
-.sidebar a.active {
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-/* CONTENIDO */
-.content {
-    padding: 40px 60px;  /* espacio normal y simétrico */
-    flex: 1;             /* ocupa el resto del ancho */
-    box-sizing: border-box;
-}
-
-.seccion {
-    display: none;
-}
-
-.seccion.activa {
-    display: block;
-}
-
-.content {
+/* --- CONTENIDO CENTRAL --- */
+.div-info {
+    flex: 1;
+    padding: 40px 60px;
     position: relative;
+    box-sizing: border-box;
+    margin-left: 200px;
 }
 
-/* Imagen en la esquina superior derecha del contenido */
+/* Imagen fija en el texto */
 .img-derecha {
-    position: absolute;
-    top: 70px;    
-    right: 50px;
-    width: 300px;
-    border-radius: 0px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
 }
+
 #inicio {
-    padding-right: 300px;
+    padding-right: 320px; /* espacio para la imagen */
+}
+
+/* --- SIDEBAR DERECHA --- */
+.sidebar-derecha {
+    width: 250px;
+    min-height: 100vh;
+    background-color: #ecdff9;
+    padding: 20px;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
