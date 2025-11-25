@@ -1,12 +1,18 @@
-/* Paleta de colores */
+/* ============================
+        PALETA DE COLORES
+============================ */
 :root {
-    --fondo_sideL: hsl(269, 58%, 71%);
-    --fondo-body: #e3d0f5;
-    --fono-sideR: #ecdff9;
+    --fondo_sideL: #000000;
+    --fondo-body: #ffffff;
+    --fondo-sideR: #ffffff;
+
+    --color-texto-banner: #ffffff;
+    --color-titulo-integrantes: #6a004b;
 }
 
-
-/* */
+/* ============================
+        AJUSTES GENERALES
+============================ */
 html {
     scroll-behavior: smooth;
 }
@@ -14,23 +20,27 @@ html {
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: var(--fondo-body)    ;
+    background-color: var(--fondo-body);
 }
 
-h1 {
-    scroll-margin-top: 50px;
+/* Para que los títulos no queden pegados arriba */
+h1 { scroll-margin-top: 80px; }
+h2 { scroll-margin-top: 80px; }
+
+/* Muy importante: que las preguntas de análisis compensen el alto del banner */
+#analisis h2 {
+    scroll-margin-top: 380px;   /* la altura del banner */
 }
 
-h2 {
-    scroll-margin-top: 30px;
-}
-
-/* Layout y derivados */
+/* ============================
+        LAYOUT PRINCIPAL
+============================ */
 .layout {
     display: flex;
     width: 100%;
 }
 
+/* ----------- SIDEBAR IZQUIERDA ----------- */
 .sidebar-izquierda {
     width: 15vw;
     min-height: 100vh;
@@ -39,38 +49,49 @@ h2 {
     box-sizing: border-box;
     position: fixed;
     top: 0;
+    left: 0;
 }
 
 .sidebar-izquierda a {
     display: block;
     margin: 15px 0;
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 18px;
 }
 
-.subpreguntas a {
-    font-size: 0.9em;        
-    margin-left: 15px;       
-    display: block;
-    padding: 3px 0;          
+/* Subpreguntas (ocultas por defecto) */
+.subpreguntas {
+    margin-left: 15px;
+    display: none;
 }
 
+.subpreguntas a {
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+
+/* Cuando está activa (JS), se muestra */
+.subpreguntas.activa {
+    display: block;
+}
+
+/* ----------- COLUMNA CENTRAL ----------- */
 .div-info {
     width: calc(100% - 15vw - 15vw);
     flex: 1;
     padding: 40px 60px;
-    background-color: var(--fondo-body);
-    box-sizing: border-box;
     margin-left: 15vw;
     margin-right: 15vw;
-
+    box-sizing: border-box;
+    position: relative;
 }
 
+/* ----------- SIDEBAR DERECHA ----------- */
 .sidebar-derecha {
     width: 15vw;
-    min-height: 100%;
-    background-color: var(--fono-sideR);
+    min-height: 100vh;
+    background-color: var(--fondo-sideR);
     padding: 20px;
     box-sizing: border-box;
     position: fixed;
@@ -78,25 +99,91 @@ h2 {
     right: 0;
 }
 
-/* Imagenes*/
-
 .img-derecha {
     max-width: 100%;
-    height: auto;
     display: block;
     margin: 5px 0;
+    border-radius: 6px;
 }
 
-.grafico {
-    height: 410px;
-    width: auto;  
-    display: block;
-    margin: 0 auto;
+/* ============================
+          BANNER PRINCIPAL
+============================ */
+.hero-banner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    width: 100%;
+    height: 380px;
+
+    background-image: url('img/Streaming.webp');
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    color: var(--color-texto-banner);
+
+    margin-bottom: 50px;
 }
 
+.hero-content {
+    z-index: 2;
+    padding: 20px;
+}
+
+.hero-banner h1 {
+    font-size: 2.5em;
+    margin: 0;
+    text-shadow: 0 0 10px black, 0 0 5px black;
+}
+
+.hero-banner p {
+    font-size: 1.1em;
+    margin-top: 5px;
+    text-shadow: 0 0 10px black, 0 0 5px black;
+}
+
+/* ============================
+      SECCIÓN INTEGRANTES
+============================ */
+.spacer-despues-banner {
+    height: 330px;
+    width: 100%;
+}
+
+.seccion-integrantes {
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
+
+.seccion-integrantes h2 {
+    color: var(--color-titulo-integrantes);
+    margin: 0 0 5px;
+}
+
+/* ============================
+       CONTENEDORES SECCIÓN
+============================ */
+
+.contenedor-seccion {
+    padding-top: 10px;
+    margin-bottom: 60px;
+}
+
+/* ============================
+         IMÁGENES Y GRÁFICOS
+============================ */
+.grafico,
 #grafico7 {
+    max-width: 100%;
     height: auto;
-    width: 900px;  
     display: block;
     margin: 0 auto;
 }
@@ -107,11 +194,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Espacios */
+/* ============================
+             ESPACIOS
+============================ */
 .espacio {
     margin: 120px 0;
 }
 
-.espacio-preguntas{
+.espacio-preguntas {
     margin: 30px 0;
 }
