@@ -14,6 +14,9 @@
     <!-- Iconos opcionales -->
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
 </head>
 
 <body>
@@ -40,9 +43,7 @@
             <a href="#conclusiones">Conclusiones</a>
         </div>
 
-        <!-- ========== COLUMNA CENTRAL ========== -->
-        <div class="div-info">
-
+        <div>
             <!-- BANNER -->
             <section class="hero-banner">
                 <div class="hero-content">
@@ -50,6 +51,10 @@
                     <p>Patrones que influyen en la elección de plataformas de streaming</p>
                 </div>
             </section>
+        </div>
+
+        <!-- ========== COLUMNA CENTRAL ========== -->
+        <div class="div-info">
 
             <!-- INTEGRANTES -->
             <section class="seccion-integrantes">
@@ -57,8 +62,6 @@
                 <p>Catalina Díaz - Adrian Huizi - Juan Levipil - Andrea Riquelme</p>
             </section>
 
-            <!-- ESPACIADOR BAJO EL BANNER -->
-            <span class="spacer-despues-banner"></span>
 
             <!-- ======= INICIO ======= -->
             <div id="inicio" class="contenedor-seccion">
@@ -321,24 +324,6 @@
         </div>
 
     </div>
-
-    <!-- ========== SCRIPT: desplegar/ocultar preguntas ========== -->
-    <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const linkAnalisis = document.getElementById('link-analisis');
-        const subpreguntas = document.querySelector('.subpreguntas');
-
-        linkAnalisis.addEventListener('click', function (e) {
-            e.preventDefault();
-            subpreguntas.classList.toggle('activa');
-
-            const analisis = document.getElementById('analisis');
-            if (analisis) {
-                analisis.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-        });
-    });
-    </script>
 
 </body>
 </html>

@@ -25,18 +25,17 @@ body {
 
 /* Para que los títulos no queden pegados arriba */
 h1 { scroll-margin-top: 80px; }
-h2 { scroll-margin-top: 80px; }
+h2 { scroll-margin-top: 20px; }
 
-/* Muy importante: que las preguntas de análisis compensen el alto del banner */
-#analisis h2 {
-    scroll-margin-top: 380px;   /* la altura del banner */
-}
+#inicio { scroll-margin-top: 600px; }
+
 
 /* ============================
         LAYOUT PRINCIPAL
 ============================ */
 .layout {
     display: flex;
+    flex-direction: column;
     width: 100%;
 }
 
@@ -110,12 +109,9 @@ h2 { scroll-margin-top: 80px; }
           BANNER PRINCIPAL
 ============================ */
 .hero-banner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
+    position: relative;
 
-    width: 100%;
+    width: 70vw;
     height: 380px;
 
     background-image: url('img/Streaming.webp');
@@ -130,6 +126,8 @@ h2 { scroll-margin-top: 80px; }
     color: var(--color-texto-banner);
 
     margin-bottom: 50px;
+    margin-left: 15vw;
+    margin-right: 15vw;
 }
 
 .hero-content {
@@ -153,7 +151,7 @@ h2 { scroll-margin-top: 80px; }
       SECCIÓN INTEGRANTES
 ============================ */
 .spacer-despues-banner {
-    height: 330px;
+    height: 1000px;
     width: 100%;
 }
 
