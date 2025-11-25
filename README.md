@@ -13,6 +13,8 @@ Este proyecto está dirigido a usuarios de servicios de streaming, familias y pe
 │
 ├── 📂 data: Contiene los datos extraídos tanto crudos como limpios
 │
+├── 📂 docs: Contiene los archivos para que funcione la pagina
+│
 ├── 📂 imbd_plataformas: Contiene notebooks en el que se crean y limpian los csv de IMDB
 │   └── 📄 imdb_<plataforma>.ipynb
 │
