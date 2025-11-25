@@ -1,3 +1,12 @@
+/* Paleta de colores */
+:root {
+    --fondo_sideL: hsl(269, 58%, 71%);
+    --fondo-body: #e3d0f5;
+    --fono-sideR: #ecdff9;
+}
+
+
+/* */
 html {
     scroll-behavior: smooth;
 }
@@ -5,27 +14,33 @@ html {
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: #e3d0f5;
+    background-color: var(--fondo-body)    ;
 }
 
-/* --- CONTENEDOR PRINCIPAL --- */
+h1 {
+    scroll-margin-top: 50px;
+}
+
+h2 {
+    scroll-margin-top: 30px;
+}
+
+/* Layout y derivados */
 .layout {
     display: flex;
     width: 100%;
 }
 
-/* --- SIDEBAR IZQUIERDA --- */
 .sidebar-izquierda {
-    width: 200px;
+    width: 15vw;
     min-height: 100vh;
-    background-color: hsl(269, 58%, 71%);
+    background-color: var(--fondo_sideL);
     padding: 20px;
     box-sizing: border-box;
     position: fixed;
     top: 0;
 }
 
-/* Links */
 .sidebar-izquierda a {
     display: block;
     margin: 15px 0;
@@ -34,37 +49,69 @@ body {
     font-size: 18px;
 }
 
-/* --- CONTENIDO CENTRAL --- */
-.div-info {
-    flex: 1;
-    padding: 40px 60px;
-    position: relative;
-    box-sizing: border-box;
-    margin-left: 200px;
+.subpreguntas a {
+    font-size: 0.9em;        
+    margin-left: 15px;       
+    display: block;
+    padding: 3px 0;          
 }
 
-/* Imagen fija en el texto */
+.div-info {
+    width: calc(100% - 15vw - 15vw);
+    flex: 1;
+    padding: 40px 60px;
+    background-color: var(--fondo-body);
+    box-sizing: border-box;
+    margin-left: 15vw;
+    margin-right: 15vw;
+
+}
+
+.sidebar-derecha {
+    width: 15vw;
+    min-height: 100%;
+    background-color: var(--fono-sideR);
+    padding: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+/* Imagenes*/
+
 .img-derecha {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 20px 0;
+    margin: 5px 0;
 }
 
-#inicio {
-    padding-right: 320px; /* espacio para la imagen */
-}
-
-/* --- SIDEBAR DERECHA --- */
-.sidebar-derecha {
-    width: 250px;
-    min-height: 100vh;
-    background-color: #ecdff9;
-    padding: 20px;
-    box-sizing: border-box;
-    position: sticky;
-    top: 0;
-    max-width: 100%;
-    height: auto;
+.grafico {
+    height: 410px;
+    width: auto;  
     display: block;
+    margin: 0 auto;
+}
+
+#grafico7 {
+    height: auto;
+    width: 900px;  
+    display: block;
+    margin: 0 auto;
+}
+
+.selector-grafico {
+    padding: 8px 12px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Espacios */
+.espacio {
+    margin: 120px 0;
+}
+
+.espacio-preguntas{
+    margin: 30px 0;
 }

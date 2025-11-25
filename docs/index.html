@@ -1,99 +1,336 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Streaming inteligente: Eligiendo la mejor plataforma</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
 
-</head>
-<body> 
+    <head>
+        <title>Streaming inteligente: Eligiendo la mejor plataforma</title>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+    </head>
 
-<div class="layout">
-    <div class="sidebar-izquierda">
-        <a href="#inicio">Inicio</a>
-        <a href="#objetivos">Objetivos</a>
-        <a href="#analisis">Análisis</a>
-        <a href="#conclusiones">Conclusiones</a>
+    <body> 
+         <!-- Layot Principal -->
+        <div class="layout">
+
+            <!-- Sidebar Izquierda -->
+            <div class="sidebar-izquierda">
+                <a href="#inicio">Inicio</a>
+                <a href="#objetivos">Objetivos</a>
+                <a href="#analisis">Análisis</a>
+
+                <div class="subpreguntas">
+                    <a href="#pregunta1">Pregunta 1</a>
+                    <a href="#pregunta2">Pregunta 2</a>
+                    <a href="#pregunta3">Pregunta 3</a>
+                    <a href="#pregunta4">Pregunta 4</a>
+                    <a href="#pregunta5">Pregunta 5</a>
+                    <a href="#pregunta6">Pregunta 6</a>
+                    <a href="#pregunta7">Pregunta 7</a>
+                    <a href="#pregunta8">Pregunta 8</a>
+                </div>
+
+                <a href="#conclusiones">Conclusiones</a>
+            </div>
+
+            <!-- Seccion Media -->
+            <div class="div-info">
+
+                <!-- Seccion Inicio-->
+                <h1 id="inicio">Streaming inteligente: Eligiendo la mejor plataforma</h1>
+                <p>
+                    Nuestro proyecto da relevancia a un tema que notamos que suele ser un debate muy común hoy en día,
+                    e incluso nosotros mismos lo tenemos. El tema surgió cuando nos dimos cuenta de que todos compartíamos
+                    un gusto en común: ver películas. Sin embargo, nos percatamos de un problema frecuente: existe una
+                    gran variedad de plataformas de streaming, pero no siempre sabemos cuál elegir, ya que cada una tiene
+                    algo especial que nos hace inclinarnos hacia ella, aunque no necesariamente sea la mejor opción,
+                    ya sea por preferencias personales o por motivos económicos.
+                </p>
+
+                <p>
+                    Por eso mismo, quisimos investigar en base a qué se guía la gente hoy en día al momento de elegir una
+                    plataforma de streaming. Visitamos varias páginas de noticias y foros de discusión; entre ellos, destacamos
+                    una conversación en Reddit, donde observamos que las personas tienden a elegir distintas plataformas
+                    según diversos aspectos. Puedes ver esa discusión aquí:
+                    <a
+                    href="https://www.reddit.com/r/television/comments/1ju49ae/which_streaming_service_overall_is_the_best_in/?tl=es-419"
+                    target="_blank">
+                            Discusión en Reddit
+                    </a>.
+                    Como se ve en los comentarios, algunas personas se guían por la calidad de las películas o series, otras por
+                    la cantidad de contenido disponible y otras por los precios.
+                </p>
+
+                <p>
+                    Asimismo, notamos que algunos sitios de recomendación se enfocan más en la cantidad de títulos y los precios
+                    que en la calidad del contenido u otros factores que también son decisivos a la hora de elegir una plataforma.
+                    Un ejemplo de esto es el siguiente sitio:
+                    <a href="https://www.rastreator.com/telefonia/guias/plataformas-streaming" target="_blank">
+                        Guía de plataformas de streaming
+                    </a>
+                </p>
+
+                <p>
+                    Por ello, decidimos analizar estas opciones desde diferentes perspectivas: desde quienes priorizan la calidad
+                    sobre la cantidad de títulos, hasta quienes buscan una opción más familiar o económica.
+                </p>
+
+            <div class="espacio"></div>
+
+            <!-- Sección Objetivos -->
+            <h1 id="objetivos">Objetivos</h1>
+            <p>
+                Este proyecto analiza de manera total las principales plataformas de streaming con el objetivo de
+                identificar cuál ofrece una mejor experiencia considerando precio, catálogo y calidad general. A
+                partir del procesamiento y exploración del conjunto de datos, se evalúan aspectos como la cantidad
+                total de películas disponibles, la diversidad de géneros, la distribución por año de lanzamiento,
+                la calidad promedio medida por ratings y la presencia de contenido familiar. También se consideran
+                elementos contextuales, como los precios de suscripción, para complementar la comparación entre
+                plataformas. El análisis busca entregar una visión clara, estructurada y basada en evidencia que
+                permita orientar la elección de la plataforma más conveniente según los intereses y preferencias
+                de cada usuario.
+            </p>
+
+            <h2>Preguntas de Investigación</h2>
+            <ul>
+                <li>
+                    ¿Qué plataforma presenta mayor cantidad de películas?
+                </li>
+                <li>
+                    ¿Cuál es la plataforma que tiene mayor variedad de géneros?
+                </li>
+                <li>
+                    ¿Cuál es la plataforma que presenta mayor cantidad de películas actuales
+                    y cuál la que concentra más películas antiguas en su catálogo?
+                </li>
+                <li>
+                    ¿Cuál es la plataforma que concentra la mayor cantidad de películas con
+                    mejores calificaciones?
+                </li>
+                <li>
+                    ¿Qué actores se repiten más en el catálogo de cada plataforma?
+                </li>
+                <li>
+                    ¿Qué directores se repiten más en el catálogo de cada plataforma?
+                </li>
+                <li>
+                    ¿Se puede crear un modelo de aprendizaje supervisado que, a partir de las
+                    características de cada película, prediga si pertenece a una plataforma buena,
+                    media o mala en relación a calidad/precio?
+                </li>
+                <li>
+                    Si una persona quiere contratar un plan para su familia (la cual tiene infantes),
+                    ¿qué plataforma le recomendarías?
+                </li>
+            </ul>
+
+            <div class="espacio"></div>
+
+            <!-- Sección Análisis -->
+            <h1 id="analisis">Análisis</h1>
+
+            <!-- Pregunta 1 -->
+            <h2 id="pregunta1">Pregunta 1. ¿Qué plataforma presenta mayor cantidad de películas?</h2>
+            <p>
+                Para responder a esta pregunta, nuestro método estadístico utilizado fue conteo y 
+                frecuencia absoluta, utilizando así la función count() de Pandas después de agrupar 
+                por groupby() a través de la variable categórica 'Platform'. Se eligió este método 
+                ya que es el más directo para conseguir el total de los catálogos.
+            </p>
+
+            <p>
+                Prime Video sobresale significativamente superando las 7.000, lo que duplica el catálogo de Netflix quien
+                queda en segundo lugar, y supera por mucho al resto.
+            </p>
+
+            <img src="img/Pregunta1.png" class="grafico">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 2 -->
+
+            <h2 id="pregunta2">Pregunta 2. ¿Cuál es la plataforma que tiene mayor variedad de géneros?</h2>
+            <p>
+                Analizamos la distribución de películas entre todos los géneros disponibles, así, 
+                definimos la plataforma con la distribución de géneros más equilibrada como la más 
+                adecuada para el usuario, ya que le ofrece una variedad de opciones mayor.
+            </p>
+
+            <p>
+                Todas las plataformas se mantienen en un rango de 20–25 géneros, con Netflix levemente por encima
+            </p>
+
+            <img src="img/Pregunta2.png" class="grafico">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 3 -->
+            
+            <h2 id="pregunta3">
+                Pregunta 3. ¿Cuál es la plataforma que presenta mayor cantidad de películas actuales y cuál la que
+                concentra más películas antiguas en su catálogo?
+            </h2>
+
+            <p>
+                Se utilizó un criterio de umbral temporal para determinar qué películas se consideran
+                como antiguas y cuáles se consideran como actuales. Esta filtración, que usa los años
+                como parámetro, se hizo con el fin evaluar bien el catálogo de cada plataforma. De esta
+                forma, se puede hacer un análisis de tendencias históricas entre las distintas plataformas.
+            </p>
+
+            <p>
+                Prime domina la mayoría de las décadas, tanto en contenido antiguo como reciente, aunque en el
+                período más actual (2023–2025) la ventaja recae en Netflix.
+            </p>
+
+
+            <select id="selector-grafico-p3" class="selector-grafico">
+                <option value="img/Pregunta3.png">Cada Decada</option>
+                <option value="img/Pregunta3_5.png">Cada 5 años</option>
+                <option value="img/Pregunta3_2020_2025.png">2020-2025</option>
+                <option value="img/Pregunta3_2010_2019.png">2010-2019</option>
+                <option value="img/Pregunta3_2000_2009.png">2000-2009</option>
+                <option value="img/Pregunta3_1980_1999.png">1980-1989</option>
+                <option value="img/Pregunta3_1960_1979.png">1960-1979</option>
+                <option value="img/Pregunta3_1940_1959.png">1940-1959</option>
+                <option value="img/Pregunta3_1920_1939.png">1920-1939</option>
+            </select>
+
+            <img src="img/Pregunta3.png" class="grafico" id="grafico-p3">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 4 -->
+            
+            <h2 id="pregunta4">
+                Pregunta 4. ¿Cuál es la plataforma que concentra la mayor cantidad de películas con mejores calificaciones?
+            </h2>
+
+            <p>
+                Se volvió a establecer un umbral, pero ahora de calidad (usando, en este caso, el rating).
+                Se eligió para ver la calidad respecto a la cantidad de películas. Así, resulta más fácil
+                verificar la relación entre cada catálogo y su respectiva concentración de calidad.
+            </p>
+
+            <img src="img/Pregunta4.png" class="grafico">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 5 -->
+            
+            <h2 id="pregunta5">Pregunta 5. ¿Qué actores se repiten más en el catálogo de cada plataforma?</h2>
+
+            <p>
+                Se respondió esta pregunta a través de un análisis de frecuencia de los actores y actrices.
+                Primero, se filtraron los nombres de las columnas correspondientes y, posteriormente, se
+                aplica la función *value_counts()* sobre el DataFrame resultante. Se utilizó esta técnica
+                gracias a que permite medir la preferencia de cada plataforma por ciertos actores.
+            </p>
+
+            <select class="selector-grafico" id="selector-grafico-p5">
+                <option value="img/Pregunta_5_Disney.png">Disney+</option>
+                <option value="img/Pregunta_5_Hulu.png">Hulu</option>
+                <option value="img/Pregunta_5_Max.png">HBO Max</option>
+                <option value="img/Pregunta_5_Netflix.png">Netflix</option>
+                <option value="img/Pregunta_5_Paramount.png">Paramount+</option>
+                <option value="img/Pregunta_5_Prime.png">Prime Video</option>
+            </select>
+
+            <img src="img/Pregunta_5_Disney.png" class="grafico" id="grafico-p5">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 6 -->
+
+            <h2 id="pregunta6">Pregunta 6. ¿Qué directores se repiten más en el catálogo de cada plataforma?</h2>
+
+            <p>
+                El procedimiento realizado para responder esta pregunta es el mismo que en la anterior.
+            </p>
+
+            <img src="img/Pregunta6.png" class="grafico">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 7 -->
+
+            <h2 id="pregunta7">
+                Pregunta 7. ¿Se puede crear un modelo de aprendizaje supervisado que, a partir de las 
+                características de cada película, prediga si pertenece a una plataforma buena, media o
+                mala en relación a calidad/precio?
+            </h2>
+
+            <p>
+                En pos de responder a esta pregunta, se dio uso a un modelamiento predictivo de clasificación.
+                Pasamos de un análisis descriptivo a predictivo. Este modelo es viable si la <u>variable
+                objetivo (*Y*)</u> es la clasificación ("buena", "media", "mala") y las <u>variables predictoras
+                (*X*)</u> vendrían siendo las características de las películas (rating, género u otras).
+                El éxito se evaluó con métricas como <u>Precisión</u>, <u>Recall</u>, <u>F1-Score</u> y la
+                <u>Matriz de Confusión</u>.
+            </p>
+
+            <p>
+                El modelo supervisado obtuvo un rendimiento moderado, con métricas cercanas a 0.63 y un
+                comportamiento estable. La matriz de confusión revela un sesgo notable hacia la categoría
+                "Media", lo que dificulta distinguir correctamente entre "Buena" y "Mala". Además, se
+                observa que la popularidad de las películas (numVotes) pesa más en la predicción que el
+                rating promedio. Aún con estas limitaciones, el modelo ofrece una primera aproximación útil
+                para clasificar plataformas por calidad/precio, siendo Paramount+ la mejor evaluada.
+            </p>
+
+            <img src="img/Pregunta7.png" id="grafico7">
+
+            <div class="espacio-preguntas"></div>
+
+            <!-- Pregunta 8 -->
+
+            <h2 id="pregunta8">
+                Pregunta 8. Si una persona quiere contratar un plan para su familia (la cual tiene infantes),
+                ¿qué plataforma le recomendarías?
+            </h2>
+
+            <p>
+                Al realizar esta recomendación, le hemos dado prioridad a la cantidad de contenido familiar
+                de cada catálogo cuya calidad promedio sea mayor al resto. Así, al compararlo con el precio
+                de suscripción, obtenemos una opción óptima para efectos de cantidad de contenido, calidad
+                del mismo y el costo
+            </p>
+
+            <p>
+                Disney+ y Prime Video compiten en peliculas con buen rating (mayor a 7), pero Prime termina ganando
+                debido a su cantidad total de peliculas de esta categoria y su menor precio de mensualidad
+            </p>
+
+            <img src="img/Pregunta8.png" class="grafico">
+
+            <div class="espacio"></div>
+
+            <!-- Sección Conclusiones -->
+            <h1 id="conclusiones">Conclusiones</h1>
+            <p>Aquí escribes tus conclusiones finales.</p>
+        </div>
+
+
+        <!-- Sidebar Derecha-->
+        <div class="sidebar-derecha">
+            <a href="https://www.disneyplus.com/es-cl" target="_blank">
+                <img src="img/disney9.jpg" class="img-derecha">
+            </a>
+            <a href="https://www.hbomax.com/cl/es" target="_blank">
+                <img src="img/hbo9.webp" class="img-derecha">
+            </a>
+            <a href="https://www.disneyplus.com/es-cl" target="_blank">
+                <img src="img/hulu9.webp" class="img-derecha">
+            </a>
+            <a href="https://www.netflix.com/cl/" target="_blank">
+                <img src="img/netflix9.jpg" class="img-derecha">
+            </a>
+            <a href="https://www.paramountplus.com/cl/" target="_blank">
+                <img src="img/paramount9.webp" class="img-derecha">
+            </a>
+            <a href="https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root" target="_blank">
+                <img src="img/prime9.webp" class="img-derecha">
+            </a>
+        </div>
     </div>
-
-    <div class="div-info">
-    <h1 id="inicio">Streaming inteligente: Eligiendo la mejor plataforma</h1>
-    <p>
-        Nuestro proyecto da relevancia a un tema que notamos que suele ser un debate muy común hoy en día,
-        e incluso nosotros mismos lo tenemos. El tema surgió cuando nos dimos cuenta de que todos compartíamos
-        un gusto en común: ver películas. Sin embargo, nos percatamos de un problema frecuente: existe una
-        gran variedad de plataformas de streaming, pero no siempre sabemos cuál elegir, ya que cada una tiene
-        algo especial que nos hace inclinarnos hacia ella, aunque no necesariamente sea la mejor opción,
-        ya sea por preferencias personales o por motivos económicos.
-    </p>
-
-    <p>
-        Por eso mismo, quisimos investigar en base a qué se guía la gente hoy en día al momento de elegir una
-        plataforma de streaming. Visitamos varias páginas de noticias y foros de discusión; entre ellos, destacamos
-        una conversación en Reddit, donde observamos que las personas tienden a elegir distintas plataformas
-        según diversos aspectos. Puedes ver esa discusión aquí:
-        <a href="https://www.reddit.com/r/television/comments/1ju49ae/which_streaming_service_overall_is_the_best_in/?tl=es-419"
-            target="_blank">
-                Discusión en Reddit
-        </a>.
-    Como se ve en los comentarios, algunas personas se guían por la calidad de las películas o series, otras por
-    la cantidad de contenido disponible y otras por los precios.
-    </p>
-
-    <p>
-        Asimismo, notamos que algunos sitios de recomendación se enfocan más en la cantidad de títulos y los precios
-        que en la calidad del contenido u otros factores que también son decisivos a la hora de elegir una plataforma.
-        Un ejemplo de esto es el siguiente sitio:
-        <a href="https://www.rastreator.com/telefonia/guias/plataformas-streaming" target="_blank">
-        Guía de plataformas de streaming
-        </a>
-    </p>
-
-    <p>
-        Por ello, decidimos analizar estas opciones desde diferentes perspectivas: desde quienes priorizan la calidad
-        sobre la cantidad de títulos, hasta quienes buscan una opción más familiar o económica.
-    </p>
-
-    <!-- Sección Objetivos -->
-    <h1 id="objetivos">Objetivos</h1>
-    <p>
-        Este proyecto analiza de manera total las principales plataformas de streaming con el objetivo de identificar cuál ofrece una mejor experiencia
-        considerando precio, catálogo y calidad general. A partir del procesamiento y exploración del conjunto de datos, se evalúan aspectos como la
-        cantidad total de películas disponibles, la diversidad de géneros, la distribución por año de lanzamiento, la calidad promedio medida por ratings y
-        la presencia de contenido familiar. También se consideran elementos contextuales, como los precios de suscripción, para complementar la comparación entre plataformas.
-        El análisis busca entregar una visión clara, estructurada y basada en evidencia que permita orientar la elección de la plataforma más conveniente según los intereses
-        y preferencias de cada usuario.
-    </p>
-
-    <h2>Preguntas de Investigación</h2>
-    <ul>
-        <li>¿Qué plataforma presenta mayor cantidad de películas?</li>
-        <li>¿Cuál es la plataforma que tiene mayor variedad de géneros?</li>
-        <li>¿Cuál es la plataforma que presenta mayor cantidad de películas actuales y cuál la que concentra más películas antiguas en su catálogo?</li>
-        <li>¿Cuál es la plataforma que concentra la mayor cantidad de películas con mejores calificaciones?</li>
-        <li>¿Qué actores se repiten más en el catálogo de cada plataforma?</li>
-        <li>¿Qué directores se repiten más en el catálogo de cada plataforma?</li>
-        <li>¿Se puede crear un modelo de aprendizaje supervisado que, a partir de las características de cada película, prediga si pertenece a una plataforma buena, media o mala en relación a calidad/precio?</li>
-        <li>Si una persona quiere contratar un plan para su familia (la cual tiene infantes), ¿qué plataforma le recomendarías?</li>
-    </ul>
-
-     <!-- Sección Análisis -->
-    <h1 id="analisis">Análisis</h1>
-    <p>Aquí va el análisis de plataformas.</p>
-
-<!-- Sección Conclusiones -->
-    <h1 id="conclusiones">Conclusiones</h1>
-    <p>Aquí escribes tus conclusiones finales.</p>
-    </div>
-
-    <div class="sidebar-derecha">
-        <img src="img/disney.jpg" class="img-derecha">
-        <img src="img/hbo.jpg" class="img-derecha">
-        <img src="img/hulu.jpg" class="img-derecha">
-        <img src="img/netflix.svg" class="img-derecha">
-        <img src="img/paramount.png" class="img-derecha">
-        <img src="img/prime.webp" class="img-derecha">
-    </div>
-</div>
 </body>
 </html>
