@@ -1,4 +1,5 @@
 # Proyecto Grupo 18.
+## Pagina Web: https://jlevipil.github.io/Proyecto-Grupo-18/
 ## Streaming inteligente. Eligiendo la mejor plataforma para ver películas
 Este proyecto busca identificar cuál plataforma de streaming ofrece la mejor relación entre calidad y precio, considerando tanto el costo mensual como la amplitud, diversidad y calidad del catálogo disponible. La motivación surge del crecimiento acelerado del mercado del streaming, donde muchos usuarios mantienen más de una suscripción sin evaluar si realmente están obteniendo un valor adecuado por su gasto. Dado que gran parte del contenido se repite entre servicios y que la oferta total puede ser difícil de comparar, este análisis pretende entregar una visión clara y basada en datos para facilitar una decisión informada.
 
